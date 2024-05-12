@@ -1,5 +1,4 @@
 import csv
-import re
 import time
 from urllib.parse import unquote
 
@@ -16,6 +15,10 @@ csv_writer.writerow(['id', 'name', 'category', 'review_count', 'address', 'ratin
 menu_csv_file = open('menus.csv', mode='w', newline='', encoding='utf-8')
 menu_csv_writer = csv.writer(menu_csv_file)
 menu_csv_writer.writerow(['restaurant_id', 'menu_name', 'price', 'description', 'is_representative', 'image_url'])
+
+operation_csv_file = open('operations.csv', mode='w', newline='', encoding='utf-8')
+operation_csv_writer = csv.writer(operation_csv_file)
+operation_csv_writer.writerow(['restaurant_id', 'restaurant_name', 'day', 'info'])
 
 options = Options()
 options.add_argument("--disable-blink-features=AutomationControlled")
@@ -38,22 +41,28 @@ driver.switch_to.frame(searchIFrame)
 time.sleep(1)
 
 restaurant_id = 1
-for _ in range(3):  # 4페이지까지
+for p in range(4):  # 4페이지까지
     scrollable_div = driver.find_element(By.CSS_SELECTOR, "div.mFg6p")
 
     scroll_div = driver.find_element(By.XPATH, "/html/body/div[3]/div/div[2]/div[1]")
-    for _ in range(10):
+    restaurant_names = set()
+    restaurant_categories = set()
+    reviews = set()
+    for _ in range(12):
         driver.execute_script("arguments[0].scrollBy(0,2000);", scroll_div)
-        time.sleep(2)
+        time.sleep(1)
 
-    restaurant_names = driver.find_elements(By.XPATH, "//ul/li/div[1]/a[1]/div/div/span[1]")
+    restaurant_names = driver.find_elements(By.XPATH, "//span[contains(@class, 'place_bluelink')]")
     restaurant_categories = driver.find_elements(By.XPATH, "//div[@class='N_KDL']//span[@class='KCMnt']")
     reviews = driver.find_elements(By.XPATH, "//div[contains(@class, 'Dr_06')]//span[@class='h69bs']")
+
+    print(len(restaurant_names), len(restaurant_categories), len(reviews), restaurant_names[10].text)
 
     for i, name in enumerate(restaurant_names):
         review = reviews[i].text.replace("리뷰 ", "")
         category = restaurant_categories[i].text.replace("\"", "")
-        print(name.text, category, review)
+        name_text = name.text
+        print(i, name_text, category, review)
 
         name.click()
         time.sleep(1)
@@ -61,15 +70,18 @@ for _ in range(3):  # 4페이지까지
         driver.switch_to.default_content()
         time.sleep(1)
         driver.switch_to.frame(driver.find_element(By.CSS_SELECTOR, "iframe#entryIframe"))
-        time.sleep(1)
+        time.sleep(1.5)
 
-        driver.find_element(By.CLASS_NAME, "_UCia").click()  # 주소 자세히 클릭
-        time.sleep(1)
+        try:
+            driver.find_element(By.CLASS_NAME, "_UCia").click()  # 주소 자세히 클릭
+            time.sleep(1)
 
-        address = driver.find_element(By.CLASS_NAME, "nQ7Lh").text
-        address = address.replace("복사", "")
-        address = address.replace("도로명", "")
-        print(address)
+            address = driver.find_element(By.CLASS_NAME, "nQ7Lh").text
+            address = address.replace("복사", "")
+            address = address.replace("도로명", "")
+            print(address)
+        except:
+            address = ""
 
         try:
             rating = driver.find_element(By.CLASS_NAME, "LXIwF").text.split("\n")[1]
@@ -83,15 +95,35 @@ for _ in range(3):  # 4페이지까지
 
         try:
             style_attribute = driver.find_element(By.XPATH, "//div[contains(@class, 'K0PDV')]").get_attribute('style')
-            match = re.search(r'url\("([^"]+)"\)', style_attribute)
-            if match:
-                image_url = match.group(1)
-            else:
-                image_url = ""
-        except:
-            image_url = ""
+            restaurant_image_url = unquote(style_attribute.split('url("')[1].split('")')[0])
+        except Exception as e:
+            print(e, "이미지 없음")
+            restaurant_image_url = ""
 
-        print(rating, number, image_url)
+        print(rating, number, restaurant_image_url)
+
+        try:
+            driver.find_element(By.CLASS_NAME, 'nmfMK').click()
+            time.sleep(1)
+        except:
+            print()
+
+        try:
+            driver.find_element(By.CSS_SELECTOR, 'a.gKP9i.RMgN0').click()  # 영업 정보 클릭
+            time.sleep(2)
+
+            hours_info_elements = driver.find_elements(By.CSS_SELECTOR, 'div.w9QyJ > div.y6tNq > span.A_cdD')
+
+            # 영업 시간 정보 추출 및 CSV 파일에 쓰기
+            for info in hours_info_elements:
+                text = info.text
+                lines = text.split("\n")
+                day = lines[0]
+                info_text = "\n".join(lines[1:])
+
+                operation_csv_writer.writerow([restaurant_id, name_text, day, info_text])
+        except:
+            operation_csv_writer.writerow([restaurant_id, name_text, "", ""])
 
         try:
             driver.execute_script("document.querySelector('a[href*=\"/menu\"]').click();")  # 메뉴 클릭
@@ -145,7 +177,7 @@ for _ in range(3):  # 4페이지까지
         driver.switch_to.frame(searchIFrame)
         time.sleep(1)
 
-        csv_writer.writerow([restaurant_id, name.text, category, review, address, rating, number, image_url])
+        csv_writer.writerow([restaurant_id, name_text, category, review, address, rating, number, restaurant_image_url])
 
         for menu in menus:
             menu_csv_writer.writerow(
@@ -158,3 +190,5 @@ for _ in range(3):  # 4페이지까지
     time.sleep(2)
 
 csv_file.close()
+menu_csv_file.close()
+operation_csv_file.close()
