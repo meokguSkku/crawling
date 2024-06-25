@@ -68,7 +68,6 @@ for p in range(4):  # 4페이지까지
         name_text = name.text
         print(i, name_text, category, review)
 
-        time.sleep(1)
         name.click()
         time.sleep(1)
 
