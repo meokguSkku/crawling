@@ -195,7 +195,7 @@ for p in range(4):  # 4페이지까지
             review_contents = []
         visitor_reviews = []
 
-        # 각 메뉴 요소에 대하여 정보 추출
+        # 각 리뷰 요소에 대하여 정보 추출
         for review_content in review_contents:
             review_name = review_content.find_element(By.CSS_SELECTOR, '.t3JSf').text.strip('"""').strip()  # 리뷰 내용
             try:
