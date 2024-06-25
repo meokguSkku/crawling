@@ -20,6 +20,10 @@ operation_csv_file = open('operations.csv', mode='w', newline='', encoding='utf-
 operation_csv_writer = csv.writer(operation_csv_file)
 operation_csv_writer.writerow(['restaurant_id', 'restaurant_name', 'day', 'info'])
 
+review_csv_file = open('review_csv_file.csv', mode='w', newline='', encoding='utf-8')
+review_csv_writer = csv.writer(review_csv_file)
+review_csv_writer.writerow(['restaurant_id', 'review_name', 'review_count'])
+
 options = Options()
 options.add_argument("--disable-blink-features=AutomationControlled")
 
@@ -34,7 +38,7 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), opti
 
 url = "https://map.naver.com/p/search/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%EC%97%AD%20%EC%9D%8C%EC%8B%9D%EC%A0%90?c=15.00,0,0,0,dh"
 driver.get(url)
-time.sleep(6)
+time.sleep(30)
 
 searchIFrame = driver.find_element(By.CSS_SELECTOR, "iframe#searchIframe")
 driver.switch_to.frame(searchIFrame)
@@ -48,15 +52,15 @@ for p in range(4):  # 4페이지까지
     restaurant_names = set()
     restaurant_categories = set()
     reviews = set()
-    for _ in range(12):
-        driver.execute_script("arguments[0].scrollBy(0,2000);", scroll_div)
-        time.sleep(1)
+    # for _ in range(12):
+    #     driver.execute_script("arguments[0].scrollBy(0,2000);", scroll_div)
+    #     time.sleep(1)
 
     restaurant_names = driver.find_elements(By.XPATH, "//span[contains(@class, 'place_bluelink')]")
     restaurant_categories = driver.find_elements(By.XPATH, "//div[@class='N_KDL']//span[@class='KCMnt']")
     reviews = driver.find_elements(By.XPATH, "//div[contains(@class, 'Dr_06')]//span[@class='h69bs']")
 
-    print(len(restaurant_names), len(restaurant_categories), len(reviews), restaurant_names[10].text)
+    print(len(restaurant_names), len(restaurant_categories), len(reviews))
 
     for i, name in enumerate(restaurant_names):
         review = reviews[i].text.replace("리뷰 ", "")
@@ -64,11 +68,12 @@ for p in range(4):  # 4페이지까지
         name_text = name.text
         print(i, name_text, category, review)
 
+        time.sleep(10)
         name.click()
         time.sleep(1)
 
         driver.switch_to.default_content()
-        time.sleep(1)
+        time.sleep(30)
         driver.switch_to.frame(driver.find_element(By.CSS_SELECTOR, "iframe#entryIframe"))
         time.sleep(1.5)
 
@@ -172,16 +177,59 @@ for p in range(4):  # 4페이지까지
                 "이미지 URL": image_url,
             })
 
-        driver.switch_to.default_content()
-        time.sleep(1)
-        driver.switch_to.frame(searchIFrame)
-        time.sleep(1)
-
         csv_writer.writerow([restaurant_id, name_text, category, review, address, rating, number, restaurant_image_url])
 
         for menu in menus:
             menu_csv_writer.writerow(
                 [restaurant_id, menu["메뉴 이름"], menu["가격"], menu["설명"], menu["대표 여부"], menu["이미지 URL"]])
+
+        try:
+            driver.execute_script("document.querySelector('a[href*=\"/review\"]').click();")  # 리뷰 클릭
+            time.sleep(5)
+
+            more_details = driver.find_elements(By.CSS_SELECTOR, 'svg.EhXBV')
+            more_details[1].click()
+
+            review_contents = driver.find_elements(By.CSS_SELECTOR, 'li.MHaAm')
+        except:
+            review_contents = []
+        visitor_reviews = []
+
+        # 각 메뉴 요소에 대하여 정보 추출
+        for review_content in review_contents:
+            review_name = review_content.find_element(By.CSS_SELECTOR, '.t3JSf').text.strip('"""').strip()  # 리뷰 내용
+            try:
+                review_count = review_content.find_element(By.CSS_SELECTOR, '.CUoLy').text.split("\n")[1]  # 리뷰 갯수
+            except:
+                review_count = "-1"
+
+            # 이미지 URL 추출
+            try:
+                image_style = review_content.find_element(By.CSS_SELECTOR, '.K0PDV').get_attribute('style')
+                image_url = unquote(image_style.split('url("')[1].split('")')[0])
+            except:
+                image_url = ""
+
+            # 정보를 리스트에 저장
+            visitor_reviews.append({
+                "리뷰 내용": review_name,
+                "리뷰 갯수": review_count,
+            })
+            print({
+                "리뷰 내용": review_name,
+                "리뷰 갯수": review_count,
+            })
+
+        csv_writer.writerow([restaurant_id, review_name, review_count])
+
+        for visitor_review in visitor_reviews:
+            review_csv_writer.writerow(
+                [restaurant_id, visitor_review["리뷰 내용"], visitor_review["리뷰 갯수"]])
+
+        driver.switch_to.default_content()
+        time.sleep(1)
+        driver.switch_to.frame(searchIFrame)
+        time.sleep(1)
 
         restaurant_id += 1
 
