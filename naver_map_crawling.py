@@ -38,7 +38,7 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), opti
 
 url = "https://map.naver.com/p/search/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%EC%97%AD%20%EC%9D%8C%EC%8B%9D%EC%A0%90?c=15.00,0,0,0,dh"
 driver.get(url)
-time.sleep(30)
+time.sleep(6)
 
 searchIFrame = driver.find_element(By.CSS_SELECTOR, "iframe#searchIframe")
 driver.switch_to.frame(searchIFrame)
@@ -52,9 +52,9 @@ for p in range(4):  # 4페이지까지
     restaurant_names = set()
     restaurant_categories = set()
     reviews = set()
-    # for _ in range(12):
-    #     driver.execute_script("arguments[0].scrollBy(0,2000);", scroll_div)
-    #     time.sleep(1)
+    for _ in range(12):
+        driver.execute_script("arguments[0].scrollBy(0,2000);", scroll_div)
+        time.sleep(1)
 
     restaurant_names = driver.find_elements(By.XPATH, "//span[contains(@class, 'place_bluelink')]")
     restaurant_categories = driver.find_elements(By.XPATH, "//div[@class='N_KDL']//span[@class='KCMnt']")
@@ -68,12 +68,12 @@ for p in range(4):  # 4페이지까지
         name_text = name.text
         print(i, name_text, category, review)
 
-        time.sleep(10)
+        time.sleep(1)
         name.click()
         time.sleep(1)
 
         driver.switch_to.default_content()
-        time.sleep(30)
+        time.sleep(1)
         driver.switch_to.frame(driver.find_element(By.CSS_SELECTOR, "iframe#entryIframe"))
         time.sleep(1.5)
 
@@ -190,6 +190,7 @@ for p in range(4):  # 4페이지까지
             more_details = driver.find_elements(By.CSS_SELECTOR, 'svg.EhXBV')
             more_details[1].click()
 
+            time.sleep(2)
             review_contents = driver.find_elements(By.CSS_SELECTOR, 'li.MHaAm')
         except:
             review_contents = []
@@ -203,22 +204,16 @@ for p in range(4):  # 4페이지까지
             except:
                 review_count = "-1"
 
-            # 이미지 URL 추출
-            try:
-                image_style = review_content.find_element(By.CSS_SELECTOR, '.K0PDV').get_attribute('style')
-                image_url = unquote(image_style.split('url("')[1].split('")')[0])
-            except:
-                image_url = ""
-
-            # 정보를 리스트에 저장
-            visitor_reviews.append({
-                "리뷰 내용": review_name,
-                "리뷰 갯수": review_count,
-            })
-            print({
-                "리뷰 내용": review_name,
-                "리뷰 갯수": review_count,
-            })
+            if int(review_count)>=50:
+                # 정보를 리스트에 저장
+                visitor_reviews.append({
+                    "리뷰 내용": review_name,
+                    "리뷰 갯수": review_count,
+                })
+                print({
+                    "리뷰 내용": review_name,
+                    "리뷰 갯수": review_count,
+                })
 
         csv_writer.writerow([restaurant_id, review_name, review_count])
 
