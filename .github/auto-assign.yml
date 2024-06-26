@@ -1,0 +1,14 @@
+addReviewers: true
+
+addAssignees: author
+
+reviewers:
+  - sinkyoungdeok
+  - goathoon
+  - lsc713
+  - Ting97ok
+
+numberOfReviewers: 0
+
+skipKeywords:
+  - wip
