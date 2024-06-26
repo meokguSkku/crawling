@@ -1,516 +1,501 @@
-id,url
-1,https://place.map.kakao.com/1874178690
-2,https://place.map.kakao.com/14567452
-3,https://place.map.kakao.com/881887666
-4,https://place.map.kakao.com/15818685
-5,https://place.map.kakao.com/27391641
-6,https://place.map.kakao.com/2130149558
-7,https://place.map.kakao.com/15508787
-8,https://place.map.kakao.com/1234555779
-9,https://place.map.kakao.com/10342295
-10,https://place.map.kakao.com/1399349565
-11,https://place.map.kakao.com/26948881
-12,https://place.map.kakao.com/21342132
-13,https://place.map.kakao.com/1986260055
-14,https://place.map.kakao.com/532875978
-15,https://place.map.kakao.com/76989512
-16,https://place.map.kakao.com/1874178690
-17,https://place.map.kakao.com/14567452
-18,https://place.map.kakao.com/881887666
-19,https://place.map.kakao.com/15818685
-20,https://place.map.kakao.com/27391641
-21,https://place.map.kakao.com/2130149558
-22,https://place.map.kakao.com/15508787
-23,https://place.map.kakao.com/1234555779
-24,https://place.map.kakao.com/10342295
-25,https://place.map.kakao.com/1399349565
-26,https://place.map.kakao.com/26948881
-27,https://place.map.kakao.com/21342132
-28,https://place.map.kakao.com/1986260055
-29,https://place.map.kakao.com/532875978
-30,https://place.map.kakao.com/76989512
-31,https://place.map.kakao.com/1874178690
-32,https://place.map.kakao.com/14567452
-33,https://place.map.kakao.com/881887666
-34,https://place.map.kakao.com/15818685
-35,https://place.map.kakao.com/27391641
-36,https://place.map.kakao.com/2130149558
-37,https://place.map.kakao.com/15508787
-38,https://place.map.kakao.com/1234555779
-39,https://place.map.kakao.com/10342295
-40,https://place.map.kakao.com/1399349565
-41,https://place.map.kakao.com/26948881
-42,https://place.map.kakao.com/21342132
-43,https://place.map.kakao.com/1986260055
-44,https://place.map.kakao.com/532875978
-45,https://place.map.kakao.com/76989512
-46,https://place.map.kakao.com/1676208114
-47,https://place.map.kakao.com/26858863
-48,https://place.map.kakao.com/20706332
-49,https://place.map.kakao.com/2142515097
-50,https://place.map.kakao.com/1681238250
-51,https://place.map.kakao.com/2019801909
-52,https://place.map.kakao.com/727780795
-53,https://place.map.kakao.com/27596356
-54,https://place.map.kakao.com/17180407
-55,https://place.map.kakao.com/1194567292
-56,https://place.map.kakao.com/23480275
-57,https://place.map.kakao.com/1551766058
-58,https://place.map.kakao.com/12091570
-59,https://place.map.kakao.com/1744478913
-60,https://place.map.kakao.com/1114147333
-61,https://place.map.kakao.com/1118339601
-62,https://place.map.kakao.com/140527598
-63,https://place.map.kakao.com/27436603
-64,https://place.map.kakao.com/2087728013
-65,https://place.map.kakao.com/529851956
-66,https://place.map.kakao.com/59378154
-67,https://place.map.kakao.com/21314103
-68,https://place.map.kakao.com/17155692
-69,https://place.map.kakao.com/1296555163
-70,https://place.map.kakao.com/1866533508
-71,https://place.map.kakao.com/15111969
-72,https://place.map.kakao.com/1706269697
-73,https://place.map.kakao.com/1938195034
-74,https://place.map.kakao.com/11823509
-75,https://place.map.kakao.com/745210904
-76,https://place.map.kakao.com/86770396
-77,https://place.map.kakao.com/1169735393
-78,https://place.map.kakao.com/26644198
-79,https://place.map.kakao.com/2064565238
-80,https://place.map.kakao.com/27436681
-81,https://place.map.kakao.com/22763262
-82,https://place.map.kakao.com/13300076
-83,https://place.map.kakao.com/234898457
-84,https://place.map.kakao.com/8641868
-85,https://place.map.kakao.com/27276923
-86,https://place.map.kakao.com/458201929
-87,https://place.map.kakao.com/22550444
-88,https://place.map.kakao.com/780108318
-89,https://place.map.kakao.com/377072176
-90,https://place.map.kakao.com/9153270
-91,https://place.map.kakao.com/86770396
-92,https://place.map.kakao.com/1169735393
-93,https://place.map.kakao.com/26644198
-94,https://place.map.kakao.com/2064565238
-95,https://place.map.kakao.com/27436681
-96,https://place.map.kakao.com/22763262
-97,https://place.map.kakao.com/13300076
-98,https://place.map.kakao.com/234898457
-99,https://place.map.kakao.com/8641868
-100,https://place.map.kakao.com/27276923
-101,https://place.map.kakao.com/458201929
-102,https://place.map.kakao.com/22550444
-103,https://place.map.kakao.com/780108318
-104,https://place.map.kakao.com/377072176
-105,https://place.map.kakao.com/9153270
-106,https://place.map.kakao.com/159313643
-107,https://place.map.kakao.com/766046626
-108,https://place.map.kakao.com/254631179
-109,https://place.map.kakao.com/12364442
-110,https://place.map.kakao.com/1037196364
-111,https://place.map.kakao.com/14707742
-112,https://place.map.kakao.com/163642613
-113,https://place.map.kakao.com/16171995
-114,https://place.map.kakao.com/1564913318
-115,https://place.map.kakao.com/346317197
-116,https://place.map.kakao.com/15698705
-117,https://place.map.kakao.com/1258111819
-118,https://place.map.kakao.com/24160437
-119,https://place.map.kakao.com/26924582
-120,https://place.map.kakao.com/853192658
-121,https://place.map.kakao.com/1460865891
-122,https://place.map.kakao.com/1500905935
-123,https://place.map.kakao.com/508508014
-124,https://place.map.kakao.com/1752110137
-125,https://place.map.kakao.com/266260479
-126,https://place.map.kakao.com/868755529
-127,https://place.map.kakao.com/1941692451
-128,https://place.map.kakao.com/27181404
-129,https://place.map.kakao.com/8516178
-130,https://place.map.kakao.com/520447689
-131,https://place.map.kakao.com/1578043317
-132,https://place.map.kakao.com/21390672
-133,https://place.map.kakao.com/479258379
-134,https://place.map.kakao.com/15809950
-135,https://place.map.kakao.com/26317358
-136,https://place.map.kakao.com/1590438587
-137,https://place.map.kakao.com/7907443
-138,https://place.map.kakao.com/11295900
-139,https://place.map.kakao.com/610741145
-140,https://place.map.kakao.com/14666115
-141,https://place.map.kakao.com/1049809557
-142,https://place.map.kakao.com/1638654664
-143,https://place.map.kakao.com/10397894
-144,https://place.map.kakao.com/2042897816
-145,https://place.map.kakao.com/27519582
-146,https://place.map.kakao.com/877155889
-147,https://place.map.kakao.com/24869509
-148,https://place.map.kakao.com/462951897
-149,https://place.map.kakao.com/971551511
-150,https://place.map.kakao.com/1837512260
-151,https://place.map.kakao.com/8799625
-152,https://place.map.kakao.com/21323790
-153,https://place.map.kakao.com/1665003130
-154,https://place.map.kakao.com/13581495
-155,https://place.map.kakao.com/1453260089
-156,https://place.map.kakao.com/797446683
-157,https://place.map.kakao.com/1315723828
-158,https://place.map.kakao.com/450307831
-159,https://place.map.kakao.com/261655717
-160,https://place.map.kakao.com/601434033
-161,https://place.map.kakao.com/25160402
-162,https://place.map.kakao.com/278807677
-163,https://place.map.kakao.com/25118762
-164,https://place.map.kakao.com/1531960250
-165,https://place.map.kakao.com/11226106
-166,https://place.map.kakao.com/8799625
-167,https://place.map.kakao.com/21323790
-168,https://place.map.kakao.com/1665003130
-169,https://place.map.kakao.com/13581495
-170,https://place.map.kakao.com/1453260089
-171,https://place.map.kakao.com/797446683
-172,https://place.map.kakao.com/1315723828
-173,https://place.map.kakao.com/450307831
-174,https://place.map.kakao.com/261655717
-175,https://place.map.kakao.com/601434033
-176,https://place.map.kakao.com/25160402
-177,https://place.map.kakao.com/278807677
-178,https://place.map.kakao.com/25118762
-179,https://place.map.kakao.com/1531960250
-180,https://place.map.kakao.com/11226106
-181,https://place.map.kakao.com/2065394692
-182,https://place.map.kakao.com/724821886
-183,https://place.map.kakao.com/1014093517
-184,https://place.map.kakao.com/8947912
-185,https://place.map.kakao.com/21323905
-186,https://place.map.kakao.com/243310751
-187,https://place.map.kakao.com/1361763675
-188,https://place.map.kakao.com/16014416
-189,https://place.map.kakao.com/324405971
-190,https://place.map.kakao.com/1830157990
-191,https://place.map.kakao.com/935640855
-192,https://place.map.kakao.com/9053975
-193,https://place.map.kakao.com/11813911
-194,https://place.map.kakao.com/922808226
-195,https://place.map.kakao.com/585080783
-196,https://place.map.kakao.com/2119673908
-197,https://place.map.kakao.com/1224099552
-198,https://place.map.kakao.com/17225323
-199,https://place.map.kakao.com/1579032099
-200,https://place.map.kakao.com/632468732
-201,https://place.map.kakao.com/24924013
-202,https://place.map.kakao.com/848146441
-203,https://place.map.kakao.com/274119991
-204,https://place.map.kakao.com/27344726
-205,https://place.map.kakao.com/2017609824
-206,https://place.map.kakao.com/1609558752
-207,https://place.map.kakao.com/582394902
-208,https://place.map.kakao.com/454412435
-209,https://place.map.kakao.com/219227261
-210,https://place.map.kakao.com/1507085310
-211,https://place.map.kakao.com/713486459
-212,https://place.map.kakao.com/27258679
-213,https://place.map.kakao.com/331363212
-214,https://place.map.kakao.com/1813246940
-215,https://place.map.kakao.com/1225809321
-216,https://place.map.kakao.com/11567579
-217,https://place.map.kakao.com/764374529
-218,https://place.map.kakao.com/1236230631
-219,https://place.map.kakao.com/1365016719
-220,https://place.map.kakao.com/1541357379
-221,https://place.map.kakao.com/265211549
-222,https://place.map.kakao.com/1209089174
-223,https://place.map.kakao.com/1665769841
-224,https://place.map.kakao.com/83246451
-225,https://place.map.kakao.com/892131283
-226,https://place.map.kakao.com/10560589
-227,https://place.map.kakao.com/1036685970
-228,https://place.map.kakao.com/10361687
-229,https://place.map.kakao.com/589138753
-230,https://place.map.kakao.com/2014258709
-231,https://place.map.kakao.com/160178955
-232,https://place.map.kakao.com/774922733
-233,https://place.map.kakao.com/20082356
-234,https://place.map.kakao.com/2047627551
-235,https://place.map.kakao.com/1649788863
-236,https://place.map.kakao.com/28718393
-237,https://place.map.kakao.com/1435052345
-238,https://place.map.kakao.com/333432190
-239,https://place.map.kakao.com/91485793
-240,https://place.map.kakao.com/438967509
-241,https://place.map.kakao.com/10560589
-242,https://place.map.kakao.com/1036685970
-243,https://place.map.kakao.com/10361687
-244,https://place.map.kakao.com/589138753
-245,https://place.map.kakao.com/2014258709
-246,https://place.map.kakao.com/160178955
-247,https://place.map.kakao.com/774922733
-248,https://place.map.kakao.com/20082356
-249,https://place.map.kakao.com/2047627551
-250,https://place.map.kakao.com/1649788863
-251,https://place.map.kakao.com/28718393
-252,https://place.map.kakao.com/1435052345
-253,https://place.map.kakao.com/333432190
-254,https://place.map.kakao.com/91485793
-255,https://place.map.kakao.com/438967509
-256,https://place.map.kakao.com/1119639144
-257,https://place.map.kakao.com/1433138261
-258,https://place.map.kakao.com/1611863174
-259,https://place.map.kakao.com/11634973
-260,https://place.map.kakao.com/770517610
-261,https://place.map.kakao.com/1498762960
-262,https://place.map.kakao.com/535761318
-263,https://place.map.kakao.com/1554019024
-264,https://place.map.kakao.com/1822626017
-265,https://place.map.kakao.com/26006530
-266,https://place.map.kakao.com/11062677
-267,https://place.map.kakao.com/205548870
-268,https://place.map.kakao.com/318332845
-269,https://place.map.kakao.com/929132172
-270,https://place.map.kakao.com/309707599
-271,https://place.map.kakao.com/15189345
-272,https://place.map.kakao.com/7985724
-273,https://place.map.kakao.com/1065627364
-274,https://place.map.kakao.com/1786427985
-275,https://place.map.kakao.com/1632334394
-276,https://place.map.kakao.com/1819325525
-277,https://place.map.kakao.com/27359340
-278,https://place.map.kakao.com/25933615
-279,https://place.map.kakao.com/1480272698
-280,https://place.map.kakao.com/453700382
-281,https://place.map.kakao.com/207326909
-282,https://place.map.kakao.com/1083342381
-283,https://place.map.kakao.com/2485731
-284,https://place.map.kakao.com/554066548
-285,https://place.map.kakao.com/570522076
-286,https://place.map.kakao.com/58385889
-287,https://place.map.kakao.com/1832804999
-288,https://place.map.kakao.com/637087679
-289,https://place.map.kakao.com/27438279
-290,https://place.map.kakao.com/18829773
-291,https://place.map.kakao.com/10894827
-292,https://place.map.kakao.com/899743322
-293,https://place.map.kakao.com/1695257281
-294,https://place.map.kakao.com/15508915
-295,https://place.map.kakao.com/1325470116
-296,https://place.map.kakao.com/453060892
-297,https://place.map.kakao.com/1198322826
-298,https://place.map.kakao.com/2139646226
-299,https://place.map.kakao.com/540536496
-300,https://place.map.kakao.com/19514248
-301,https://place.map.kakao.com/876599819
-302,https://place.map.kakao.com/179517302
-303,https://place.map.kakao.com/1650333127
-304,https://place.map.kakao.com/6215308
-305,https://place.map.kakao.com/4774511
-306,https://place.map.kakao.com/1243445015
-307,https://place.map.kakao.com/8683021
-308,https://place.map.kakao.com/1636782286
-309,https://place.map.kakao.com/1883192464
-310,https://place.map.kakao.com/575516645
-311,https://place.map.kakao.com/1453910980
-312,https://place.map.kakao.com/171778144
-313,https://place.map.kakao.com/19197657
-314,https://place.map.kakao.com/1443342149
-315,https://place.map.kakao.com/1689944735
-316,https://place.map.kakao.com/876599819
-317,https://place.map.kakao.com/179517302
-318,https://place.map.kakao.com/1650333127
-319,https://place.map.kakao.com/6215308
-320,https://place.map.kakao.com/4774511
-321,https://place.map.kakao.com/1243445015
-322,https://place.map.kakao.com/8683021
-323,https://place.map.kakao.com/1636782286
-324,https://place.map.kakao.com/1883192464
-325,https://place.map.kakao.com/575516645
-326,https://place.map.kakao.com/1453910980
-327,https://place.map.kakao.com/171778144
-328,https://place.map.kakao.com/19197657
-329,https://place.map.kakao.com/1443342149
-330,https://place.map.kakao.com/1689944735
-331,https://place.map.kakao.com/11517876
-332,https://place.map.kakao.com/1324929519
-333,https://place.map.kakao.com/2121491926
-334,https://place.map.kakao.com/656040666
-335,https://place.map.kakao.com/12364642
-336,https://place.map.kakao.com/1559930235
-337,https://place.map.kakao.com/1204144787
-338,https://place.map.kakao.com/887096776
-339,https://place.map.kakao.com/373045848
-340,https://place.map.kakao.com/690323283
-341,https://place.map.kakao.com/1233957944
-342,https://place.map.kakao.com/933917069
-343,https://place.map.kakao.com/1320563937
-344,https://place.map.kakao.com/78851879
-345,https://place.map.kakao.com/14541898
-346,https://place.map.kakao.com/228368455
-347,https://place.map.kakao.com/1756224594
-348,https://place.map.kakao.com/16748851
-349,https://place.map.kakao.com/765114919
-350,https://place.map.kakao.com/21359017
-351,https://place.map.kakao.com/27197463
-352,https://place.map.kakao.com/21339856
-353,https://place.map.kakao.com/1748640860
-354,https://place.map.kakao.com/794084189
-355,https://place.map.kakao.com/6789812
-356,https://place.map.kakao.com/1767899301
-357,https://place.map.kakao.com/1499744274
-358,https://place.map.kakao.com/1841647256
-359,https://place.map.kakao.com/75869816
-360,https://place.map.kakao.com/758364545
-361,https://place.map.kakao.com/2043902510
-362,https://place.map.kakao.com/143949936
-363,https://place.map.kakao.com/678887360
-364,https://place.map.kakao.com/1941750469
-365,https://place.map.kakao.com/293871984
-366,https://place.map.kakao.com/9426333
-367,https://place.map.kakao.com/19330963
-368,https://place.map.kakao.com/639520146
-369,https://place.map.kakao.com/1595695771
-370,https://place.map.kakao.com/1060897695
-371,https://place.map.kakao.com/104799387
-372,https://place.map.kakao.com/1618999358
-373,https://place.map.kakao.com/20807966
-374,https://place.map.kakao.com/27393012
-375,https://place.map.kakao.com/650605185
-376,https://place.map.kakao.com/1063493807
-377,https://place.map.kakao.com/1445473104
-378,https://place.map.kakao.com/1826932479
-379,https://place.map.kakao.com/18901771
-380,https://place.map.kakao.com/1156465218
-381,https://place.map.kakao.com/942742067
-382,https://place.map.kakao.com/1231799195
-383,https://place.map.kakao.com/837917693
-384,https://place.map.kakao.com/363053524
-385,https://place.map.kakao.com/26933551
-386,https://place.map.kakao.com/1440558147
-387,https://place.map.kakao.com/1991331080
-388,https://place.map.kakao.com/1672182177
-389,https://place.map.kakao.com/764671951
-390,https://place.map.kakao.com/23492395
-391,https://place.map.kakao.com/1063493807
-392,https://place.map.kakao.com/1445473104
-393,https://place.map.kakao.com/1826932479
-394,https://place.map.kakao.com/18901771
-395,https://place.map.kakao.com/1156465218
-396,https://place.map.kakao.com/942742067
-397,https://place.map.kakao.com/1231799195
-398,https://place.map.kakao.com/837917693
-399,https://place.map.kakao.com/363053524
-400,https://place.map.kakao.com/26933551
-401,https://place.map.kakao.com/1440558147
-402,https://place.map.kakao.com/1991331080
-403,https://place.map.kakao.com/1672182177
-404,https://place.map.kakao.com/764671951
-405,https://place.map.kakao.com/23492395
-406,https://place.map.kakao.com/2118617332
-407,https://place.map.kakao.com/22045992
-408,https://place.map.kakao.com/744702475
-409,https://place.map.kakao.com/747079313
-410,https://place.map.kakao.com/719942588
-411,https://place.map.kakao.com/1870479134
-412,https://place.map.kakao.com/2108018131
-413,https://place.map.kakao.com/630976179
-414,https://place.map.kakao.com/1066791199
-415,https://place.map.kakao.com/471183363
-416,https://place.map.kakao.com/941129928
-417,https://place.map.kakao.com/1524937882
-418,https://place.map.kakao.com/1394396204
-419,https://place.map.kakao.com/16968053
-420,https://place.map.kakao.com/191853147
-421,https://place.map.kakao.com/27581491
-422,https://place.map.kakao.com/612881213
-423,https://place.map.kakao.com/27154943
-424,https://place.map.kakao.com/1418521318
-425,https://place.map.kakao.com/1389228859
-426,https://place.map.kakao.com/282024497
-427,https://place.map.kakao.com/597337755
-428,https://place.map.kakao.com/1944974301
-429,https://place.map.kakao.com/24160693
-430,https://place.map.kakao.com/1078707938
-431,https://place.map.kakao.com/1926333965
-432,https://place.map.kakao.com/248441966
-433,https://place.map.kakao.com/1961677700
-434,https://place.map.kakao.com/23443413
-435,https://place.map.kakao.com/21161431
-436,https://place.map.kakao.com/580311272
-437,https://place.map.kakao.com/418521967
-438,https://place.map.kakao.com/1408900737
-439,https://place.map.kakao.com/897666989
-440,https://place.map.kakao.com/703401491
-441,https://place.map.kakao.com/85403680
-442,https://place.map.kakao.com/1034201649
-443,https://place.map.kakao.com/361083715
-444,https://place.map.kakao.com/1766811588
-445,https://place.map.kakao.com/627036124
-446,https://place.map.kakao.com/292235985
-447,https://place.map.kakao.com/1750497551
-448,https://place.map.kakao.com/1428766971
-449,https://place.map.kakao.com/167967509
-450,https://place.map.kakao.com/1572072115
-451,https://place.map.kakao.com/1469793608
-452,https://place.map.kakao.com/781249361
-453,https://place.map.kakao.com/1913760014
-454,https://place.map.kakao.com/1673819877
-455,https://place.map.kakao.com/1526214744
-456,https://place.map.kakao.com/1901169229
-457,https://place.map.kakao.com/979059597
-458,https://place.map.kakao.com/261250031
-459,https://place.map.kakao.com/1473028639
-460,https://place.map.kakao.com/2020200484
-461,https://place.map.kakao.com/21320529
-462,https://place.map.kakao.com/23009528
-463,https://place.map.kakao.com/952808054
-464,https://place.map.kakao.com/27510146
-465,https://place.map.kakao.com/24711457
-466,https://place.map.kakao.com/1469793608
-467,https://place.map.kakao.com/781249361
-468,https://place.map.kakao.com/1913760014
-469,https://place.map.kakao.com/1673819877
-470,https://place.map.kakao.com/1526214744
-471,https://place.map.kakao.com/1901169229
-472,https://place.map.kakao.com/979059597
-473,https://place.map.kakao.com/261250031
-474,https://place.map.kakao.com/1473028639
-475,https://place.map.kakao.com/2020200484
-476,https://place.map.kakao.com/21320529
-477,https://place.map.kakao.com/23009528
-478,https://place.map.kakao.com/952808054
-479,https://place.map.kakao.com/27510146
-480,https://place.map.kakao.com/24711457
-481,https://place.map.kakao.com/2085850657
-482,https://place.map.kakao.com/13143025
-483,https://place.map.kakao.com/1230987635
-484,https://place.map.kakao.com/577978017
-485,https://place.map.kakao.com/1123960314
-486,https://place.map.kakao.com/11946368
-487,https://place.map.kakao.com/2045252460
-488,https://place.map.kakao.com/1893975158
-489,https://place.map.kakao.com/762026624
-490,https://place.map.kakao.com/834712892
-491,https://place.map.kakao.com/1427614215
-492,https://place.map.kakao.com/1866106760
-493,https://place.map.kakao.com/661634029
-494,https://place.map.kakao.com/824736542
-495,https://place.map.kakao.com/880612917
-496,https://place.map.kakao.com/1035055143
-497,https://place.map.kakao.com/13036289
-498,https://place.map.kakao.com/650882727
-499,https://place.map.kakao.com/628884699
-500,https://place.map.kakao.com/100665689
-501,https://place.map.kakao.com/1342456271
-502,https://place.map.kakao.com/61771164
-503,https://place.map.kakao.com/932097349
-504,https://place.map.kakao.com/1044931041
-505,https://place.map.kakao.com/455948783
-506,https://place.map.kakao.com/9363421
-507,https://place.map.kakao.com/13074503
-508,https://place.map.kakao.com/1805485832
-509,https://place.map.kakao.com/527193628
-510,https://place.map.kakao.com/287841606
-511,https://place.map.kakao.com/2023506982
-512,https://place.map.kakao.com/140844412
-513,https://place.map.kakao.com/19736875
-514,https://place.map.kakao.com/8396388
-515,https://place.map.kakao.com/21543560
+id,url,name,review_rating
+1,https://place.map.kakao.com/21361365,서울24시감자탕해장국,3.5
+2,https://place.map.kakao.com/22282335,봉수육,4.1
+3,https://place.map.kakao.com/29972796,고기굽는교실 율전3반,4.5
+4,https://place.map.kakao.com/21295932,보영만두 성대직영점,3.7
+5,https://place.map.kakao.com/18515289,보리네 주먹고기,4.4
+6,https://place.map.kakao.com/1300977401,청년밥상,3.4
+7,https://place.map.kakao.com/18313575,본만두 천천점,3.8
+8,https://place.map.kakao.com/19749732,스타벅스 수원성균관대점,3.8
+9,https://place.map.kakao.com/720892138,택이네조개전골 성대점,4.0
+10,https://place.map.kakao.com/19299045,경기수산직판장 성균관대점,4.6
+11,https://place.map.kakao.com/1871700603,명륜진사갈비 수원성균관대점,4.0
+12,https://place.map.kakao.com/824423309,모수밀면,4.5
+13,https://place.map.kakao.com/16936311,백령도생바지락칼국수,4.3
+14,https://place.map.kakao.com/22757823,맥도날드 수원성균관대점,3.0
+15,https://place.map.kakao.com/2058600136,라잌댓,3.5
+16,https://place.map.kakao.com/1874178690,카마타케제면소 성균관대역사점,4.3
+17,https://place.map.kakao.com/14567452,선참치,3.7
+18,https://place.map.kakao.com/881887666,아늑,4.1
+19,https://place.map.kakao.com/15818685,이라면,3.3
+20,https://place.map.kakao.com/27391641,은행나무참숯풍천민물장어,3.8
+21,https://place.map.kakao.com/2130149558,명가양꼬치,4.1
+22,https://place.map.kakao.com/15508787,양푼동태탕,4.6
+23,https://place.map.kakao.com/1234555779,포동이네 성대점,3.8
+24,https://place.map.kakao.com/10342295,마포숯불갈비,3.5
+25,https://place.map.kakao.com/1399349565,르디망슈,4.5
+26,https://place.map.kakao.com/1986260055,홍구등갈비 본점,3.6
+27,https://place.map.kakao.com/21342132,천포 천천점,4.3
+28,https://place.map.kakao.com/532875978,먹깨비김밥,2.4
+29,https://place.map.kakao.com/26948881,드럼통돌구이,4.2
+30,https://place.map.kakao.com/76989512,오르카커피룸,4.7
+31,https://place.map.kakao.com/1676208114,최고집 원조 수구레,4.3
+32,https://place.map.kakao.com/26858863,키와마루아지 성균관대점,3.1
+33,https://place.map.kakao.com/20706332,생각나는순대국 본점,3.6
+34,https://place.map.kakao.com/2142515097,수참치 성대점,4.7
+35,https://place.map.kakao.com/1681238250,대동집 수원성균관대점,4.2
+36,https://place.map.kakao.com/727780795,토기장이오리&삼겹살전문점,4.4
+37,https://place.map.kakao.com/2019801909,정원,4.5
+38,https://place.map.kakao.com/27596356,아구아구대구왕뽈찜,3.8
+39,https://place.map.kakao.com/17180407,성대목장이,3.5
+40,https://place.map.kakao.com/1194567292,벨라튀니지,4.5
+41,https://place.map.kakao.com/23480275,우특심한우곱창 장안구율전점,3.2
+42,https://place.map.kakao.com/1551766058,사랑해 수원성대점,4.2
+43,https://place.map.kakao.com/12091570,우리소양평해장국,3.2
+44,https://place.map.kakao.com/1744478913,자명문,4.6
+45,https://place.map.kakao.com/1118339601,주야,4.8
+46,https://place.map.kakao.com/1114147333,우리동네스시신조,3.9
+47,https://place.map.kakao.com/140527598,맥주호텔,4.8
+48,https://place.map.kakao.com/27436603,영통찌개지존 성대점,3.9
+49,https://place.map.kakao.com/2087728013,카페일구오삼,4.3
+50,https://place.map.kakao.com/529851956,여유당카페,5.0
+51,https://place.map.kakao.com/59378154,카페롤랑,4.3
+52,https://place.map.kakao.com/21314103,롯데리아 수원성대점,
+53,https://place.map.kakao.com/1296555163,경복궁개성손만두메밀소바전문점 율전점,3.5
+54,https://place.map.kakao.com/17155692,닥치고삼겹살 수원점,4.8
+55,https://place.map.kakao.com/1866533508,카페쓰리몽키즈,4.5
+56,https://place.map.kakao.com/15111969,황금족발 수원성대점,4.0
+57,https://place.map.kakao.com/1706269697,춘천닭갈비칡냉면,3.4
+58,https://place.map.kakao.com/1938195034,일성,4.1
+59,https://place.map.kakao.com/11823509,본찌돈까스 성대점,4.5
+60,https://place.map.kakao.com/745210904,옛날사람,4.8
+61,https://place.map.kakao.com/21340845,비추는별,3.6
+62,https://place.map.kakao.com/19048239,아이엠바리스타,4.3
+63,https://place.map.kakao.com/1416660333,한창희천하일면 수원성대점,4.7
+64,https://place.map.kakao.com/8873661,대성장,4.3
+65,https://place.map.kakao.com/1018460180,투썸플레이스 수원성균관대점,
+66,https://place.map.kakao.com/1849169051,지장수본가전주콩나물국밥 2호점,5.0
+67,https://place.map.kakao.com/1762781450,목구멍 율전점,4.0
+68,https://place.map.kakao.com/1326106570,김엄마밥집,3.4
+69,https://place.map.kakao.com/957385573,예술상,4.3
+70,https://place.map.kakao.com/1371429890,부라보쪽갈비 성대점,3.4
+71,https://place.map.kakao.com/18331758,1인자감자탕,2.5
+72,https://place.map.kakao.com/24727345,화이트스노우 성균관대점,4.0
+73,https://place.map.kakao.com/26983844,동대문엽기떡볶이 수원성대점,2.1
+74,https://place.map.kakao.com/27436426,맘스터치 수원성균관대점,1.9
+75,https://place.map.kakao.com/1169735393,합 성대율전동직영2호점,4.6
+76,https://place.map.kakao.com/86770396,인더비엣 수원성대점,3.2
+77,https://place.map.kakao.com/2064565238,중경마라탕 성대점,4.2
+78,https://place.map.kakao.com/27436681,동네아저씨 수원성아치,2.4
+79,https://place.map.kakao.com/26644198,설빙 수원성대점,2.7
+80,https://place.map.kakao.com/22763262,이라부,4.5
+81,https://place.map.kakao.com/112727456,램공방,3.8
+82,https://place.map.kakao.com/13300076,양철통낙지,3.4
+83,https://place.map.kakao.com/234898457,엉터리생고기 수원성대역점,2.9
+84,https://place.map.kakao.com/8641868,박경규항아리보쌈 성대,3.3
+85,https://place.map.kakao.com/458201929,정성담은샤브칼국수,4.2
+86,https://place.map.kakao.com/22550444,도미노피자 율천점,2.0
+87,https://place.map.kakao.com/27276923,국수파동,4.3
+88,https://place.map.kakao.com/780108318,비사이드,3.8
+89,https://place.map.kakao.com/159313643,보배반점 성균관대점,3.8
+90,https://place.map.kakao.com/377072176,찬이네주먹고기,4.3
+91,https://place.map.kakao.com/9153270,동네빈대떡 성대직영점,4.4
+92,https://place.map.kakao.com/254631179,사거리다방,4.5
+93,https://place.map.kakao.com/12364442,파리바게뜨 성균관대점,2.9
+94,https://place.map.kakao.com/766046626,오스테리아우노,4.1
+95,https://place.map.kakao.com/1037196364,청년다방 수원성균관대점,4.1
+96,https://place.map.kakao.com/14707742,먹거리고을,4.8
+97,https://place.map.kakao.com/1500905935,예감쪽갈비 수원성대점,
+98,https://place.map.kakao.com/16171995,감스시,3.8
+99,https://place.map.kakao.com/1564913318,이자카야 슌,3.5
+100,https://place.map.kakao.com/346317197,플렁드,4.4
+101,https://place.map.kakao.com/15698705,"일미,닭갈비,파전",4.2
+102,https://place.map.kakao.com/1258111819,BBQ 수원성대역점,2.4
+103,https://place.map.kakao.com/24160437,월매랑삼겹이랑,3.7
+104,https://place.map.kakao.com/26924582,빽다방 수원성균관대역점,4.5
+105,https://place.map.kakao.com/853192658,카페휴,4.8
+106,https://place.map.kakao.com/508508014,생마차 수원성대점,5.0
+107,https://place.map.kakao.com/868755529,장수촌 천천점,3.3
+108,https://place.map.kakao.com/1460865891,나츠비,4.5
+109,https://place.map.kakao.com/266260479,생각나는순대국 성대점,4.2
+110,https://place.map.kakao.com/1752110137,아무술집 성대직영점,2.1
+111,https://place.map.kakao.com/1941692451,정든닭발 성대점,3.8
+112,https://place.map.kakao.com/27181404,섬세한남자,4.6
+113,https://place.map.kakao.com/8516178,제주도도야지생삼겹살,3.9
+114,https://place.map.kakao.com/520447689,정성식탁,
+115,https://place.map.kakao.com/1578043317,육가든,4.4
+116,https://place.map.kakao.com/479258379,주량 성대직영점,
+117,https://place.map.kakao.com/163642613,사우스스트릿,
+118,https://place.map.kakao.com/21390672,명동돈까스,4.2
+119,https://place.map.kakao.com/15809950,꾸이꾸이돼지마을,4.9
+120,https://place.map.kakao.com/26317358,자연김밥,4.5
+121,https://place.map.kakao.com/1590438587,해를품은짬뽕 수원점,4.4
+122,https://place.map.kakao.com/11295900,지코바 율전점,3.9
+123,https://place.map.kakao.com/2042897816,역전할머니맥주 성균관대점,
+124,https://place.map.kakao.com/7907443,본죽&비빔밥cafe 수원율전점,3.0
+125,https://place.map.kakao.com/1638654664,부산산꼼장어,4.2
+126,https://place.map.kakao.com/610741145,부자국밥,4.7
+127,https://place.map.kakao.com/1049809557,메가MGC커피 수원상률초점,5.0
+128,https://place.map.kakao.com/10397894,배스킨라빈스 수원성대점,4.1
+129,https://place.map.kakao.com/27519582,자금성,4.3
+130,https://place.map.kakao.com/877155889,성대곱창,3.3
+131,https://place.map.kakao.com/21323790,동자설렁탕,4.1
+132,https://place.map.kakao.com/1837512260,IMJ,4.8
+133,https://place.map.kakao.com/24869509,공차 성대점,4.1
+134,https://place.map.kakao.com/811912865,루미네숯불닭갈비,4.5
+135,https://place.map.kakao.com/462951897,옛날통닭 율전점,4.2
+136,https://place.map.kakao.com/971551511,메가MGC커피 수원율전점,3.9
+137,https://place.map.kakao.com/14666115,교촌치킨 율전1호점,3.2
+138,https://place.map.kakao.com/641918700,에스쿱,4.9
+139,https://place.map.kakao.com/1464213920,성대왕김말이,4.9
+140,https://place.map.kakao.com/148202780,윤실장초밥 성대점,4.6
+141,https://place.map.kakao.com/1445316158,마포화곱창 성균관대점,4.3
+142,https://place.map.kakao.com/771592981,회조아,4.2
+143,https://place.map.kakao.com/2018182515,삼구포차,5.0
+144,https://place.map.kakao.com/86582844,일공사,4.3
+145,https://place.map.kakao.com/26846151,BHC치킨 성대율전점,4.3
+146,https://place.map.kakao.com/967228641,스타벅스 수원천천점,3.6
+147,https://place.map.kakao.com/747720101,공릉닭한마리 수원점,4.0
+148,https://place.map.kakao.com/54008184,롤링파스타 수원성균관대점,0.0
+149,https://place.map.kakao.com/469922283,장원가마솥통닭,4.0
+150,https://place.map.kakao.com/8799625,김밥천국 율전성대점,2.3
+151,https://place.map.kakao.com/125156430,4년황기삼계탕,4.8
+152,https://place.map.kakao.com/1664789127,큰맘할매순대국 수원성대점,3.8
+153,https://place.map.kakao.com/1665003130,완미족발 수원성대점,4.5
+154,https://place.map.kakao.com/13581495,설참치,3.4
+155,https://place.map.kakao.com/1453260089,참바른김밥,4.4
+156,https://place.map.kakao.com/797446683,만리향,3.5
+157,https://place.map.kakao.com/1315723828,아그집쭈꾸미 성대점,3.6
+158,https://place.map.kakao.com/450307831,정통집 수원성대점,3.0
+159,https://place.map.kakao.com/261655717,힌카쿠,3.2
+160,https://place.map.kakao.com/601434033,빽다방 수원율전점,0.0
+161,https://place.map.kakao.com/25160402,노랑통닭 성균관대점,2.6
+162,https://place.map.kakao.com/278807677,메가MGC커피 수원성균관대점,1.0
+163,https://place.map.kakao.com/2065394692,가장맛있는족발 수원율전점,3.3
+164,https://place.map.kakao.com/25118762,수천냉면,2.7
+165,https://place.map.kakao.com/1531960250,무쏘 성대점,2.3
+166,https://place.map.kakao.com/11226106,피자스쿨 성대점,2.6
+167,https://place.map.kakao.com/1014093517,기똥찬고기,5.0
+168,https://place.map.kakao.com/8947912,동해바다회,4.0
+169,https://place.map.kakao.com/243310751,태영생막창,3.8
+170,https://place.map.kakao.com/21323905,송원칼국수,4.5
+171,https://place.map.kakao.com/1361763675,비건카페 모앤더비,4.9
+172,https://place.map.kakao.com/16014416,청진동해장국 율전성대점,3.4
+173,https://place.map.kakao.com/324405971,뉴트로포차1972재개발구역 성대점,4.7
+174,https://place.map.kakao.com/1830157990,솔트타운피자,4.9
+175,https://place.map.kakao.com/935640855,카페로디,4.6
+176,https://place.map.kakao.com/724821886,율천회관,4.4
+177,https://place.map.kakao.com/9053975,북한산조개구이,3.8
+178,https://place.map.kakao.com/11813911,동촌샤브칼국수 천천점,4.1
+179,https://place.map.kakao.com/922808226,하우짓 블랙,4.7
+180,https://place.map.kakao.com/585080783,심,4.7
+181,https://place.map.kakao.com/2119673908,노랑냄비와석쇠구이집,4.8
+182,https://place.map.kakao.com/1507085310,아람삼계탕,3.5
+183,https://place.map.kakao.com/1224099552,미가라멘 성대본점,3.8
+184,https://place.map.kakao.com/17225323,태화루,3.2
+185,https://place.map.kakao.com/1579032099,신화쭈꾸미 성대점,4.2
+186,https://place.map.kakao.com/1813246940,독산성족발&순대국 성대점,3.0
+187,https://place.map.kakao.com/632468732,더맛구이구이쪽갈비 성균관대점,4.2
+188,https://place.map.kakao.com/24924013,교촌치킨 정자2호점,1.7
+189,https://place.map.kakao.com/848146441,월드오징어바다 성균관대점,3.2
+190,https://place.map.kakao.com/274119991,원숭이초밥,4.6
+191,https://place.map.kakao.com/2017609824,BBQ 수원율전점,3.9
+192,https://place.map.kakao.com/582394902,양지촌,5.0
+193,https://place.map.kakao.com/1609558752,깡우동 수원성균관대점,4.6
+194,https://place.map.kakao.com/454412435,컴포즈커피 수원성균관대점,4.8
+195,https://place.map.kakao.com/219227261,동문시장맨끝집 성균관대점,0.0
+196,https://place.map.kakao.com/713486459,화원루 천천점,3.7
+197,https://place.map.kakao.com/27258679,만다,4.5
+198,https://place.map.kakao.com/27344726,육회독존,2.7
+199,https://place.map.kakao.com/331363212,성대지붕,3.0
+200,https://place.map.kakao.com/1225809321,디저트39 성대점,4.5
+201,https://place.map.kakao.com/11567579,독도참치,3.7
+202,https://place.map.kakao.com/764374529,화원루,2.9
+203,https://place.map.kakao.com/1236230631,휘미관,4.8
+204,https://place.map.kakao.com/1541357379,마리,0.0
+205,https://place.map.kakao.com/1365016719,마이요거트립 성균관대역점,5.0
+206,https://place.map.kakao.com/265211549,행복한손칼국수,4.0
+207,https://place.map.kakao.com/1209089174,1984그수육집칼국수 수원천천점,4.4
+208,https://place.map.kakao.com/1665769841,닭강정스토리,5.0
+209,https://place.map.kakao.com/83246451,핵밥 수원성균관대점,1.8
+210,https://place.map.kakao.com/892131283,홍성마라미방 성균관대2호점,4.2
+211,https://place.map.kakao.com/1187387242,양뜰양꼬치 성내점,0.0
+212,https://place.map.kakao.com/15242753,국수나무 수원율전점,3.9
+213,https://place.map.kakao.com/1051593113,화락바베큐치킨 수원성대점,5.0
+214,https://place.map.kakao.com/1591753205,버터랏츠,4.8
+215,https://place.map.kakao.com/1742659364,성대밥상,4.2
+216,https://place.map.kakao.com/1409883460,청원순두부,4.4
+217,https://place.map.kakao.com/928464447,뎅과 꼬치로 수원본점,4.6
+218,https://place.map.kakao.com/831655475,감례밥상,5.0
+219,https://place.map.kakao.com/2124427467,하노이맥주밤거리 수원성대점,4.8
+220,https://place.map.kakao.com/13574805,청기와감자탕,3.1
+221,https://place.map.kakao.com/12364642,파리바게뜨 수원율전점,4.0
+222,https://place.map.kakao.com/275468985,최고당돈가스,4.0
+223,https://place.map.kakao.com/1466049208,대한닭갈비 본점,3.4
+224,https://place.map.kakao.com/1132268046,최가네,3.5
+225,https://place.map.kakao.com/11669500,굽네치킨 피자 수원율전점,1.1
+226,https://place.map.kakao.com/10361687,뚜레쥬르 성대율전점,3.4
+227,https://place.map.kakao.com/10560589,소문난김밥,4.6
+228,https://place.map.kakao.com/2040708054,떡보킹 본점,3.9
+229,https://place.map.kakao.com/1036685970,파파스,4.5
+230,https://place.map.kakao.com/589138753,육전면사무소 수원성균관대점,5.0
+231,https://place.map.kakao.com/2014258709,율전방앗간,3.7
+232,https://place.map.kakao.com/160178955,화성옥콩콩,2.3
+233,https://place.map.kakao.com/774922733,빨간석쇠구이 성대점,5.0
+234,https://place.map.kakao.com/20082356,성대찌개고을,3.5
+235,https://place.map.kakao.com/2047627551,정직유부 수원성대점,4.0
+236,https://place.map.kakao.com/1649788863,파치 성대점,5.0
+237,https://place.map.kakao.com/1435052345,웅이네,4.6
+238,https://place.map.kakao.com/28718393,배스킨라빈스 수원율전점,0.0
+239,https://place.map.kakao.com/333432190,히닭발,4.5
+240,https://place.map.kakao.com/91485793,육식,4.0
+241,https://place.map.kakao.com/438967509,바바플 성균관대점,4.9
+242,https://place.map.kakao.com/1119639144,더벤티 수원율전점,5.0
+243,https://place.map.kakao.com/1433138261,곤드레마을,
+244,https://place.map.kakao.com/1611863174,달쏭쿠키제작소,0.0
+245,https://place.map.kakao.com/770517610,작은바,3.6
+246,https://place.map.kakao.com/1498762960,유케집 성대점,5.0
+247,https://place.map.kakao.com/535761318,소주방 율전점,3.2
+248,https://place.map.kakao.com/1554019024,가장맛있는뒷고기,4.7
+249,https://place.map.kakao.com/11634973,한솥도시락 수원성대점,4.3
+250,https://place.map.kakao.com/1822626017,낫얼론(Not alone),5.0
+251,https://place.map.kakao.com/26006530,DCT바,4.2
+252,https://place.map.kakao.com/205548870,수해복마라탕,4.3
+253,https://place.map.kakao.com/318332845,몽키키친,4.0
+254,https://place.map.kakao.com/929132172,담은샤브칼국수 직영1호점,5.0
+255,https://place.map.kakao.com/309707599,일미리금계찜닭 성균관대점,4.2
+256,https://place.map.kakao.com/15189345,왕빈자삼파전 성대점,2.9
+257,https://place.map.kakao.com/1065627364,무지개맥주 수원성균관대점,5.0
+258,https://place.map.kakao.com/1786427985,인생맥주,0.0
+259,https://place.map.kakao.com/1632334394,나나테이블,4.4
+260,https://place.map.kakao.com/1819325525,언더그라운드,4.7
+261,https://place.map.kakao.com/25933615,땅땅치킨 수원성대점,4.1
+262,https://place.map.kakao.com/11062677,보드람치킨 성대역점,3.5
+263,https://place.map.kakao.com/27359340,전설의치킨 성대점,4.4
+264,https://place.map.kakao.com/7985724,썬더치킨 수원성균관대점,4.3
+265,https://place.map.kakao.com/1480272698,와플대학 성균관대역캠퍼스,3.8
+266,https://place.map.kakao.com/453700382,알촌 성균관대점,3.1
+267,https://place.map.kakao.com/207326909,매머드익스프레스 수원성대역점,4.0
+268,https://place.map.kakao.com/1083342381,굴다리전집,5.0
+269,https://place.map.kakao.com/2485731,논페이셜커피,4.8
+270,https://place.map.kakao.com/570522076,싸인이스케이프 성대역점,4.0
+271,https://place.map.kakao.com/1832804999,수셰프치킨 수원성균관대 직영1호점,5.0
+272,https://place.map.kakao.com/554066548,도레미파스타,4.5
+273,https://place.map.kakao.com/58385889,맥주거품 성균관대점,3.0
+274,https://place.map.kakao.com/637087679,디인카페 수제샌드위치전문점,4.2
+275,https://place.map.kakao.com/27438279,달콩,3.0
+276,https://place.map.kakao.com/18829773,황소마을,2.5
+277,https://place.map.kakao.com/10894827,투다리 성대점,3.2
+278,https://place.map.kakao.com/899743322,BBQ 율전행복점,1.0
+279,https://place.map.kakao.com/15508915,왕돈까스 성대본점,4.2
+280,https://place.map.kakao.com/1695257281,밀주집,4.6
+281,https://place.map.kakao.com/1325470116,바네통,5.0
+282,https://place.map.kakao.com/453060892,주꼬로,4.6
+283,https://place.map.kakao.com/1198322826,해물궁,4.3
+284,https://place.map.kakao.com/2139646226,소문난순대국,3.7
+285,https://place.map.kakao.com/540536496,다또케이크,2.5
+286,https://place.map.kakao.com/13668289,마약보쌈족발 천천점,4.8
+287,https://place.map.kakao.com/1696548715,에그2000 율전점,0.0
+288,https://place.map.kakao.com/19514248,바오밥나무 수원점,4.7
+289,https://place.map.kakao.com/2038193180,고기불패,4.1
+290,https://place.map.kakao.com/146436886,싸가정곱창 담윤순대국,3.8
+291,https://place.map.kakao.com/1397766172,다람쥐굴,5.0
+292,https://place.map.kakao.com/1424928355,길모퉁이,4.8
+293,https://place.map.kakao.com/1808018815,탕화쿵푸마라탕 성대점,5.0
+294,https://place.map.kakao.com/26638971,가마로강정 성균관대점,2.8
+295,https://place.map.kakao.com/463088652,푸라닭치킨 수원정자3동점,4.1
+296,https://place.map.kakao.com/24583309,신전떡볶이 수원성대점,3.9
+297,https://place.map.kakao.com/249943622,땅스부대찌개 수원성대점,5.0
+298,https://place.map.kakao.com/396793066,버거운버거 수원성균관대점,3.0
+299,https://place.map.kakao.com/24941922,포크포크 매콤돈가스&칡불냉면,3.0
+300,https://place.map.kakao.com/78000630,용수산횟집,5.0
+301,https://place.map.kakao.com/876599819,육연사 성균관대점,5.0
+302,https://place.map.kakao.com/51082585,왕코미네탕후루 성대점,3.5
+303,https://place.map.kakao.com/1650333127,성대족발보쌈,4.7
+304,https://place.map.kakao.com/6215308,커피(COFFEE)93.0,4.3
+305,https://place.map.kakao.com/179517302,스마일왕돈까스,2.0
+306,https://place.map.kakao.com/4774511,사랑해베이글 수원천천점,0.0
+307,https://place.map.kakao.com/1243445015,우육면훠훠 수원성대점,3.4
+308,https://place.map.kakao.com/8683021,오구쌀피자 성대점,3.8
+309,https://place.map.kakao.com/1636782286,하루엔소쿠 수원성대점,5.0
+310,https://place.map.kakao.com/1883192464,크림오리,5.0
+311,https://place.map.kakao.com/575516645,역북집 수원성대점,0.0
+312,https://place.map.kakao.com/171778144,쉐프의돈카츠,4.4
+313,https://place.map.kakao.com/19197657,놀부부대찌개,1.0
+314,https://place.map.kakao.com/1443342149,꿈시루,5.0
+315,https://place.map.kakao.com/1689944735,반갑다친구야,3.2
+316,https://place.map.kakao.com/1453910980,호호맥주,4.5
+317,https://place.map.kakao.com/11517876,치킨마루 수원성대점,1.0
+318,https://place.map.kakao.com/1324929519,감성 성대점,3.5
+319,https://place.map.kakao.com/2121491926,밀플랜 본점,4.9
+320,https://place.map.kakao.com/656040666,우야꼬수제요리전문점,4.8
+321,https://place.map.kakao.com/1559930235,비어첸 수원성대점,5.0
+322,https://place.map.kakao.com/1204144787,피자헐,4.3
+323,https://place.map.kakao.com/887096776,진국밥 수원직영점,4.7
+324,https://place.map.kakao.com/373045848,오늘우동 수원성대점,4.0
+325,https://place.map.kakao.com/1233957944,60계치킨 수원율전점,3.7
+326,https://place.map.kakao.com/933917069,크라운호프 수원성대점,3.8
+327,https://place.map.kakao.com/1320563937,처갓집양념치킨 율전점,4.6
+328,https://place.map.kakao.com/78851879,백채김치찌개 성균관대점,3.7
+329,https://place.map.kakao.com/14541898,평양손만두,4.8
+330,https://place.map.kakao.com/228368455,김재권철판볶음순대국,3.9
+331,https://place.map.kakao.com/1756224594,사계참치,1.4
+332,https://place.map.kakao.com/16748851,애플김밥 천천점,4.6
+333,https://place.map.kakao.com/765114919,텐푸라바사바사,4.1
+334,https://place.map.kakao.com/21359017,상무네닭발집,3.0
+335,https://place.map.kakao.com/27197463,투썸플레이스 수원천천점,2.5
+336,https://place.map.kakao.com/21339856,명가복떡집,0.0
+337,https://place.map.kakao.com/794084189,모브커피,5.0
+338,https://place.map.kakao.com/1748640860,영희네 고기,3.4
+339,https://place.map.kakao.com/1767899301,도래홍막창 성대점,2.7
+340,https://place.map.kakao.com/6789812,더맛있는족발보쌈 수원천천점,4.9
+341,https://place.map.kakao.com/1499744274,로봇초밥마켓 수원성대점,0.0
+342,https://place.map.kakao.com/1841647256,메가MGC커피 천천중앙점,4.0
+343,https://place.map.kakao.com/690323283,비네즈,0.0
+344,https://place.map.kakao.com/75869816,장작클라스 수원성대점,4.3
+345,https://place.map.kakao.com/758364545,조아마라탕,4.9
+346,https://place.map.kakao.com/2043902510,옹백이 족발보쌈,0.0
+347,https://place.map.kakao.com/143949936,커피9,5.0
+348,https://place.map.kakao.com/293871984,오븐마루치킨 수원율전점,4.7
+349,https://place.map.kakao.com/1941750469,텐사장,3.5
+350,https://place.map.kakao.com/678887360,더리터 수원성대점,4.4
+351,https://place.map.kakao.com/9426333,종로떡집,5.0
+352,https://place.map.kakao.com/19330963,봉구스밥버거 성대2호점,4.0
+353,https://place.map.kakao.com/639520146,더하다피자수원 성대점,5.0
+354,https://place.map.kakao.com/1595695771,금달맥주,5.0
+355,https://place.map.kakao.com/1060897695,한남동그집 성대역점,3.7
+356,https://place.map.kakao.com/104799387,빨라쪼델프레도 성균관대역사점,4.6
+357,https://place.map.kakao.com/1618999358,구이육,0.0
+358,https://place.map.kakao.com/650605185,더카페 라운지앤페르케노 수원성대역점,4.0
+359,https://place.map.kakao.com/27393012,무대뽀핫도그,4.7
+360,https://place.map.kakao.com/20807966,율전족발보쌈,4.3
+361,https://place.map.kakao.com/8220449,이서등갈비,5.0
+362,https://place.map.kakao.com/123216598,가마솥에빠진통닭,5.0
+363,https://place.map.kakao.com/1355280158,만복국수집 수원성균관대점,0.0
+364,https://place.map.kakao.com/449391833,아마스빈 수원성균관대점,4.6
+365,https://place.map.kakao.com/464500543,리꼬리또,4.5
+366,https://place.map.kakao.com/1446532937,오군포차 성대점,5.0
+367,https://place.map.kakao.com/27277034,엘가커피,3.3
+368,https://place.map.kakao.com/455611650,밥밥디라라 수원성균관대점,5.0
+369,https://place.map.kakao.com/1242689502,국대국,5.0
+370,https://place.map.kakao.com/226716661,버거스올마이티 수원성균관대점,5.0
+371,https://place.map.kakao.com/22134771,배불뚝고기파티 율전동본점,5.0
+372,https://place.map.kakao.com/464034062,본투비,5.0
+373,https://place.map.kakao.com/1990436372,카페봄봄 수원 성균관대점,4.5
+374,https://place.map.kakao.com/1335628239,오아저씨철판,4.7
+375,https://place.map.kakao.com/9089735,새마을떡방앗간,0.0
+376,https://place.map.kakao.com/1063493807,피자나라치킨공주 수원천천점,5.0
+377,https://place.map.kakao.com/1826932479,인쌩맥주 성균관대점,3.3
+378,https://place.map.kakao.com/1445473104,리코베이커리,3.4
+379,https://place.map.kakao.com/18901771,BBQ 수원천천점,2.6
+380,https://place.map.kakao.com/1156465218,오서산콩국수 수원점,5.0
+381,https://place.map.kakao.com/1231799195,카페다움,4.9
+382,https://place.map.kakao.com/942742067,일품마라탕 성대점,4.5
+383,https://place.map.kakao.com/363053524,우리집밥,4.7
+384,https://place.map.kakao.com/837917693,타코야끼전문점쪼코야끼,3.9
+385,https://place.map.kakao.com/26933551,킹고하우스,4.6
+386,https://place.map.kakao.com/1991331080,연해물찜칼국수,5.0
+387,https://place.map.kakao.com/1440558147,백억커피 서수원점,2.0
+388,https://place.map.kakao.com/1672182177,모앤더비,5.0
+389,https://place.map.kakao.com/764671951,만취,1.0
+390,https://place.map.kakao.com/23492395,이가네삼대째손두부 본점,4.0
+391,https://place.map.kakao.com/2118617332,스타디움 펍,0.0
+392,https://place.map.kakao.com/747079313,이까야,3.6
+393,https://place.map.kakao.com/22045992,족도사족발,4.8
+394,https://place.map.kakao.com/719942588,앙포네,5.0
+395,https://place.map.kakao.com/1870479134,홍대장소고기집 천천직영점,3.7
+396,https://place.map.kakao.com/2108018131,또래오래 성대율전점,3.0
+397,https://place.map.kakao.com/1066791199,따숲닭 본점,5.0
+398,https://place.map.kakao.com/630976179,르뱅베이커리,5.0
+399,https://place.map.kakao.com/471183363,고씨네카레 수원성대점,
+400,https://place.map.kakao.com/941129928,메가후르츠 수원성균관대점,4.0
+401,https://place.map.kakao.com/744702475,쉬즈베이글 성대점,4.4
+402,https://place.map.kakao.com/1524937882,삼봉집,5.0
+403,https://place.map.kakao.com/1394396204,희망김밥,5.0
+404,https://place.map.kakao.com/16968053,찌개와조림,5.0
+405,https://place.map.kakao.com/191853147,플러스82 성균관대점,5.0
+406,https://place.map.kakao.com/612881213,더에이치바 율전동,5.0
+407,https://place.map.kakao.com/1893975158,플레이바,3.0
+408,https://place.map.kakao.com/27154943,남해식당,4.6
+409,https://place.map.kakao.com/1389228859,육수당 수원성균관대점,3.0
+410,https://place.map.kakao.com/597337755,인피펍 성대점,4.3
+411,https://place.map.kakao.com/282024497,오디디,4.0
+412,https://place.map.kakao.com/1944974301,배떡 성균관대점,5.0
+413,https://place.map.kakao.com/24160693,산들애 버섯이야기,0.0
+414,https://place.map.kakao.com/1418521318,MLMC,4.3
+415,https://place.map.kakao.com/1078707938,한아스콘,4.4
+416,https://place.map.kakao.com/1926333965,하삼동커피 수원성균관점,3.6
+417,https://place.map.kakao.com/248441966,두마리찜닭두찜 수원율천점,0.0
+418,https://place.map.kakao.com/27581491,다소니,5.0
+419,https://place.map.kakao.com/1961677700,미는샐러드,5.0
+420,https://place.map.kakao.com/23443413,예국향,4.6
+421,https://place.map.kakao.com/580311272,국졔식당,4.7
+422,https://place.map.kakao.com/21161431,이모스떡볶이,3.6
+423,https://place.map.kakao.com/1408900737,나그네족발 보쌈 직영점,5.0
+424,https://place.map.kakao.com/418521967,십인치,4.3
+425,https://place.map.kakao.com/897666989,아이스크림스토리 수원성대점,0.0
+426,https://place.map.kakao.com/703401491,해피톡,5.0
+427,https://place.map.kakao.com/85403680,곱창홀릭,0.0
+428,https://place.map.kakao.com/1034201649,아덴블랑제리 수원천천점,5.0
+429,https://place.map.kakao.com/292235985,퓨전포차 인생술집,0.0
+430,https://place.map.kakao.com/361083715,호시타코야끼 성대점,5.0
+431,https://place.map.kakao.com/1766811588,카페오픈24 율전점,3.7
+432,https://place.map.kakao.com/627036124,60판왕뚜껑삼겹살 율전뜨란채점,5.0
+433,https://place.map.kakao.com/1428766971,무진장김치찌개 천천점,3.5
+434,https://place.map.kakao.com/1750497551,행컵 성균관대점,2.8
+435,https://place.map.kakao.com/167967509,유유진진,4.3
+436,https://place.map.kakao.com/1572072115,HYOM,5.0
+437,https://place.map.kakao.com/16174679,부뚜막백반&김치찜 성대점,3.9
+438,https://place.map.kakao.com/9455684,포명천천더차이니즈,2.5
+439,https://place.map.kakao.com/1235356477,옥집,0.0
+440,https://place.map.kakao.com/64507975,업텐브로피자 성대점,5.0
+441,https://place.map.kakao.com/1574854057,크레이저 커피 수원성대점,5.0
+442,https://place.map.kakao.com/1809443383,본죽&비빔밥cafe 율전상률초점,0.0
+443,https://place.map.kakao.com/1376734055,달콤한사람들,5.0
+444,https://place.map.kakao.com/1544717849,낙원떡집,0.0
+445,https://place.map.kakao.com/61925869,성대포명천 율전점,3.7
+446,https://place.map.kakao.com/541737858,율전동,3.7
+447,https://place.map.kakao.com/19479206,봉다방,0.0
+448,https://place.map.kakao.com/1408976559,포레스트오늘숲 수원천천점,4.1
+449,https://place.map.kakao.com/261138507,남도토박이,0.0
+450,https://place.map.kakao.com/12267147,전주생막걸리,0.0
+451,https://place.map.kakao.com/781249361,착한식당,3.5
+452,https://place.map.kakao.com/1469793608,우진떡집,5.0
+453,https://place.map.kakao.com/1913760014,디아,4.2
+454,https://place.map.kakao.com/1673819877,금별맥주 성균관대역점,0.0
+455,https://place.map.kakao.com/1526214744,곱창골 수원본점,1.0
+456,https://place.map.kakao.com/1901169229,본도시락 수원성균관대점,3.6
+457,https://place.map.kakao.com/775103576,족발더하기,0.0
+458,https://place.map.kakao.com/21320529,자피,0.0
+459,https://place.map.kakao.com/979059597,원할머니보쌈 수원천천배달점,5.0
+460,https://place.map.kakao.com/1473028639,르블랑제리 다움,3.2
+461,https://place.map.kakao.com/261250031,밥은화 수원성균관대점,4.7
+462,https://place.map.kakao.com/2020200484,카페인24 수원율전점,5.0
+463,https://place.map.kakao.com/23009528,솥뚜껑구이,5.0
+464,https://place.map.kakao.com/27510146,카페에비뉴,3.5
+465,https://place.map.kakao.com/952808054,카페셀,4.3
+466,https://place.map.kakao.com/24711457,페리카나 성대1점,5.0
+467,https://place.map.kakao.com/577978017,텐퍼센트커피 수원율전점,0.0
+468,https://place.map.kakao.com/2085850657,응급실국물떡볶이 수원천천점,4.7
+469,https://place.map.kakao.com/1230987635,샐러디치오도씨 수원성대점,4.8
+470,https://place.map.kakao.com/13143025,피자에땅 성대점,5.0
+471,https://place.map.kakao.com/1123960314,돈우정숯불구이,5.0
+472,https://place.map.kakao.com/762026624,코아김밥,5.0
+473,https://place.map.kakao.com/11946368,풍어생선구이정식,3.2
+474,https://place.map.kakao.com/2045252460,모닝사이드,5.0
+475,https://place.map.kakao.com/834712892,크로앙쥬 성대점,4.9
+476,https://place.map.kakao.com/1866106760,요거트아이스크림의정석 수원성대점,0.0
+477,https://place.map.kakao.com/1427614215,두끼 수원천천점,2.1
+478,https://place.map.kakao.com/661634029,조춘식동태탕회냉면,0.0
+479,https://place.map.kakao.com/824736542,낭만가득한 20세기포장마차,4.8
+480,https://place.map.kakao.com/1035055143,카페프롬미,5.0
+481,https://place.map.kakao.com/13036289,참숯풍천장어직판장,4.8
+482,https://place.map.kakao.com/650882727,호끼펍,4.0
+483,https://place.map.kakao.com/880612917,북수원온천식당 팔각정,0.0
+484,https://place.map.kakao.com/628884699,불여우닭발 수원성대점,0.0
+485,https://place.map.kakao.com/100665689,테라스비어,5.0
+486,https://place.map.kakao.com/1342456271,커피먹고놀자,2.3
+487,https://place.map.kakao.com/61771164,S바,0.0
+488,https://place.map.kakao.com/932097349,호세야오리바베큐 율전점,0.0
+489,https://place.map.kakao.com/455948783,노모어피자 정자천천점,5.0
+490,https://place.map.kakao.com/1044931041,덮덮밥 수원성대점,0.0
+491,https://place.map.kakao.com/9363421,쟌비어스,5.0
+492,https://place.map.kakao.com/1805485832,감동낙곱새 수원1호점,0.0
+493,https://place.map.kakao.com/527193628,따봉치킨,0.0
+494,https://place.map.kakao.com/287841606,편백회관 천천점,5.0
+495,https://place.map.kakao.com/12591564,굽네치킨 수원정자3동점,3.9
+496,https://place.map.kakao.com/140844412,도다케밥,4.7
+497,https://place.map.kakao.com/13074503,프렌즈과자점,4.5
+498,https://place.map.kakao.com/8396388,불티 천천점,0.0
+499,https://place.map.kakao.com/19736875,횡성생고기,5.0
+500,https://place.map.kakao.com/856924491,옥상,0.0
