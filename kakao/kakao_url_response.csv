@@ -1,501 +1,501 @@
 id,url,name,category,review_count,blog_review_count,address,phone_number,operation_info
-21361365,https://place.map.kakao.com/21361365,서울24시감자탕해장국,감자탕,39,62,경기 수원시 장안구 서부로 2163,031-268-6557,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-22282335,https://place.map.kakao.com/22282335,봉수육,"족발,보쌈",65,224,경기 수원시 장안구 율전로108번길 11,,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 22:00"", ""dayOfWeek"": ""월~토""}]"
-29972796,https://place.map.kakao.com/29972796,고기굽는교실 율전3반,"육류,고기",43,401,경기 수원시 장안구 율전로98번길 9,031-297-8592,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-21295932,https://place.map.kakao.com/21295932,보영만두 성대직영점,분식,35,66,경기 수원시 장안구 화산로233번길 30,031-227-6700,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-18515289,https://place.map.kakao.com/18515289,보리네 주먹고기,"육류,고기",47,142,경기 수원시 장안구 율전로98번길 6-9,031-295-5664,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1300977401,https://place.map.kakao.com/1300977401,청년밥상,한식,40,44,경기 수원시 장안구 서부로2126번길 17,031-298-1822,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 14:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:00 ~ 17:00"", ""dayOfWeek"": ""월~금""}]"
-18313575,https://place.map.kakao.com/18313575,본만두 천천점,"찌개,전골",58,115,경기 수원시 장안구 정자로 16,031-269-2005,N,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}]"
-19749732,https://place.map.kakao.com/19749732,스타벅스 수원성균관대점,스타벅스,41,39,경기 수원시 장안구 서부로 2131,1522-3232,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 21:00"", ""dayOfWeek"": ""일""}]"
-720892138,https://place.map.kakao.com/720892138,택이네조개전골 성대점,조개,29,51,경기 수원시 장안구 율전로98번길 9,031-227-6200,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-19299045,https://place.map.kakao.com/19299045,경기수산직판장 성균관대점,회,32,44,경기 수원시 장안구 율전로97번길 4,031-296-2454,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","""11:30 - 22:00"""
-1871700603,https://place.map.kakao.com/1871700603,명륜진사갈비 수원성균관대점,명륜진사갈비,30,93,경기 수원시 장안구 서부로 2129-5,031-292-9333,Y,N,,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:00"", ""dayOfWeek"": ""매일""}]"
-824423309,https://place.map.kakao.com/824423309,모수밀면,국수,44,54,경기 수원시 장안구 율전로107번길 5,031-278-7978,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 15:00"", ""dayOfWeek"": ""화~일""}]"
-16936311,https://place.map.kakao.com/16936311,백령도생바지락칼국수,칼국수,34,28,경기 수원시 장안구 화산로233번길 49,031-295-0727,Y,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-22757823,https://place.map.kakao.com/22757823,맥도날드 수원성균관대점,맥도날드,39,16,경기 수원시 장안구 서부로 2127,031-890-6000,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-2058600136,https://place.map.kakao.com/2058600136,라잌댓,카페,24,111,경기 수원시 장안구 덕영대로445번길 12,070-8285-0716,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:30 ~ 22:00"", ""dayOfWeek"": ""월~금""}]"
-1874178690,https://place.map.kakao.com/1874178690,카마타케제면소 성균관대역사점,"돈까스,우동",61,83,경기 수원시 장안구 서부로 2149,031-278-5678,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-14567452,https://place.map.kakao.com/14567452,선참치,참치회,6,38,경기 수원시 장안구 서부로2105번길 26-4,031-278-3785,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""월~토""}]"
-881887666,https://place.map.kakao.com/881887666,아늑,이탈리안,53,382,경기 수원시 장안구 서부로2106번길 36-4,070-7766-7725,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:30"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:00"", ""dayOfWeek"": ""매일""}]"
-15818685,https://place.map.kakao.com/15818685,이라면,분식,28,23,경기 수원시 장안구 서부로2106번길 18,031-291-7611,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 19:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 14:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:00 ~ 17:00"", ""dayOfWeek"": ""월~금""}]"
-27391641,https://place.map.kakao.com/27391641,은행나무참숯풍천민물장어,장어,10,1,경기 수원시 장안구 서부로2135번길 27,031-298-1314,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-2130149558,https://place.map.kakao.com/2130149558,명가양꼬치,양꼬치,20,34,경기 수원시 장안구 서부로2105번길 21,031-292-1788,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-15508787,https://place.map.kakao.com/15508787,양푼동태탕,"매운탕,해물탕",24,27,경기 수원시 장안구 서부로2168번길 13-10,031-242-6540,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:30"", ""dayOfWeek"": ""월~토""}]"
-1234555779,https://place.map.kakao.com/1234555779,포동이네 성대점,"초밥,롤",23,191,경기 수원시 장안구 율전로98번길 6-2,031-294-4988,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}]"
-10342295,https://place.map.kakao.com/10342295,마포숯불갈비,갈비,10,4,경기 수원시 장안구 율전로98번길 20,031-227-5469,Y,N,N,,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-1399349565,https://place.map.kakao.com/1399349565,르디망슈,디저트카페,23,52,경기 수원시 장안구 율전로107번길 5,031-548-0565,Y,Y,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-1986260055,https://place.map.kakao.com/1986260055,홍구등갈비 본점,갈비,15,23,경기 수원시 장안구 서부로2168번길 5-13,031-255-8292,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-21342132,https://place.map.kakao.com/21342132,천포 천천점,"해물,생선",17,84,경기 수원시 장안구 덕영대로511번길 29-15,031-269-7339,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:30"", ""dayOfWeek"": ""매일""}]"
-532875978,https://place.map.kakao.com/532875978,먹깨비김밥,분식,26,25,경기 수원시 장안구 서부로 2129-1,031-293-3369,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-26948881,https://place.map.kakao.com/26948881,드럼통돌구이,닭요리,16,50,경기 수원시 장안구 율전로108번길 9,031-297-7161,N,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 23:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""13:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-76989512,https://place.map.kakao.com/76989512,오르카커피룸,커피전문점,23,135,경기 수원시 장안구 화산로 235,010-6491-7866,Y,Y,N,Y,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""월,화,수,목,토,일""}]"
-1676208114,https://place.map.kakao.com/1676208114,최고집 원조 수구레,한식,23,139,경기 수원시 장안구 서부로 2107,070-8843-4329,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 23:00"", ""dayOfWeek"": ""화~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:00"", ""dayOfWeek"": ""토,일""}]"
-26858863,https://place.map.kakao.com/26858863,키와마루아지 성균관대점,일본식라면,64,7,경기 수원시 장안구 서부로2105번길 26-3,031-292-8858,Y,N,N,N,"{""appointment"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:30"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:00"", ""dayOfWeek"": ""매일""}]"
-20706332,https://place.map.kakao.com/20706332,생각나는순대국 본점,순대,26,78,경기 수원시 장안구 율전로 84,031-297-2545,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-2142515097,https://place.map.kakao.com/2142515097,수참치 성대점,참치회,27,7,경기 수원시 장안구 서부로2123번길 17,031-296-3737,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:30 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-1681238250,https://place.map.kakao.com/1681238250,대동집 수원성균관대점,"호프,요리주점",14,12,경기 수원시 장안구 율전로108번길 15,031-278-9993,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 02:00"", ""dayOfWeek"": ""월~토""}]"
-727780795,https://place.map.kakao.com/727780795,토기장이오리&삼겹살전문점,"육류,고기",18,226,경기 수원시 장안구 서부로 2178,031-271-1118,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""일""}]"
-2019801909,https://place.map.kakao.com/2019801909,정원,중국요리,17,126,경기 수원시 장안구 서부로2123번길 34-3,031-546-1985,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}]"
-27596356,https://place.map.kakao.com/27596356,아구아구대구왕뽈찜,아구,5,7,경기 수원시 장안구 하률로 31,0504-930-2113,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-17180407,https://place.map.kakao.com/17180407,성대목장이,"육류,고기",17,19,경기 수원시 장안구 서부로2105번길 16-1,031-295-4090,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-1194567292,https://place.map.kakao.com/1194567292,벨라튀니지,퓨전요리,45,22,경기 수원시 장안구 서부로2106번길 21,031-296-8327,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""월~토""}]"
-23480275,https://place.map.kakao.com/23480275,우특심한우곱창 장안구율전점,"곱창,막창",12,35,경기 수원시 장안구 율전로 90-10,031-292-9901,,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""18:00 ~ 23:00"", ""dayOfWeek"": ""월~토""}]"
-1551766058,https://place.map.kakao.com/1551766058,사랑해 수원성대점,회,5,20,경기 수원시 장안구 화산로233번길 42,031-296-7708,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}",null
-12091570,https://place.map.kakao.com/12091570,우리소양평해장국,해장국,13,19,경기 수원시 장안구 서부로 2179,031-268-8889,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""05:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-1744478913,https://place.map.kakao.com/1744478913,자명문,카페,33,132,경기 수원시 장안구 율전로108번길 9,,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-1118339601,https://place.map.kakao.com/1118339601,주야,일본식주점,10,89,경기 수원시 장안구 서부로2135번길 30,010-4377-1657,Y,Y,N,,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""화~일""}]"
-1114147333,https://place.map.kakao.com/1114147333,우리동네스시신조,"초밥,롤",93,157,경기 수원시 장안구 만석로19번길 25-5,031-252-5577,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-140527598,https://place.map.kakao.com/140527598,맥주호텔,"호프,요리주점",5,71,경기 수원시 장안구 서부로2105번길 12,,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""18:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-27436603,https://place.map.kakao.com/27436603,영통찌개지존 성대점,"찌개,전골",13,6,경기 수원시 장안구 화산로233번길 47,031-296-1046,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 05:00"", ""dayOfWeek"": ""매일""}]"
-2087728013,https://place.map.kakao.com/2087728013,카페일구오삼,카페,26,74,경기 수원시 장안구 율전로107번길 73,,Y,Y,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:30"", ""dayOfWeek"": ""토,일""}]"
-529851956,https://place.map.kakao.com/529851956,여유당카페,카페,9,52,경기 수원시 장안구 덕영대로407번길 7,031-268-9909,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 18:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 17:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:30"", ""dayOfWeek"": ""토,일""}]"
-59378154,https://place.map.kakao.com/59378154,카페롤랑,디저트카페,15,38,경기 수원시 장안구 율전로85번길 20,031-298-8366,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 20:00"", ""dayOfWeek"": ""월,수,목,금,토,일""}]"
-21314103,https://place.map.kakao.com/21314103,롯데리아 수원성대점,롯데리아,0,3,경기 수원시 장안구 서부로 2119,031-293-7755,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-1296555163,https://place.map.kakao.com/1296555163,경복궁개성손만두메밀소바전문점 율전점,"찌개,전골",17,56,경기 수원시 장안구 서부로 2171,031-269-2313,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:30"", ""dayOfWeek"": ""월~금""}]"
-17155692,https://place.map.kakao.com/17155692,닥치고삼겹살 수원점,삼겹살,16,25,경기 수원시 장안구 덕영대로445번길 12-8,031-269-7757,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-1866533508,https://place.map.kakao.com/1866533508,카페쓰리몽키즈,디저트카페,13,185,경기 수원시 권선구 율전로63번길 5-10,031-293-8886,Y,Y,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-15111969,https://place.map.kakao.com/15111969,황금족발 수원성대점,"족발,보쌈",12,31,경기 수원시 장안구 서부로 2125,031-292-9335,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:30 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""13:30 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-1706269697,https://place.map.kakao.com/1706269697,춘천닭갈비칡냉면,닭요리,11,43,경기 수원시 장안구 화산로233번길 64,031-291-3338,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~금""}]"
-1938195034,https://place.map.kakao.com/1938195034,일성,일식,12,49,경기 수원시 장안구 율전로 92,010-3069-0770,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""월~토""}]"
-11823509,https://place.map.kakao.com/11823509,본찌돈까스 성대점,"돈까스,우동",58,46,경기 수원시 장안구 서부로2106번길 22,031-297-1001,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""월~토""}]"
-745210904,https://place.map.kakao.com/745210904,옛날사람,술집,6,24,경기 수원시 장안구 화산로233번길 17,,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 04:00"", ""dayOfWeek"": ""화~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""월,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 05:00"", ""dayOfWeek"": ""토""}]"
-21340845,https://place.map.kakao.com/21340845,비추는별,커피전문점,16,10,경기 수원시 장안구 서부로2105번길 12,031-227-0677,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""13:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-19048239,https://place.map.kakao.com/19048239,아이엠바리스타,커피전문점,19,12,경기 수원시 장안구 서부로 2132,031-227-0866,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:30"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1416660333,https://place.map.kakao.com/1416660333,한창희천하일면 수원성대점,국수,49,0,경기 수원시 장안구 화산로233번길 46,031-227-4775,N,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}]"
-8873661,https://place.map.kakao.com/8873661,대성장,중국요리,19,5,경기 수원시 장안구 서부로2181번길 46-6,031-207-2020,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""월,수,목,금,토,일""}]"
-1018460180,https://place.map.kakao.com/1018460180,투썸플레이스 수원성균관대점,투썸플레이스,0,17,경기 수원시 장안구 서부로2105번길 13,031-291-2252,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-1849169051,https://place.map.kakao.com/1849169051,지장수본가전주콩나물국밥 2호점,국밥,10,13,경기 수원시 장안구 서부로2123번길 29,031-298-8878,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 22:00"", ""dayOfWeek"": ""일""}]"
-1762781450,https://place.map.kakao.com/1762781450,목구멍 율전점,목구멍,11,746,경기 수원시 장안구 화산로233번길 46,0507-1464-9295,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-1326106570,https://place.map.kakao.com/1326106570,김엄마밥집,분식,14,23,경기 수원시 장안구 덕영대로425번길 34,031-269-4894,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""월~토""}]"
-957385573,https://place.map.kakao.com/957385573,예술상,"호프,요리주점",18,53,경기 수원시 장안구 율전로 92,,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:30 ~ 01:00"", ""dayOfWeek"": ""월~토""}]"
-1371429890,https://place.map.kakao.com/1371429890,부라보쪽갈비 성대점,갈비,5,36,경기 수원시 장안구 화산로233번길 10,031-291-8592,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 23:30"", ""dayOfWeek"": ""월~토""}]"
-18331758,https://place.map.kakao.com/18331758,1인자감자탕,감자탕,13,2,경기 수원시 장안구 화산로233번길 43,031-292-1020,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-24727345,https://place.map.kakao.com/24727345,화이트스노우 성균관대점,디저트카페,23,4,경기 수원시 장안구 서부로 2132,031-292-7766,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-26983844,https://place.map.kakao.com/26983844,동대문엽기떡볶이 수원성대점,동대문엽기떡볶이,21,10,경기 수원시 장안구 서부로 2132,031-295-8591,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:30"", ""dayOfWeek"": ""매일""}]"
-27436426,https://place.map.kakao.com/27436426,맘스터치 수원성균관대점,맘스터치,48,7,경기 수원시 장안구 서부로 2128,031-298-8305,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-1169735393,https://place.map.kakao.com/1169735393,합 성대율전동직영2호점,"호프,요리주점",12,5,경기 수원시 장안구 서부로2105번길 26-4,031-8002-0701,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""월~목""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""금""}, {""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 02:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""일""}]"
-86770396,https://place.map.kakao.com/86770396,인더비엣 수원성대점,베트남음식,27,48,경기 수원시 장안구 율전로108번길 23,031-227-2007,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-2064565238,https://place.map.kakao.com/2064565238,중경마라탕 성대점,중국요리,21,13,경기 수원시 장안구 서부로2106번길 10,0507-1866-7246,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}]"
-27436681,https://place.map.kakao.com/27436681,동네아저씨 수원성아치,치킨,14,11,경기 수원시 장안구 서부로2123번길 29,031-242-6686,Y,N,,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-26644198,https://place.map.kakao.com/26644198,설빙 수원성대점,설빙,7,9,경기 수원시 장안구 서부로 2107,0507-1293-1354,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-22763262,https://place.map.kakao.com/22763262,이라부,일본식주점,11,24,경기 수원시 장안구 서부로 2135,,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-112727456,https://place.map.kakao.com/112727456,램공방,중국요리,8,37,경기 수원시 장안구 정자로 12,031-271-8886,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""13:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-13300076,https://place.map.kakao.com/13300076,양철통낙지,실내포장마차,10,1,경기 수원시 장안구 화산로233번길 41,0507-0286-1375,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 04:00"", ""dayOfWeek"": ""매일""}]"
-234898457,https://place.map.kakao.com/234898457,엉터리생고기 수원성대역점,엉터리생고기,12,10,경기 수원시 장안구 화산로 231-10,031-227-9232,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""13:00 ~ 24:00"", ""dayOfWeek"": ""월~수""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""목,금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 24:00"", ""dayOfWeek"": ""토,일""}]"
-8641868,https://place.map.kakao.com/8641868,박경규항아리보쌈 성대,"족발,보쌈",11,5,경기 수원시 장안구 화산로233번길 64,031-298-8858,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-458201929,https://place.map.kakao.com/458201929,정성담은샤브칼국수,샤브샤브,22,6,경기 수원시 장안구 화산로233번길 60,031-291-1046,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-22550444,https://place.map.kakao.com/22550444,도미노피자 율천점,도미노피자,23,11,경기 수원시 장안구 하률로 3,031-269-3008,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-27276923,https://place.map.kakao.com/27276923,국수파동,국수,28,28,경기 수원시 장안구 서부로 2107,031-291-8599,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 01:00"", ""dayOfWeek"": ""월~토""}]"
-780108318,https://place.map.kakao.com/780108318,비사이드,카페,10,19,경기 수원시 장안구 정자로 6,031-269-2678,Y,N,Y,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-159313643,https://place.map.kakao.com/159313643,보배반점 성균관대점,보배반점,13,33,경기 수원시 장안구 서부로 2132,070-8826-8833,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:30"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:00"", ""dayOfWeek"": ""매일""}]"
-377072176,https://place.map.kakao.com/377072176,찬이네주먹고기,"육류,고기",18,31,경기 수원시 장안구 서부로2105번길 23,070-4624-8999,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 24:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 22:00"", ""dayOfWeek"": ""일""}]"
-9153270,https://place.map.kakao.com/9153270,동네빈대떡 성대직영점,한식,11,10,경기 수원시 장안구 율전로 90-4,031-296-0530,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-254631179,https://place.map.kakao.com/254631179,사거리다방,카페,21,54,경기 수원시 장안구 율전로85번길 2,,Y,Y,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:00"", ""dayOfWeek"": ""화~일""}]"
-12364442,https://place.map.kakao.com/12364442,파리바게뜨 성균관대점,파리바게뜨,25,4,경기 수원시 장안구 서부로 2135,031-294-6008,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-766046626,https://place.map.kakao.com/766046626,오스테리아우노,이탈리안,46,145,경기 수원시 장안구 율전로98번길 7,010-8474-0026,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:30"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-1037196364,https://place.map.kakao.com/1037196364,청년다방 수원성균관대점,청년다방,8,18,경기 수원시 장안구 화산로233번길 35,031-298-0111,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-14707742,https://place.map.kakao.com/14707742,먹거리고을,"호프,요리주점",15,13,경기 수원시 장안구 서부로2126번길 10,,,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:30 ~ 02:00"", ""dayOfWeek"": ""월~토""}]"
-1500905935,https://place.map.kakao.com/1500905935,예감쪽갈비 수원성대점,갈비,0,206,경기 수원시 장안구 율전로98번길 6-9,031-298-9866,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 22:30"", ""dayOfWeek"": ""화~일""}]"
-16171995,https://place.map.kakao.com/16171995,감스시,"초밥,롤",10,14,경기 수원시 장안구 서부로2123번길 17,031-253-3302,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""화~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""토,일""}]"
-1564913318,https://place.map.kakao.com/1564913318,이자카야 슌,일본식주점,15,26,경기 수원시 장안구 서부로2105번길 26-5,,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""월~토""}]"
-346317197,https://place.map.kakao.com/346317197,플렁드,"제과,베이커리",31,107,경기 수원시 장안구 율전로 91,031-309-1488,N,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""수~일""}]"
-15698705,https://place.map.kakao.com/15698705,"일미,닭갈비,파전",닭요리,27,21,경기 수원시 장안구 서부로2106번길 26-3,031-296-6641,,N,N,N,"{""appointment"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~금""}]"
-1258111819,https://place.map.kakao.com/1258111819,BBQ 수원성대역점,BBQ,24,2,경기 수원시 장안구 서부로2126번길 27,031-295-9289,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:30"", ""dayOfWeek"": ""매일""}]"
-24160437,https://place.map.kakao.com/24160437,월매랑삼겹이랑,삼겹살,3,5,경기 수원시 장안구 화산로213번길 11,,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-26924582,https://place.map.kakao.com/26924582,빽다방 수원성균관대역점,빽다방,11,4,경기 수원시 장안구 서부로 2129-1,031-292-0410,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""월~금"", ""timeEtc"": ""아이스크림 마감 20:30""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 22:00"", ""dayOfWeek"": ""토,일"", ""timeEtc"": ""아이스크림 마감 20:30""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:50"", ""dayOfWeek"": ""매일""}]"
-853192658,https://place.map.kakao.com/853192658,카페휴,커피전문점,5,7,경기 수원시 장안구 정자로32번길 16,031-269-7652,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-508508014,https://place.map.kakao.com/508508014,생마차 수원성대점,생마차,1,50,경기 수원시 장안구 화산로233번길 49,031-292-9838,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-868755529,https://place.map.kakao.com/868755529,장수촌 천천점,닭요리,3,13,경기 수원시 장안구 정자로 14,031-269-7475,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""월,수,목,금,토,일""}]"
-1460865891,https://place.map.kakao.com/1460865891,나츠비,일식,14,130,경기 수원시 장안구 서부로2106번길 22,010-5790-0676,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:30 ~ 24:00"", ""dayOfWeek"": ""월~토""}]"
-266260479,https://place.map.kakao.com/266260479,생각나는순대국 성대점,순대,18,19,경기 수원시 장안구 서부로2126번길 38,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1752110137,https://place.map.kakao.com/1752110137,아무술집 성대직영점,"호프,요리주점",7,111,경기 수원시 장안구 화산로233번길 56,,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 04:00"", ""dayOfWeek"": ""월,화,수,목,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 05:00"", ""dayOfWeek"": ""금,토""}]"
-1941692451,https://place.map.kakao.com/1941692451,정든닭발 성대점,닭요리,13,71,경기 수원시 장안구 화산로233번길 61,031-893-2963,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-27181404,https://place.map.kakao.com/27181404,섬세한남자,카페,16,27,경기 수원시 장안구 율전로 93,031-293-2505,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:50 ~ 23:00"", ""dayOfWeek"": ""토,일""}]"
-8516178,https://place.map.kakao.com/8516178,제주도도야지생삼겹살,삼겹살,10,8,경기 수원시 장안구 서부로2105번길 16-23,031-293-8213,,N,N,N,{},null
-520447689,https://place.map.kakao.com/520447689,정성식탁,이탈리안,0,89,경기 수원시 장안구 서부로2136번길 9,0507-1338-1190,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-1578043317,https://place.map.kakao.com/1578043317,육가든,삼겹살,8,58,경기 수원시 장안구 화산로233번길 62,,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 23:50"", ""dayOfWeek"": ""매일""}]"
-479258379,https://place.map.kakao.com/479258379,주량 성대직영점,"호프,요리주점",0,168,경기 수원시 장안구 서부로2105번길 26-8,010-7379-3597,Y,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:30 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-163642613,https://place.map.kakao.com/163642613,사우스스트릿,햄버거,0,28,경기 수원시 장안구 율전로 102-4,0507-1863-3419,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""월,수,목,금,토""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:30 ~ 15:30"", ""dayOfWeek"": ""월,수,목,금""}]"
-21390672,https://place.map.kakao.com/21390672,명동돈까스,"돈까스,우동",23,11,경기 수원시 장안구 서부로2106번길 17,031-297-7774,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:30"", ""dayOfWeek"": ""월~토""}]"
-15809950,https://place.map.kakao.com/15809950,꾸이꾸이돼지마을,"육류,고기",8,7,경기 수원시 장안구 화산로213번길 1,031-293-9293,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}",null
-26317358,https://place.map.kakao.com/26317358,자연김밥,분식,11,13,경기 수원시 장안구 서부로 2113,031-291-9990,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""06:00 ~ 15:00"", ""dayOfWeek"": ""화~일""}]"
-1590438587,https://place.map.kakao.com/1590438587,해를품은짬뽕 수원점,중국요리,18,110,경기 수원시 장안구 정자로 16-1,031-271-0401,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:40"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:30 ~ 16:30"", ""dayOfWeek"": ""월~금""}]"
-11295900,https://place.map.kakao.com/11295900,지코바 율전점,지코바,12,9,경기 수원시 장안구 서부로2126번길 17,031-296-9582,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 23:00"", ""dayOfWeek"": ""월,수,목,금,토,일""}]"
-2042897816,https://place.map.kakao.com/2042897816,역전할머니맥주 성균관대점,역전할머니맥주,0,16,경기 수원시 장안구 율전로108번길 23,031-293-2213,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""월,화,수,목,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""금,토""}]"
-7907443,https://place.map.kakao.com/7907443,본죽&비빔밥cafe 수원율전점,본죽&비빔밥cafe,10,7,경기 수원시 장안구 서부로 2113,031-291-6288,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:30 ~ 21:00"", ""dayOfWeek"": ""월~토""}]"
-1638654664,https://place.map.kakao.com/1638654664,부산산꼼장어,장어,10,9,경기 수원시 장안구 덕영대로425번길 12,031-8001-8221,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-610741145,https://place.map.kakao.com/610741145,부자국밥,국밥,9,2,경기 수원시 장안구 화산로233번길 46,031-296-3421,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:30 ~ 21:30"", ""dayOfWeek"": ""월,화,수,목,금,일""}]"
-1049809557,https://place.map.kakao.com/1049809557,메가MGC커피 수원상률초점,메가MGC커피,1,5,경기 수원시 장안구 덕영대로425번길 44,031-271-6678,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-10397894,https://place.map.kakao.com/10397894,배스킨라빈스 수원성대점,배스킨라빈스,7,12,경기 수원시 장안구 서부로 2119,031-278-5050,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-27519582,https://place.map.kakao.com/27519582,자금성,중국요리,28,20,경기 수원시 장안구 덕영대로511번길 37-18,031-271-9071,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""화~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""화~토""}]"
-877155889,https://place.map.kakao.com/877155889,성대곱창,"곱창,막창",6,188,경기 수원시 장안구 율전로 96,031-251-2328,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""일""}]"
-21323790,https://place.map.kakao.com/21323790,동자설렁탕,설렁탕,12,9,경기 수원시 장안구 화산로213번길 23,031-292-8542,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1837512260,https://place.map.kakao.com/1837512260,IMJ,양식,4,1,경기 수원시 장안구 화산로285번길 18-1,031-298-4879,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 21:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 20:00"", ""dayOfWeek"": ""토,일""}]"
-24869509,https://place.map.kakao.com/24869509,공차 성대점,공차,7,2,경기 수원시 장안구 서부로2126번길 9,031-296-3613,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-811912865,https://place.map.kakao.com/811912865,루미네숯불닭갈비,닭요리,2,25,경기 수원시 장안구 서부로2135번길 13,031-292-1592,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""월~토""}]"
-462951897,https://place.map.kakao.com/462951897,옛날통닭 율전점,치킨,9,5,경기 수원시 장안구 덕영대로425번길 30,031-268-9255,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}",null
-971551511,https://place.map.kakao.com/971551511,메가MGC커피 수원율전점,메가MGC커피,15,6,경기 수원시 장안구 서부로2105번길 16-4,031-296-6650,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:30 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-14666115,https://place.map.kakao.com/14666115,교촌치킨 율전1호점,교촌치킨,15,8,경기 수원시 장안구 서부로2123번길 34-3,031-292-9898,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-641918700,https://place.map.kakao.com/641918700,에스쿱,이탈리안,11,153,경기 수원시 장안구 덕영대로445번길 37,010-8548-3234,Y,N,,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""19:00 ~ 21:00"", ""dayOfWeek"": ""화~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 22:00"", ""dayOfWeek"": ""월""}]"
-1464213920,https://place.map.kakao.com/1464213920,성대왕김말이,분식,17,12,경기 수원시 장안구 화산로233번길 12,,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-148202780,https://place.map.kakao.com/148202780,윤실장초밥 성대점,"초밥,롤",21,82,경기 수원시 장안구 서부로2105번길 13,031-292-7150,,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-1445316158,https://place.map.kakao.com/1445316158,마포화곱창 성균관대점,"곱창,막창",6,40,경기 수원시 장안구 서부로2105번길 9,031-295-1116,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""화~금""}]"
-771592981,https://place.map.kakao.com/771592981,회조아,회,6,55,경기 수원시 장안구 화산로259번길 40,031-297-5989,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 23:00"", ""dayOfWeek"": ""화~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""13:00 ~ 23:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""13:00 ~ 22:00"", ""dayOfWeek"": ""일""}]"
-2018182515,https://place.map.kakao.com/2018182515,삼구포차,실내포장마차,3,4,경기 수원시 장안구 화산로233번길 52,031-298-3338,,N,N,N,{},null
-86582844,https://place.map.kakao.com/86582844,일공사,"호프,요리주점",9,94,경기 수원시 장안구 화산로233번길 61,070-4007-1912,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""월,화,수,목,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 04:00"", ""dayOfWeek"": ""금,토""}]"
-26846151,https://place.map.kakao.com/26846151,BHC치킨 성대율전점,BHC치킨,10,2,경기 수원시 장안구 서부로2181번길 40,031-268-0092,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-967228641,https://place.map.kakao.com/967228641,스타벅스 수원천천점,스타벅스,46,46,경기 수원시 장안구 덕영대로535번길 46,1522-3232,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 21:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""07:30 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-747720101,https://place.map.kakao.com/747720101,공릉닭한마리 수원점,닭요리,13,43,경기 수원시 장안구 덕영대로511번길 37-20,031-268-0030,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""화~일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""화~금""}]"
-54008184,https://place.map.kakao.com/54008184,롤링파스타 수원성균관대점,롤링파스타,0,17,경기 수원시 장안구 서부로 2125,070-4833-6516,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 20:30"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-469922283,https://place.map.kakao.com/469922283,장원가마솥통닭,치킨,6,17,경기 수원시 장안구 정자로 26-1,031-242-5992,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""화~일""}]"
-8799625,https://place.map.kakao.com/8799625,김밥천국 율전성대점,분식,13,1,경기 수원시 장안구 서부로 2157,031-242-0072,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 21:20"", ""dayOfWeek"": ""월,화,수,목,금,일""}]"
-125156430,https://place.map.kakao.com/125156430,4년황기삼계탕,삼계탕,10,8,경기 수원시 장안구 상률로46번길 33,031-271-4633,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 15:00"", ""dayOfWeek"": ""일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-1664789127,https://place.map.kakao.com/1664789127,큰맘할매순대국 수원성대점,큰맘할매순대국,13,7,경기 수원시 장안구 서부로 2131,031-292-8293,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-1665003130,https://place.map.kakao.com/1665003130,완미족발 수원성대점,완미족발,2,42,경기 수원시 장안구 서부로 2107,031-295-9269,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-13581495,https://place.map.kakao.com/13581495,설참치,참치회,5,3,경기 수원시 장안구 서부로2123번길 10,031-296-9878,Y,N,,,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-1453260089,https://place.map.kakao.com/1453260089,참바른김밥,분식,25,11,경기 수원시 장안구 서부로2126번길 17,031-295-8111,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""06:00 ~ 21:00"", ""dayOfWeek"": ""월~토""}]"
-797446683,https://place.map.kakao.com/797446683,만리향,중국요리,10,2,경기 수원시 장안구 서부로2167번길 51,031-295-8808,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 20:30"", ""dayOfWeek"": ""매일""}]"
-1315723828,https://place.map.kakao.com/1315723828,아그집쭈꾸미 성대점,"해물,생선",7,14,경기 수원시 장안구 화산로233번길 12,031-292-9158,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-450307831,https://place.map.kakao.com/450307831,정통집 수원성대점,"육류,고기",9,21,경기 수원시 장안구 서부로2105번길 12,031-898-9292,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-261655717,https://place.map.kakao.com/261655717,힌카쿠,일본식라면,36,31,경기 수원시 장안구 서부로2126번길 10,070-8648-0072,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:30 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-601434033,https://place.map.kakao.com/601434033,빽다방 수원율전점,빽다방,0,2,경기 수원시 장안구 서부로 2157,031-895-5808,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:30 ~ 20:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 19:30"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 18:00"", ""dayOfWeek"": ""일""}]"
-25160402,https://place.map.kakao.com/25160402,노랑통닭 성균관대점,노랑통닭,11,6,경기 수원시 장안구 화산로213번길 32,031-292-9993,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-278807677,https://place.map.kakao.com/278807677,메가MGC커피 수원성균관대점,메가MGC커피,1,0,경기 수원시 장안구 서부로 2125,031-298-1110,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:30"", ""dayOfWeek"": ""매일""}]"
-2065394692,https://place.map.kakao.com/2065394692,가장맛있는족발 수원율전점,가장맛있는족발,9,4,경기 수원시 장안구 율전로98번길 7,031-295-5849,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 24:00"", ""dayOfWeek"": ""월~목""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 01:00"", ""dayOfWeek"": ""금~일""}]"
-25118762,https://place.map.kakao.com/25118762,수천냉면,냉면,20,20,경기 수원시 장안구 덕영대로497번길 8-1,031-269-6868,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 20:30"", ""dayOfWeek"": ""매일""}]"
-1531960250,https://place.map.kakao.com/1531960250,무쏘 성대점,무쏘,12,10,경기 수원시 장안구 서부로 2187,031-271-8292,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-11226106,https://place.map.kakao.com/11226106,피자스쿨 성대점,피자스쿨,10,6,경기 수원시 장안구 서부로2123번길 32,031-227-0802,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 23:30"", ""dayOfWeek"": ""매일""}]"
-1014093517,https://place.map.kakao.com/1014093517,기똥찬고기,"육류,고기",8,8,경기 수원시 장안구 화산로213번길 29-6,031-293-0910,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-8947912,https://place.map.kakao.com/8947912,동해바다회,회,3,1,경기 수원시 장안구 덕영대로497번길 18,031-241-9992,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}",null
-243310751,https://place.map.kakao.com/243310751,태영생막창,"곱창,막창",8,24,경기 수원시 장안구 율전로 95,031-298-8586,Y,N,N,N,"{""appointment"": ""Y""}",null
-21323905,https://place.map.kakao.com/21323905,송원칼국수,칼국수,8,7,경기 수원시 장안구 덕영대로425번길 8,031-269-7848,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:00"", ""dayOfWeek"": ""화~일""}]"
-1361763675,https://place.map.kakao.com/1361763675,비건카페 모앤더비,카페,10,14,경기 수원시 장안구 율전로 105,031-253-8462,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 19:00"", ""dayOfWeek"": ""토""}]"
-16014416,https://place.map.kakao.com/16014416,청진동해장국 율전성대점,청진동해장국,16,2,경기 수원시 장안구 서부로2123번길 17,031-227-2393,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-324405971,https://place.map.kakao.com/324405971,뉴트로포차1972재개발구역 성대점,실내포장마차,3,3,경기 수원시 장안구 서부로2105번길 11,,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-1830157990,https://place.map.kakao.com/1830157990,솔트타운피자,피자,12,1,경기 수원시 장안구 화산로213번길 9-4,0507-1398-0432,Y,N,N,N,"{""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:00"", ""dayOfWeek"": ""월~토""}]"
-935640855,https://place.map.kakao.com/935640855,카페로디,카페,5,46,경기 수원시 장안구 화산로213번길 11,0507-1476-5107,Y,Y,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:00"", ""dayOfWeek"": ""화~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""13:00 ~ 22:00"", ""dayOfWeek"": ""일""}]"
-724821886,https://place.map.kakao.com/724821886,율천회관,"육류,고기",15,23,경기 수원시 장안구 서부로2126번길 24,031-548-0321,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-9053975,https://place.map.kakao.com/9053975,북한산조개구이,조개,4,25,경기 수원시 장안구 서부로2135번길 13,031-292-4855,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-11813911,https://place.map.kakao.com/11813911,동촌샤브칼국수 천천점,샤브샤브,21,43,경기 수원시 장안구 정자로20번길 27,031-269-2292,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:30 ~ 16:30"", ""dayOfWeek"": ""화~일""}]"
-922808226,https://place.map.kakao.com/922808226,하우짓 블랙,커피전문점,13,102,경기 수원시 장안구 화산로213번길 25,0507-1399-7728,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:00"", ""dayOfWeek"": ""월,화,수,금,토,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 23:00"", ""dayOfWeek"": ""목""}]"
-585080783,https://place.map.kakao.com/585080783,심,일본식주점,3,3,경기 수원시 장안구 서부로2136번길 21,,Y,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""19:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-2119673908,https://place.map.kakao.com/2119673908,노랑냄비와석쇠구이집,한식,5,9,경기 수원시 장안구 서부로2123번길 16,031-293-3492,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-1507085310,https://place.map.kakao.com/1507085310,아람삼계탕,한식,4,6,경기 수원시 장안구 서부로2123번길 27,031-297-3705,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}",null
-1224099552,https://place.map.kakao.com/1224099552,미가라멘 성대본점,일본식라면,32,55,경기 수원시 장안구 서부로2106번길 38-2,031-296-3375,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:30"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:30 ~ 16:30"", ""dayOfWeek"": ""월~금""}]"
-17225323,https://place.map.kakao.com/17225323,태화루,중국요리,17,11,경기 수원시 장안구 서부로2181번길 46,031-271-6006,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:30"", ""dayOfWeek"": ""화~일""}]"
-1579032099,https://place.map.kakao.com/1579032099,신화쭈꾸미 성대점,"해물,생선",6,103,경기 수원시 장안구 서부로2126번길 4,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 22:30"", ""dayOfWeek"": ""매일""}]"
-1813246940,https://place.map.kakao.com/1813246940,독산성족발&순대국 성대점,"족발,보쌈",2,3,경기 수원시 장안구 서부로2123번길 17,031-291-3772,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}",null
-632468732,https://place.map.kakao.com/632468732,더맛구이구이쪽갈비 성균관대점,갈비,5,3,경기 수원시 장안구 화산로233번길 41,031-294-9279,Y,Y,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-24924013,https://place.map.kakao.com/24924013,교촌치킨 정자2호점,교촌치킨,24,1,경기 수원시 장안구 정자로 12-1,031-251-2332,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-848146441,https://place.map.kakao.com/848146441,월드오징어바다 성균관대점,"해물,생선",6,99,경기 수원시 장안구 서부로2105번길 11,031-293-8033,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 02:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 01:30"", ""dayOfWeek"": ""매일""}]"
-274119991,https://place.map.kakao.com/274119991,원숭이초밥,"초밥,롤",17,83,경기 수원시 장안구 하률로 7,070-8813-7777,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""월,화,목,금,토,일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월,화,목,금,토,일""}]"
-2017609824,https://place.map.kakao.com/2017609824,BBQ 수원율전점,BBQ,11,0,경기 수원시 장안구 서부로 2095,031-298-7184,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 00:30"", ""dayOfWeek"": ""매일""}]"
-582394902,https://place.map.kakao.com/582394902,양지촌,양꼬치,8,5,경기 수원시 장안구 화산로213번길 25,010-3867-0813,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:00"", ""dayOfWeek"": ""화~일""}]"
-1609558752,https://place.map.kakao.com/1609558752,깡우동 수원성균관대점,깡우동,5,24,경기 수원시 장안구 화산로233번길 30,031-292-0987,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""18:00 ~ 04:00"", ""dayOfWeek"": ""매일""}]"
-454412435,https://place.map.kakao.com/454412435,컴포즈커피 수원성균관대점,컴포즈커피,4,3,경기 수원시 장안구 서부로 2123,031-297-1727,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-219227261,https://place.map.kakao.com/219227261,동문시장맨끝집 성균관대점,"육류,고기",0,12,경기 수원시 장안구 화산로233번길 18,031-291-3336,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 01:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 01:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 22:00"", ""dayOfWeek"": ""일""}]"
-713486459,https://place.map.kakao.com/713486459,화원루 천천점,중국요리,7,2,경기 수원시 장안구 하률로 13-1,031-268-8365,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}",null
-27258679,https://place.map.kakao.com/27258679,만다,한식,40,31,경기 수원시 장안구 서부로2105번길 16-6,,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:40"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 15:30"", ""dayOfWeek"": ""토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~금""}]"
-27344726,https://place.map.kakao.com/27344726,육회독존,"육류,고기",7,14,경기 수원시 장안구 화산로233번길 46,031-297-6858,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 03:00"", ""dayOfWeek"": ""월,화,수,금,토,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 24:00"", ""dayOfWeek"": ""목""}]"
-331363212,https://place.map.kakao.com/331363212,성대지붕,한식,1,8,경기 수원시 장안구 서부로2123번길 20,0507-1380-1619,Y,Y,N,Y,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""18:00 ~ 05:00"", ""dayOfWeek"": ""매일""}]"
-1225809321,https://place.map.kakao.com/1225809321,디저트39 성대점,디저트39,4,34,경기 수원시 장안구 화산로213번길 23,031-296-7939,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-11567579,https://place.map.kakao.com/11567579,독도참치,참치회,6,11,경기 수원시 장안구 서부로2135번길 13,031-297-5554,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}",null
-764374529,https://place.map.kakao.com/764374529,화원루,중국요리,18,33,경기 수원시 장안구 서부로2126번길 17,031-298-8365,N,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}",null
-1236230631,https://place.map.kakao.com/1236230631,휘미관,한식,9,26,경기 수원시 장안구 서부로2105번길 29,031-295-2023,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""월,화,목,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""금,토""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""수""}]"
-1541357379,https://place.map.kakao.com/1541357379,마리,카페,0,1,경기 수원시 장안구 덕영대로439번길 40-9,031-264-8484,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:30"", ""dayOfWeek"": ""매일""}]"
-1365016719,https://place.map.kakao.com/1365016719,마이요거트립 성균관대역점,디저트카페,14,71,경기 수원시 장안구 화산로 235,,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 01:00"", ""dayOfWeek"": ""화~일""}]"
-265211549,https://place.map.kakao.com/265211549,행복한손칼국수,칼국수,4,5,경기 수원시 장안구 서부로2105번길 16-16,,,N,N,N,"{""pagekage"": ""Y""}",null
-1209089174,https://place.map.kakao.com/1209089174,1984그수육집칼국수 수원천천점,국수,5,76,경기 수원시 장안구 덕영대로497번길 8-3,070-7576-3645,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""화~일""}]"
-1665769841,https://place.map.kakao.com/1665769841,닭강정스토리,닭강정,10,25,경기 수원시 장안구 서부로2123번길 20,031-294-9233,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 23:00"", ""dayOfWeek"": ""월,화,목,금,토,일""}]"
-83246451,https://place.map.kakao.com/83246451,핵밥 수원성균관대점,핵밥,13,646,경기 수원시 장안구 서부로 2128,,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-892131283,https://place.map.kakao.com/892131283,홍성마라미방 성균관대2호점,중국요리,5,16,경기 수원시 장안구 율전로108번길 10-8,031-309-2199,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 22:30"", ""dayOfWeek"": ""매일""}]"
-1187387242,https://place.map.kakao.com/1187387242,양뜰양꼬치 성내점,양꼬치,0,30,경기 수원시 장안구 화산로233번길 54,031-295-5199,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-15242753,https://place.map.kakao.com/15242753,국수나무 수원율전점,국수나무,9,2,경기 수원시 장안구 서부로2123번길 10,031-296-1002,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-1051593113,https://place.map.kakao.com/1051593113,화락바베큐치킨 수원성대점,화락바베큐치킨,3,13,경기 수원시 장안구 화산로233번길 42,0507-1352-7308,Y,N,N,Y,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-1591753205,https://place.map.kakao.com/1591753205,버터랏츠,"제과,베이커리",11,70,경기 수원시 장안구 서부로2181번길 29,,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 19:00"", ""dayOfWeek"": ""수~일"", ""timeEtc"": ""재료소진시 마감""}]"
-1742659364,https://place.map.kakao.com/1742659364,성대밥상,한식,13,3,경기 수원시 장안구 서부로2126번길 50-10,031-291-7898,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:00"", ""dayOfWeek"": ""매일""}]"
-1409883460,https://place.map.kakao.com/1409883460,청원순두부,두부전문점,9,4,경기 수원시 장안구 하률로12번길 10,031-271-2854,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-928464447,https://place.map.kakao.com/928464447,뎅과 꼬치로 수원본점,오뎅바,8,140,경기 수원시 장안구 서부로2105번길 26-8,010-6571-0575,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-831655475,https://place.map.kakao.com/831655475,감례밥상,한식뷔페,10,2,경기 수원시 장안구 화산로233번길 62,,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 19:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:00 ~ 17:30"", ""dayOfWeek"": ""월~금""}]"
-2124427467,https://place.map.kakao.com/2124427467,하노이맥주밤거리 수원성대점,하노이맥주밤거리,4,66,경기 수원시 장안구 율전로108번길 20,0507-1417-6770,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 04:00"", ""dayOfWeek"": ""매일""}]"
-13574805,https://place.map.kakao.com/13574805,청기와감자탕,해장국,8,13,경기 수원시 장안구 정자로 24,031-269-0188,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-12364642,https://place.map.kakao.com/12364642,파리바게뜨 수원율전점,파리바게뜨,1,1,경기 수원시 장안구 서부로2181번길 36,031-241-8139,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 23:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 22:30"", ""dayOfWeek"": ""일""}]"
-275468985,https://place.map.kakao.com/275468985,최고당돈가스,최고당돈가스,9,31,경기 수원시 장안구 서부로2105번길 21,031-291-7988,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-1466049208,https://place.map.kakao.com/1466049208,대한닭갈비 본점,닭요리,5,59,경기 수원시 장안구 서부로2123번길 34-7,031-296-8896,Y,Y,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""월,수,목,금,토,일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월,수,목,금,토,일""}]"
-1132268046,https://place.map.kakao.com/1132268046,최가네,한식,6,106,경기 수원시 장안구 서부로2126번길 27,031-291-6885,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:30 ~ 16:30"", ""dayOfWeek"": ""매일""}]"
-11669500,https://place.map.kakao.com/11669500,굽네치킨 피자 수원율전점,굽네치킨,23,3,경기 수원시 장안구 덕영대로425번길 41,031-269-9298,,,,,"{""delivery"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-10361687,https://place.map.kakao.com/10361687,뚜레쥬르 성대율전점,뚜레쥬르,5,3,경기 수원시 장안구 율전로 105,031-227-0189,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-10560589,https://place.map.kakao.com/10560589,소문난김밥,분식,8,4,경기 수원시 장안구 율전로 110,031-243-5030,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 18:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:00"", ""dayOfWeek"": ""월~금""}]"
-2040708054,https://place.map.kakao.com/2040708054,떡보킹 본점,떡볶이,16,21,경기 수원시 장안구 율전로 84,0507-1860-0936,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 20:30"", ""dayOfWeek"": ""화~일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""화~일""}]"
-1036685970,https://place.map.kakao.com/1036685970,파파스,카페,10,0,경기 수원시 장안구 서부로2105번길 13,,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 24:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-589138753,https://place.map.kakao.com/589138753,육전면사무소 수원성균관대점,"호프,요리주점",1,74,경기 수원시 장안구 서부로 2115,,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 23:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:00 ~ 16:00"", ""dayOfWeek"": ""월~금""}]"
-2014258709,https://place.map.kakao.com/2014258709,율전방앗간,"호프,요리주점",6,102,경기 수원시 장안구 율전로98번길 18-12,,Y,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""월,수,목,금""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 01:00"", ""dayOfWeek"": ""토,일""}]"
-160178955,https://place.map.kakao.com/160178955,화성옥콩콩,국밥,4,3,경기 수원시 장안구 하률로 11,031-252-6397,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 21:00"", ""dayOfWeek"": ""토,일""}]"
-774922733,https://place.map.kakao.com/774922733,빨간석쇠구이 성대점,닭요리,5,7,경기 수원시 장안구 서부로2105번길 26-3,031-296-9992,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-20082356,https://place.map.kakao.com/20082356,성대찌개고을,"찌개,전골",4,3,경기 수원시 장안구 서부로2105번길 16-9,031-291-1261,,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-2047627551,https://place.map.kakao.com/2047627551,정직유부 수원성대점,정직유부,4,7,경기 수원시 장안구 서부로2126번길 10,031-227-5337,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 20:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""토,일""}]"
-1649788863,https://place.map.kakao.com/1649788863,파치 성대점,이탈리안,6,21,경기 수원시 장안구 서부로 2136,031-893-0407,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}]"
-1435052345,https://place.map.kakao.com/1435052345,웅이네,디저트카페,9,59,경기 수원시 장안구 율전로 90-7,010-2717-5279,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:00"", ""dayOfWeek"": ""화~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:00"", ""dayOfWeek"": ""토,일""}]"
-28718393,https://place.map.kakao.com/28718393,배스킨라빈스 수원율전점,배스킨라빈스,0,4,경기 수원시 장안구 서부로2181번길 4,031-271-3132,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-333432190,https://place.map.kakao.com/333432190,히닭발,닭요리,13,18,경기 수원시 장안구 율전로98번길 18-4,031-227-8875,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 24:00"", ""dayOfWeek"": ""일""}]"
-91485793,https://place.map.kakao.com/91485793,육식,"육류,고기",9,36,경기 수원시 장안구 율전로 92,,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-438967509,https://place.map.kakao.com/438967509,바바플 성균관대점,"제과,베이커리",16,12,경기 수원시 장안구 서부로2126번길 30,031-291-4917,,,,,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 20:00"", ""dayOfWeek"": ""일""}]"
-1119639144,https://place.map.kakao.com/1119639144,더벤티 수원율전점,더벤티,4,6,경기 수원시 장안구 서부로2123번길 33,070-7868-1446,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:40 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-1433138261,https://place.map.kakao.com/1433138261,곤드레마을,한식,0,5,경기 수원시 장안구 덕영대로497번길 22-12,031-245-5693,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-1611863174,https://place.map.kakao.com/1611863174,달쏭쿠키제작소,"제과,베이커리",0,6,경기 수원시 장안구 서부로2167번길 51,010-9562-0615,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:00"", ""dayOfWeek"": ""월~토""}]"
-770517610,https://place.map.kakao.com/770517610,작은바,"호프,요리주점",7,59,경기 수원시 장안구 하률로 13,010-5264-5669,Y,,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:30"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 23:30"", ""dayOfWeek"": ""일""}]"
-1498762960,https://place.map.kakao.com/1498762960,유케집 성대점,"호프,요리주점",2,39,경기 수원시 장안구 화산로213번길 15,,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-535761318,https://place.map.kakao.com/535761318,소주방 율전점,"호프,요리주점",5,128,경기 수원시 장안구 서부로2123번길 20-1,,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""18:00 ~ 02:00"", ""dayOfWeek"": ""월~목""}, {""timeName"": ""영업시간"", ""timeSE"": ""18:00 ~ 03:00"", ""dayOfWeek"": ""금""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""일""}]"
-1554019024,https://place.map.kakao.com/1554019024,가장맛있는뒷고기,"육류,고기",9,9,경기 수원시 장안구 덕영대로511번길 29-16,031-268-7771,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-11634973,https://place.map.kakao.com/11634973,한솥도시락 수원성대점,한솥도시락,10,4,경기 수원시 장안구 서부로 2112,031-295-5113,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 15:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 15:00"", ""dayOfWeek"": ""일""}]"
-1822626017,https://place.map.kakao.com/1822626017,낫얼론(Not alone),카페,15,20,경기 수원시 장안구 화산로213번길 9-3,010-8981-7074,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:00"", ""dayOfWeek"": ""월,화,목,금,토""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 20:00"", ""dayOfWeek"": ""수,일""}]"
-26006530,https://place.map.kakao.com/26006530,DCT바,칵테일바,6,0,경기 수원시 장안구 화산로233번길 17,,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""19:30 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-205548870,https://place.map.kakao.com/205548870,수해복마라탕,중국요리,29,10,경기 수원시 장안구 서부로2105번길 7,031-298-1004,Y,N,N,N,"{""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:30"", ""dayOfWeek"": ""월,화,수,목,금,일"", ""timeEtc"": ""(재료소진시 조기마감)""}]"
-318332845,https://place.map.kakao.com/318332845,몽키키친,양식,7,10,경기 수원시 장안구 화산로203번길 34,,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 20:50"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:30 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-929132172,https://place.map.kakao.com/929132172,담은샤브칼국수 직영1호점,칼국수,5,24,경기 수원시 장안구 화산로233번길 60,031-291-1046,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:00"", ""dayOfWeek"": ""매일""}]"
-309707599,https://place.map.kakao.com/309707599,일미리금계찜닭 성균관대점,일미리금계찜닭,14,8,경기 수원시 장안구 서부로2126번길 24,031-297-4657,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-15189345,https://place.map.kakao.com/15189345,왕빈자삼파전 성대점,"호프,요리주점",8,6,경기 수원시 장안구 서부로2126번길 18,031-292-5673,N,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""월~토""}]"
-1065627364,https://place.map.kakao.com/1065627364,무지개맥주 수원성균관대점,무지개맥주,1,0,경기 수원시 장안구 서부로2123번길 20,,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-1786427985,https://place.map.kakao.com/1786427985,인생맥주,"호프,요리주점",0,0,경기 수원시 장안구 서부로2123번길 17,,,,,,{},null
-1632334394,https://place.map.kakao.com/1632334394,나나테이블,양식,8,107,경기 수원시 장안구 덕영대로497번길 8-15,031-271-1257,Y,Y,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""화~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 19:00"", ""dayOfWeek"": ""일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:30"", ""dayOfWeek"": ""화~토""}]"
-1819325525,https://place.map.kakao.com/1819325525,언더그라운드,카페,11,3,경기 수원시 장안구 서부로2126번길 30,031-292-7177,Y,,,,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-25933615,https://place.map.kakao.com/25933615,땅땅치킨 수원성대점,땅땅치킨,8,2,경기 수원시 장안구 서부로2123번길 17,031-296-7770,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-11062677,https://place.map.kakao.com/11062677,보드람치킨 성대역점,보드람치킨,4,7,경기 수원시 장안구 서부로2123번길 10,031-291-8535,N,N,,,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-27359340,https://place.map.kakao.com/27359340,전설의치킨 성대점,치킨,11,7,경기 수원시 장안구 하률로12번길 4,031-271-8295,,,,,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""월~토""}]"
-7985724,https://place.map.kakao.com/7985724,썬더치킨 수원성균관대점,썬더치킨,11,6,경기 수원시 장안구 율전로 102-5,031-292-5554,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-1480272698,https://place.map.kakao.com/1480272698,와플대학 성균관대역캠퍼스,와플대학,21,2,경기 수원시 장안구 서부로 2133,031-293-7063,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-453700382,https://place.map.kakao.com/453700382,알촌 성균관대점,퓨전한식,13,8,경기 수원시 장안구 서부로2106번길 32,031-227-7992,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:30"", ""dayOfWeek"": ""월,화,수,목,금,일""}]"
-207326909,https://place.map.kakao.com/207326909,매머드익스프레스 수원성대역점,매머드익스프레스,4,6,경기 수원시 장안구 서부로 2139,,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 22:30"", ""dayOfWeek"": ""토,일""}]"
-1083342381,https://place.map.kakao.com/1083342381,굴다리전집,한식,1,0,경기 수원시 장안구 덕영대로425번길 8,070-7585-7060,,,,,{},null
-2485731,https://place.map.kakao.com/2485731,논페이셜커피,커피전문점,10,9,경기 수원시 장안구 서부로2106번길 26-92,010-8467-7484,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:30 ~ 20:30"", ""dayOfWeek"": ""월~토""}]"
-570522076,https://place.map.kakao.com/570522076,싸인이스케이프 성대역점,테마카페,2,9,경기 수원시 장안구 서부로2123번길 17,031-295-8287,,,,,{},null
-1832804999,https://place.map.kakao.com/1832804999,수셰프치킨 수원성균관대 직영1호점,치킨,6,0,경기 수원시 장안구 화산로187번길 4,010-8909-1368,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-554066548,https://place.map.kakao.com/554066548,도레미파스타,이탈리안,23,16,경기 수원시 장안구 서부로2106번길 26-15,,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:30"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-58385889,https://place.map.kakao.com/58385889,맥주거품 성균관대점,"호프,요리주점",1,11,경기 수원시 장안구 율전로108번길 20,,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-637087679,https://place.map.kakao.com/637087679,디인카페 수제샌드위치전문점,디저트카페,11,12,경기 수원시 장안구 덕영대로439번길 45,0507-1296-7951,Y,Y,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}]"
-27438279,https://place.map.kakao.com/27438279,달콩,카페,2,3,경기 수원시 장안구 서부로2181번길 9,,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-18829773,https://place.map.kakao.com/18829773,황소마을,"곱창,막창",2,11,경기 수원시 장안구 율전로64번길 69,031-278-0212,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:30 ~ 24:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 24:00"", ""dayOfWeek"": ""토,일""}]"
-10894827,https://place.map.kakao.com/10894827,투다리 성대점,투다리,5,3,경기 수원시 장안구 화산로233번길 47,,,N,N,N,{},null
-899743322,https://place.map.kakao.com/899743322,BBQ 율전행복점,BBQ,4,1,경기 수원시 장안구 서부로2197번길 40,031-269-9592,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 01:00"", ""dayOfWeek"": ""월,화,수,토,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""목,금""}]"
-15508915,https://place.map.kakao.com/15508915,왕돈까스 성대본점,"돈까스,우동",19,12,경기 수원시 장안구 서부로2106번길 21,0503-7259-5596,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 19:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}]"
-1695257281,https://place.map.kakao.com/1695257281,밀주집,술집,5,33,경기 수원시 장안구 화산로233번길 38,,,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 04:00"", ""dayOfWeek"": ""화~목""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""월,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 05:00"", ""dayOfWeek"": ""금,토""}]"
-1325470116,https://place.map.kakao.com/1325470116,바네통,"제과,베이커리",4,15,경기 수원시 장안구 덕영대로425번길 53,,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}]"
-453060892,https://place.map.kakao.com/453060892,주꼬로,"호프,요리주점",5,68,경기 수원시 장안구 서부로2105번길 26-5,031-8019-9341,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-1198322826,https://place.map.kakao.com/1198322826,해물궁,"해물,생선",6,106,경기 수원시 장안구 덕영대로511번길 29-22,031-293-2777,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""월,수,목,금,토,일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:30 ~ 16:30"", ""dayOfWeek"": ""월,수,목,금,토,일""}]"
-2139646226,https://place.map.kakao.com/2139646226,소문난순대국,순대,15,18,경기 수원시 장안구 덕영대로511번길 29-6,031-271-4822,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:30 ~ 16:30"", ""dayOfWeek"": ""월~토""}]"
-540536496,https://place.map.kakao.com/540536496,다또케이크,"제과,베이커리",2,20,경기 수원시 장안구 화산로 235,010-799-7141,Y,Y,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 18:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 16:00"", ""dayOfWeek"": ""일""}]"
-13668289,https://place.map.kakao.com/13668289,마약보쌈족발 천천점,"족발,보쌈",4,2,경기 수원시 장안구 덕영대로511번길 37-11,031-269-0777,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""13:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-1696548715,https://place.map.kakao.com/1696548715,에그2000 율전점,토스트,0,28,경기 수원시 장안구 율전로 107,031-293-2023,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 23:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 23:00"", ""dayOfWeek"": ""토,일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""17:00 ~ 18:00"", ""dayOfWeek"": ""매일""}]"
-19514248,https://place.map.kakao.com/19514248,바오밥나무 수원점,"제과,베이커리",13,6,경기 수원시 장안구 덕영대로535번길 38,031-269-3812,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""06:30 ~ 22:30"", ""dayOfWeek"": ""매일""}]"
-2038193180,https://place.map.kakao.com/2038193180,고기불패,"육류,고기",8,13,경기 수원시 장안구 화산로233번길 52,031-292-8729,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-146436886,https://place.map.kakao.com/146436886,싸가정곱창 담윤순대국,순대,9,3,경기 수원시 장안구 서부로2126번길 27,0503-5294-7200,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-1397766172,https://place.map.kakao.com/1397766172,다람쥐굴,카페,8,40,경기 수원시 장안구 서부로2105번길 23,,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-1424928355,https://place.map.kakao.com/1424928355,길모퉁이,카페,5,4,경기 수원시 장안구 서부로2168번길 13-10,031-268-6072,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:30 ~ 20:00"", ""dayOfWeek"": ""월~토""}]"
-1808018815,https://place.map.kakao.com/1808018815,탕화쿵푸마라탕 성대점,중식,2,13,경기 수원시 장안구 서부로2105번길 12,010-5591-3678,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-26638971,https://place.map.kakao.com/26638971,가마로강정 성균관대점,가마로강정,10,5,경기 수원시 장안구 서부로 2129-1,031-227-7292,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 22:30"", ""dayOfWeek"": ""매일""}]"
-463088652,https://place.map.kakao.com/463088652,푸라닭치킨 수원정자3동점,푸라닭치킨,7,3,경기 수원시 장안구 정자로 28,,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 24:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""토,일""}]"
-24583309,https://place.map.kakao.com/24583309,신전떡볶이 수원성대점,신전떡볶이,8,4,경기 수원시 장안구 서부로 2107,031-305-1080,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""월,화,수,목,토,일""}]"
-249943622,https://place.map.kakao.com/249943622,땅스부대찌개 수원성대점,땅스부대찌개,5,7,경기 수원시 장안구 율전로 107,031-293-8599,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:30 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-396793066,https://place.map.kakao.com/396793066,버거운버거 수원성균관대점,햄버거,13,15,경기 수원시 장안구 서부로2126번길 29,031-293-9266,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-24941922,https://place.map.kakao.com/24941922,포크포크 매콤돈가스&칡불냉면,"돈까스,우동",17,29,경기 수원시 장안구 서부로2106번길 14,031-278-4209,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-78000630,https://place.map.kakao.com/78000630,용수산횟집,회,3,6,경기 수원시 장안구 서부로2197번길 47-1,0503-5299-4504,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 23:00"", ""dayOfWeek"": ""화~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:00"", ""dayOfWeek"": ""토,일""}]"
-876599819,https://place.map.kakao.com/876599819,육연사 성균관대점,한식,2,60,경기 수원시 장안구 서부로2123번길 20-1,031-298-0925,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-51082585,https://place.map.kakao.com/51082585,왕코미네탕후루 성대점,왕코미네탕후루,2,14,경기 수원시 장안구 서부로 2107,031-546-8436,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-1650333127,https://place.map.kakao.com/1650333127,성대족발보쌈,"족발,보쌈",15,9,경기 수원시 장안구 서부로2105번길 16-1,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 02:00"", ""dayOfWeek"": ""월~토""}]"
-6215308,https://place.map.kakao.com/6215308,커피(COFFEE)93.0,커피전문점,8,1,경기 수원시 장안구 서부로2126번길 50-4,031-293-4777,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 21:00"", ""dayOfWeek"": ""토,일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:45"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 20:45"", ""dayOfWeek"": ""토,일""}]"
-179517302,https://place.map.kakao.com/179517302,스마일왕돈까스,"돈까스,우동",3,0,경기 수원시 장안구 화산로259번길 37,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-4774511,https://place.map.kakao.com/4774511,사랑해베이글 수원천천점,"제과,베이커리",0,58,경기 수원시 장안구 덕영대로511번길 15,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:30 ~ 21:00"", ""dayOfWeek"": ""화~일""}]"
-1243445015,https://place.map.kakao.com/1243445015,훠훠우육면,중국요리,10,9,경기 수원시 장안구 서부로2126번길 18,070-4833-6667,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-8683021,https://place.map.kakao.com/8683021,오구쌀피자 성대점,59쌀피자,5,1,경기 수원시 장안구 서부로 2115,0503-5258-2160,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-1636782286,https://place.map.kakao.com/1636782286,하루엔소쿠 수원성대점,하루엔소쿠,3,7,경기 수원시 장안구 율전로98번길 6-6,031-294-3177,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 20:30"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-1883192464,https://place.map.kakao.com/1883192464,크림오리,"제과,베이커리",4,13,경기 수원시 장안구 덕영대로425번길 41,010-2702-6252,Y,Y,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:00"", ""dayOfWeek"": ""화~일""}]"
-575516645,https://place.map.kakao.com/575516645,역북집 수원성대점,삼겹살,0,10,경기 수원시 장안구 서부로2123번길 16,,Y,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-171778144,https://place.map.kakao.com/171778144,쉐프의돈카츠,"돈까스,우동",8,32,경기 수원시 장안구 하률로 21,031-268-2686,Y,Y,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:00"", ""dayOfWeek"": ""화~일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:30 ~ 16:30"", ""dayOfWeek"": ""화~일""}]"
-19197657,https://place.map.kakao.com/19197657,놀부부대찌개,놀부부대찌개,2,2,경기 수원시 장안구 서부로2135번길 13,031-291-1238,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1443342149,https://place.map.kakao.com/1443342149,꿈시루,"떡,한과",2,0,경기 수원시 장안구 하률로12번길 82,031-242-4333,,,,,{},null
-1689944735,https://place.map.kakao.com/1689944735,반갑다친구야,삼겹살,5,12,경기 수원시 장안구 서부로2105번길 24,031-297-7942,,N,N,N,{},null
-1453910980,https://place.map.kakao.com/1453910980,호호맥주,"호프,요리주점",2,8,경기 수원시 장안구 서부로2105번길 26-3,,,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""화~일""}]"
-11517876,https://place.map.kakao.com/11517876,치킨마루 수원성대점,치킨마루,3,0,경기 수원시 장안구 덕영대로 429,031-297-5290,Y,N,,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-1324929519,https://place.map.kakao.com/1324929519,감성 성대점,술집,2,2,경기 수원시 장안구 화산로233번길 55,,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-2121491926,https://place.map.kakao.com/2121491926,밀플랜 본점,샐러드,11,36,경기 수원시 장안구 율전로 90-6,,Y,Y,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 20:30"", ""dayOfWeek"": ""매일""}]"
-656040666,https://place.map.kakao.com/656040666,우야꼬수제요리전문점,일식,8,7,경기 수원시 장안구 하률로12번길 86,0507-1299-1593,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-1559930235,https://place.map.kakao.com/1559930235,비어첸 수원성대점,"호프,요리주점",3,2,경기 수원시 장안구 율전로108번길 5,031-302-3242,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 02:00"", ""dayOfWeek"": ""월,수,금,토""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""화,목""}]"
-1204144787,https://place.map.kakao.com/1204144787,피자헐,음식점,6,1,경기 수원시 장안구 율전로 105,031-227-8482,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""11:20 ~ 22:30"", ""dayOfWeek"": ""월~목""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:20 ~ 23:00"", ""dayOfWeek"": ""금""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 23:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:40 ~ 22:30"", ""dayOfWeek"": ""일""}]"
-887096776,https://place.map.kakao.com/887096776,진국밥 수원직영점,국밥,6,0,경기 수원시 장안구 정자로 28-1,031-268-8288,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:30"", ""dayOfWeek"": ""화,수,목,금,일""}]"
-373045848,https://place.map.kakao.com/373045848,오늘우동 수원성대점,"돈까스,우동",5,0,경기 수원시 장안구 서부로2126번길 15,,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1233957944,https://place.map.kakao.com/1233957944,60계치킨 수원율전점,60계,3,1,경기 수원시 장안구 상률로46번길 3,0507-1863-7666,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-933917069,https://place.map.kakao.com/933917069,크라운호프 수원성대점,크라운호프,6,3,경기 수원시 장안구 화산로213번길 32,031-291-2713,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-1320563937,https://place.map.kakao.com/1320563937,처갓집양념치킨 율전점,처갓집양념치킨,8,3,경기 수원시 장안구 율전로101번길 43,031-295-9282,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-78851879,https://place.map.kakao.com/78851879,백채김치찌개 성균관대점,백채김치찌개,11,17,경기 수원시 장안구 서부로2105번길 21,,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 24:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-14541898,https://place.map.kakao.com/14541898,평양손만두,"찌개,전골",5,8,경기 수원시 장안구 덕영대로497번길 22-4,031-268-0301,N,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-228368455,https://place.map.kakao.com/228368455,김재권철판볶음순대국,순대,10,8,경기 수원시 장안구 정자로 18,031-269-9035,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 21:00"", ""dayOfWeek"": ""월,수,목,금,토,일""}]"
-1756224594,https://place.map.kakao.com/1756224594,사계참치,참치회,5,7,경기 수원시 장안구 화산로233번길 30,010-2019-8200,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-16748851,https://place.map.kakao.com/16748851,애플김밥 천천점,분식,19,11,경기 수원시 장안구 정자로 33,031-269-3633,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:00 ~ 20:50"", ""dayOfWeek"": ""화~일""}]"
-765114919,https://place.map.kakao.com/765114919,텐푸라바사바사,일식,9,22,경기 수원시 장안구 서부로 2112,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-21359017,https://place.map.kakao.com/21359017,상무네닭발집,닭요리,1,9,경기 수원시 장안구 율전로 93,0507-1863-0587,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:30 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-27197463,https://place.map.kakao.com/27197463,투썸플레이스 수원천천점,투썸플레이스,16,4,경기 수원시 장안구 만석로19번길 29,031-271-2053,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-21339856,https://place.map.kakao.com/21339856,명가복떡집,"떡,한과",0,0,경기 수원시 장안구 덕영대로425번길 27,031-242-2626,,,,,{},null
-794084189,https://place.map.kakao.com/794084189,모브커피,디저트카페,1,12,경기 수원시 장안구 덕영대로439번길 39-3,010-2580-4207,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 21:00"", ""dayOfWeek"": ""화~일""}]"
-1748640860,https://place.map.kakao.com/1748640860,영희네 고기,"육류,고기",7,2,경기 수원시 장안구 화산로233번길 55,031-292-3344,,N,N,Y,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 24:00"", ""dayOfWeek"": ""월,화,수,목,금,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 24:00"", ""dayOfWeek"": ""토""}]"
-1767899301,https://place.map.kakao.com/1767899301,도래홍막창 성대점,"곱창,막창",17,53,경기 수원시 장안구 서부로2105번길 16-4,031-278-2630,N,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 03:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""토,일""}]"
-6789812,https://place.map.kakao.com/6789812,더맛있는족발보쌈 수원천천점,한식,8,95,경기 수원시 장안구 덕영대로511번길 37-21,031-268-5072,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:30 ~ 00:30"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:30 ~ 24:00"", ""dayOfWeek"": ""일""}]"
-1499744274,https://place.map.kakao.com/1499744274,로봇초밥마켓 수원성대점,"초밥,롤",0,22,경기 수원시 장안구 화산로259번길 37,031-296-3005,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-1841647256,https://place.map.kakao.com/1841647256,메가MGC커피 천천중앙점,메가MGC커피,4,7,경기 수원시 장안구 정자로 20,031-271-5713,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-690323283,https://place.map.kakao.com/690323283,비네즈,카페,0,5,경기 수원시 장안구 덕영대로417번길 52-33,031-302-1696,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 20:00"", ""dayOfWeek"": ""월~토""}]"
-75869816,https://place.map.kakao.com/75869816,장작클라스 수원성대점,"호프,요리주점",6,9,경기 수원시 장안구 율전로108번길 10-8,031-891-8654,Y,N,N,Y,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 24:00"", ""dayOfWeek"": ""화~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 23:00"", ""dayOfWeek"": ""일""}]"
-758364545,https://place.map.kakao.com/758364545,조아마라탕,중국요리,8,5,경기 수원시 장안구 서부로2123번길 20-1,,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-2043902510,https://place.map.kakao.com/2043902510,옹백이 족발보쌈,"족발,보쌈",0,0,경기 수원시 장안구 서부로2123번길 20-1,031-297-2399,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 23:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:00 ~ 16:00"", ""dayOfWeek"": ""월~토""}]"
-143949936,https://place.map.kakao.com/143949936,커피9,카페,8,11,경기 수원시 장안구 화산로203번길 34,,,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-293871984,https://place.map.kakao.com/293871984,오븐마루치킨 수원율전점,오븐마루치킨,3,10,경기 수원시 장안구 화산로259번길 51,031-8067-8778,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""월,화,수,목,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""금,토""}]"
-1941750469,https://place.map.kakao.com/1941750469,텐사장,일식,8,10,경기 수원시 장안구 서부로2123번길 27,031-227-2107,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-678887360,https://place.map.kakao.com/678887360,더리터 수원성대점,더리터,13,6,경기 수원시 장안구 서부로2106번길 18,031-216-2405,Y,N,,N,"{""appointment"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""07:30 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-9426333,https://place.map.kakao.com/9426333,종로떡집,"떡,한과",2,1,경기 수원시 장안구 율전로 104,031-291-9269,,,,,{},null
-19330963,https://place.map.kakao.com/19330963,봉구스밥버거 성대2호점,봉구스밥버거,4,5,경기 수원시 장안구 서부로2126번길 30,031-291-0153,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 20:30"", ""dayOfWeek"": ""월~토""}]"
-639520146,https://place.map.kakao.com/639520146,더하다피자수원 성대점,피자,3,3,경기 수원시 장안구 서부로2126번길 38-18,,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 01:30"", ""dayOfWeek"": ""매일""}]"
-1595695771,https://place.map.kakao.com/1595695771,금달맥주,술집,1,53,경기 수원시 장안구 화산로213번길 31,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-1060897695,https://place.map.kakao.com/1060897695,한남동그집 성대역점,한남동그집,3,14,경기 수원시 장안구 서부로2123번길 20,031-292-1145,Y,N,N,Y,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-104799387,https://place.map.kakao.com/104799387,빨라쪼델프레도 성균관대역사점,빨라쪼델프레도,11,3,경기 수원시 장안구 ,070-8848-4224,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}]"
-1618999358,https://place.map.kakao.com/1618999358,구이육,"육류,고기",0,5,경기 수원시 장안구 덕영대로445번길 34,031-271-0926,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 22:00"", ""dayOfWeek"": ""월~토""}]"
-650605185,https://place.map.kakao.com/650605185,더카페 라운지앤페르케노 수원성대역점,더카페,3,5,경기 수원시 장안구 서부로2126번길 10,,Y,N,N,N,"{""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-27393012,https://place.map.kakao.com/27393012,무대뽀핫도그,간식,19,11,경기 수원시 장안구 서부로2106번길 17,031-269-7542,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 02:00"", ""dayOfWeek"": ""월~토""}]"
-20807966,https://place.map.kakao.com/20807966,율전족발보쌈,"족발,보쌈",3,6,경기 수원시 장안구 서부로2181번길 4,031-269-5689,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-8220449,https://place.map.kakao.com/8220449,이서등갈비,갈비,1,0,경기 수원시 장안구 서부로2168번길 5-13,031-255-8292,,,,,{},null
-123216598,https://place.map.kakao.com/123216598,가마솥에빠진통닭,치킨,2,4,경기 수원시 장안구 덕영대로407번길 34-22,031-268-0082,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 02:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""일""}]"
-1355280158,https://place.map.kakao.com/1355280158,만복국수집 수원성균관대점,만복국수집,0,0,경기 수원시 장안구 화산로233번길 10,031-293-0313,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""월,수,목,금""}, {""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 22:00"", ""dayOfWeek"": ""토,일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:30"", ""dayOfWeek"": ""월,수,목,금,토,일""}]"
-449391833,https://place.map.kakao.com/449391833,아마스빈 수원성균관대점,아마스빈,9,5,경기 수원시 장안구 서부로 2130,,,,,,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 21:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:30"", ""dayOfWeek"": ""토,일""}]"
-464500543,https://place.map.kakao.com/464500543,리꼬리또,"멕시칸,브라질",4,11,경기 수원시 장안구 서부로2106번길 22,031-294-3931,Y,,,,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""월~토""}]"
-1446532937,https://place.map.kakao.com/1446532937,오군포차 성대점,한식,1,3,경기 수원시 장안구 서부로 2136,010-2230-2452,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-27277034,https://place.map.kakao.com/27277034,엘가커피,카페,4,0,경기 수원시 장안구 서부로 2135,070-8874-5789,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 21:00"", ""dayOfWeek"": ""매일""}]"
-455611650,https://place.map.kakao.com/455611650,밥밥디라라 수원성균관대점,한식,1,8,경기 수원시 장안구 서부로2106번길 26-3,031-278-6750,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-1242689502,https://place.map.kakao.com/1242689502,국대국,순대,5,3,경기 수원시 장안구 서부로2105번길 26-3,031-293-3390,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 23:00"", ""dayOfWeek"": ""월,화,수,목,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 24:00"", ""dayOfWeek"": ""금,토""}]"
-226716661,https://place.map.kakao.com/226716661,버거스올마이티 수원성균관대점,햄버거,2,67,경기 수원시 장안구 율전로 92,070-7788-0825,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-22134771,https://place.map.kakao.com/22134771,배불뚝고기파티 율전동본점,"육류,고기",1,4,경기 수원시 장안구 서부로2181번길 46,031-269-9992,,,,,{},null
-464034062,https://place.map.kakao.com/464034062,본투비,치킨,3,4,경기 수원시 장안구 정자로 10,031-269-9979,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 01:00"", ""dayOfWeek"": ""매일""}]"
-1990436372,https://place.map.kakao.com/1990436372,카페봄봄 수원 성균관대점,카페봄봄,2,0,경기 수원시 장안구 서부로2106번길 14,031-278-6092,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1335628239,https://place.map.kakao.com/1335628239,오아저씨철판,철판요리,7,4,경기 수원시 장안구 서부로2126번길 18,031-305-2407,N,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 15:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~금""}]"
-9089735,https://place.map.kakao.com/9089735,새마을떡방앗간,"떡,한과",0,0,경기 수원시 장안구 덕영대로417번길 52-44,031-207-4326,,,,,{},null
-1063493807,https://place.map.kakao.com/1063493807,피자나라치킨공주 수원천천점,피자나라치킨공주,1,0,경기 수원시 장안구 하률로12번길 5,031-271-8010,N,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 23:30"", ""dayOfWeek"": ""매일""}]"
-1826932479,https://place.map.kakao.com/1826932479,인쌩맥주 성균관대점,인쌩맥주,4,22,경기 수원시 장안구 서부로2123번길 17,,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 02:00"", ""dayOfWeek"": ""매일""}]"
-1445473104,https://place.map.kakao.com/1445473104,리코베이커리,"제과,베이커리",21,22,경기 수원시 장안구 정자로42번길 52,,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-18901771,https://place.map.kakao.com/18901771,BBQ 수원천천점,BBQ,7,2,경기 수원시 장안구 정자로20번길 15,031-268-7700,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-1156465218,https://place.map.kakao.com/1156465218,오서산콩국수 수원점,국수,2,1,경기 수원시 장안구 정자로32번길 12,031-271-4787,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~금""}]"
-1231799195,https://place.map.kakao.com/1231799195,카페다움,카페,7,7,경기 수원시 장안구 서부로2126번길 9,,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 22:30"", ""dayOfWeek"": ""월~토""}]"
-942742067,https://place.map.kakao.com/942742067,일품마라탕 성대점,중국요리,2,5,경기 수원시 장안구 율전로 92,,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:30"", ""dayOfWeek"": ""매일""}]"
-363053524,https://place.map.kakao.com/363053524,우리집밥,한식,9,7,경기 수원시 장안구 서부로2106번길 26-2,,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 20:00"", ""dayOfWeek"": ""토,일""}]"
-837917693,https://place.map.kakao.com/837917693,타코야끼전문점쪼코야끼,간식,8,8,경기 수원시 장안구 서부로2126번길 38,0503-5295-5074,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 02:30"", ""dayOfWeek"": ""매일""}]"
-26933551,https://place.map.kakao.com/26933551,킹고하우스,분식,5,4,경기 수원시 장안구 서부로2106번길 21,031-292-2854,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 24:00"", ""dayOfWeek"": ""월~토""}]"
-1991331080,https://place.map.kakao.com/1991331080,연해물찜칼국수,아구,1,16,경기 수원시 장안구 정자로 8,031-269-2697,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1440558147,https://place.map.kakao.com/1440558147,백억커피 서수원점,커피전문점,2,2,경기 수원시 장안구 서부로2106번길 26-3,,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-1672182177,https://place.map.kakao.com/1672182177,모앤더비,디저트카페,1,0,경기 수원시 장안구 율전로 105,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 19:00"", ""dayOfWeek"": ""토""}]"
-764671951,https://place.map.kakao.com/764671951,만취,"호프,요리주점",1,13,경기 수원시 장안구 화산로233번길 38,,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 05:00"", ""dayOfWeek"": ""매일""}]"
-23492395,https://place.map.kakao.com/23492395,이가네삼대째손두부 본점,두부전문점,34,73,경기 수원시 장안구 정자천로13번길 13-24,031-294-5713,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:30"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 20:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-2118617332,https://place.map.kakao.com/2118617332,스타디움 펍,"호프,요리주점",0,8,경기 수원시 장안구 화산로213번길 11,,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-747079313,https://place.map.kakao.com/747079313,이까야,일본식주점,5,6,경기 수원시 장안구 서부로2105번길 12,,Y,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""18:00 ~ 03:00"", ""dayOfWeek"": ""월~토""}]"
-22045992,https://place.map.kakao.com/22045992,족도사족발,"족발,보쌈",11,0,경기 수원시 장안구 덕영대로425번길 44,031-269-7227,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 01:00"", ""dayOfWeek"": ""화~일""}]"
-719942588,https://place.map.kakao.com/719942588,앙포네,디저트카페,3,14,경기 수원시 장안구 화산로233번길 47,010-7644-7623,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 21:00"", ""dayOfWeek"": ""월~토""}]"
-1870479134,https://place.map.kakao.com/1870479134,홍대장소고기집 천천직영점,"육류,고기",6,21,경기 수원시 장안구 정자로 39,031-890-8892,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}]"
-2108018131,https://place.map.kakao.com/2108018131,또래오래 성대율전점,또래오래,2,0,경기 수원시 장안구 율전로101번길 49,031-292-0858,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""13:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-1066791199,https://place.map.kakao.com/1066791199,따숲닭 본점,치킨,2,0,경기 수원시 장안구 화산로233번길 38,070-4801-5821,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-630976179,https://place.map.kakao.com/630976179,르뱅베이커리,"제과,베이커리",9,5,경기 수원시 장안구 서부로2135번길 13,031-308-4050,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:30"", ""dayOfWeek"": ""화~토""}]"
-471183363,https://place.map.kakao.com/471183363,고씨네카레 수원성대점,일식집,0,27,경기 수원시 장안구 서부로2105번길 21,0507-966-3372,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-941129928,https://place.map.kakao.com/941129928,메가후르츠 수원성균관대점,생과일전문점,4,5,경기 수원시 장안구 서부로2105번길 13,031-305-0710,Y,N,N,N,"{""pagekage"": ""Y""}",null
-744702475,https://place.map.kakao.com/744702475,쉬즈베이글 성대점,"제과,베이커리",5,2,경기 수원시 장안구 서부로2106번길 22,,,N,,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 21:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 18:00"", ""dayOfWeek"": ""토,일""}]"
-1524937882,https://place.map.kakao.com/1524937882,삼봉집,"육류,고기",5,4,경기 수원시 장안구 덕영대로511번길 29-12,031-269-0357,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}",null
-1394396204,https://place.map.kakao.com/1394396204,희망김밥,분식,1,4,경기 수원시 장안구 율전로97번길 15,031-295-9036,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 18:00"", ""dayOfWeek"": ""토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:00"", ""dayOfWeek"": ""월~토""}]"
-16968053,https://place.map.kakao.com/16968053,찌개와조림,한식,1,0,경기 수원시 장안구 서부로 2139,031-298-8838,,,,,{},null
-191853147,https://place.map.kakao.com/191853147,플러스82 성균관대점,플러스82,1,1,경기 수원시 장안구 서부로2106번길 26-36,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-612881213,https://place.map.kakao.com/612881213,더에이치바 율전동,술집,1,47,경기 수원시 장안구 서부로2136번길 10,,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""18:00 ~ 01:00"", ""dayOfWeek"": ""월~토""}]"
-1893975158,https://place.map.kakao.com/1893975158,플레이바,칵테일바,2,0,경기 수원시 장안구 화산로233번길 18,,,N,N,N,{},null
-27154943,https://place.map.kakao.com/27154943,남해식당,한식,5,1,경기 수원시 장안구 덕영대로425번길 40,031-268-5140,,,,,{},null
-1389228859,https://place.map.kakao.com/1389228859,육수당 수원성균관대점,육수당,2,0,경기 수원시 장안구 서부로 2113,031-292-6259,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:30"", ""dayOfWeek"": ""월~토""}]"
-597337755,https://place.map.kakao.com/597337755,인피펍 성대점,"호프,요리주점",3,4,경기 수원시 장안구 화산로233번길 35,031-294-9977,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-282024497,https://place.map.kakao.com/282024497,오디디,카페,3,5,경기 수원시 장안구 율전로108번길 10-1,,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1944974301,https://place.map.kakao.com/1944974301,배떡 성균관대점,배떡,2,1,경기 수원시 장안구 하률로 17,031-268-7987,N,,,,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 00:30"", ""dayOfWeek"": ""매일""}]"
-24160693,https://place.map.kakao.com/24160693,산들애 버섯이야기,샤브샤브,0,0,경기 수원시 장안구 서부로2207번길 26,031-268-5633,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:30 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-1418521318,https://place.map.kakao.com/1418521318,MLMC,카페,14,88,경기 수원시 장안구 덕영대로535번길 28,031-268-0930,Y,Y,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1078707938,https://place.map.kakao.com/1078707938,한아스콘,"제과,베이커리",9,8,경기 수원시 장안구 율전로101번길 13,,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 19:00"", ""dayOfWeek"": ""월~토""}]"
-1926333965,https://place.map.kakao.com/1926333965,하삼동커피 수원성균관점,하삼동커피,8,3,경기 수원시 장안구 서부로2126번길 17,031-297-0708,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-248441966,https://place.map.kakao.com/248441966,두마리찜닭두찜 수원율천점,두찜,0,4,경기 수원시 장안구 서부로2197번길 40,0503-5293-4880,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-27581491,https://place.map.kakao.com/27581491,다소니,디저트카페,2,5,경기 수원시 장안구 정자로20번길 21,031-271-5885,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-1961677700,https://place.map.kakao.com/1961677700,미는샐러드,샐러드,3,8,경기 수원시 장안구 율전로 76,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-23443413,https://place.map.kakao.com/23443413,예국향,국수,21,7,경기 수원시 장안구 서부로2106번길 32,031-291-3323,Y,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:30"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""월~토""}]"
-580311272,https://place.map.kakao.com/580311272,국졔식당,한식,3,2,경기 수원시 장안구 서부로2126번길 29,031-293-7776,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:00"", ""dayOfWeek"": ""매일""}]"
-21161431,https://place.map.kakao.com/21161431,이모스떡볶이,떡볶이,8,6,경기 수원시 장안구 율전로101번길 20,,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:00"", ""dayOfWeek"": ""월~금""}]"
-1408900737,https://place.map.kakao.com/1408900737,나그네족발 보쌈 직영점,"족발,보쌈",3,30,경기 수원시 장안구 하률로30번길 49,0507-966-4728,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-418521967,https://place.map.kakao.com/418521967,십인치,양식,6,2,경기 수원시 장안구 화산로233번길 56,031-548-1042,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""화~일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 17:00"", ""dayOfWeek"": ""화~일""}]"
-897666989,https://place.map.kakao.com/897666989,아이스크림스토리 수원성대점,아이스크림스토리,0,0,경기 수원시 장안구 서부로2126번길 31,,,,,,{},null
-703401491,https://place.map.kakao.com/703401491,해피톡,디저트카페,8,2,경기 수원시 장안구 율전로 107,010-6605-6130,,,,,{},null
-85403680,https://place.map.kakao.com/85403680,곱창홀릭,"곱창,막창",0,24,경기 수원시 장안구 율전로101번길 53-3,010-5896-7527,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 23:30"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 23:00"", ""dayOfWeek"": ""일""}]"
-1034201649,https://place.map.kakao.com/1034201649,아덴블랑제리 수원천천점,카페,1,35,경기 수원시 장안구 정자로19번길 18,031-271-4952,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-292235985,https://place.map.kakao.com/292235985,퓨전포차 인생술집,술집,0,3,경기 수원시 장안구 서부로2126번길 9,031-927-5321,,,,,{},null
-361083715,https://place.map.kakao.com/361083715,호시타코야끼 성대점,호시타코야끼,4,5,경기 수원시 장안구 서부로2106번길 26-3,031-292-6496,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 23:00"", ""dayOfWeek"": ""수,목""}, {""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 02:00"", ""dayOfWeek"": ""금,일""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 23:00"", ""dayOfWeek"": ""화""}, {""timeName"": ""영업시간"", ""timeSE"": ""14:30 ~ 22:00"", ""dayOfWeek"": ""토""}]"
-1766811588,https://place.map.kakao.com/1766811588,카페오픈24 율전점,무인카페,3,14,경기 수원시 장안구 화산로 263,010-2318-2417,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-627036124,https://place.map.kakao.com/627036124,60판왕뚜껑삼겹살 율전뜨란채점,삼겹살,4,5,경기 수원시 장안구 상률로46번길 25,031-271-5898,Y,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 22:30"", ""dayOfWeek"": ""화~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 22:00"", ""dayOfWeek"": ""일""}]"
-1428766971,https://place.map.kakao.com/1428766971,무진장김치찌개 천천점,"찌개,전골",11,9,경기 수원시 장안구 정자로20번길 7,0503-5285-6468,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-1750497551,https://place.map.kakao.com/1750497551,행컵 성균관대점,패스트푸드,11,2,경기 수원시 장안구 서부로2126번길 30,031-291-2150,Y,N,,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:40"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 20:40"", ""dayOfWeek"": ""토,일""}]"
-167967509,https://place.map.kakao.com/167967509,유유진진,카페,7,45,경기 수원시 장안구 덕영대로497번길 14-17,031-271-1223,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:00"", ""dayOfWeek"": ""월~토""}]"
-1572072115,https://place.map.kakao.com/1572072115,HYOM,카페,2,2,경기 수원시 장안구 서부로 2207,,,Y,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:00"", ""dayOfWeek"": ""화~일""}]"
-16174679,https://place.map.kakao.com/16174679,부뚜막백반&김치찜 성대점,한식,10,3,경기 수원시 장안구 정자천로13번길 136,031-292-0056,N,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 20:00"", ""dayOfWeek"": ""매일""}]"
-9455684,https://place.map.kakao.com/9455684,포명천천더차이니즈,중국요리,12,13,경기 수원시 장안구 덕영대로535번길 46,031-268-9995,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""16:00 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-1235356477,https://place.map.kakao.com/1235356477,옥집,"호프,요리주점",0,0,경기 수원시 장안구 율전로108번길 20,,,N,N,N,"{""appointment"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""15:00 ~ 02:00"", ""dayOfWeek"": ""토""}]"
-64507975,https://place.map.kakao.com/64507975,업텐브로피자 성대점,피자,2,1,경기 수원시 장안구 서부로2126번길 24,031-293-7734,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-1574854057,https://place.map.kakao.com/1574854057,크레이저 커피 수원성대점,카페,2,6,경기 수원시 장안구 율전로108번길 20,031-297-0111,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 23:00"", ""dayOfWeek"": ""월~토""}]"
-1809443383,https://place.map.kakao.com/1809443383,본죽&비빔밥cafe 율전상률초점,본죽&비빔밥cafe,0,0,경기 수원시 장안구 서부로2181번길 39,031-268-6288,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:30"", ""dayOfWeek"": ""월~토""}]"
-1376734055,https://place.map.kakao.com/1376734055,달콤한사람들,카페,5,7,경기 수원시 장안구 덕영대로497번길 12,031-269-0927,Y,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1544717849,https://place.map.kakao.com/1544717849,낙원떡집,"떡,한과",0,1,경기 수원시 장안구 율전로 105,031-298-8004,,,,,{},null
-61925869,https://place.map.kakao.com/61925869,성대포명천 율전점,중국요리,3,2,경기 수원시 장안구 율전로101번길 54,0503-5284-0079,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:00"", ""dayOfWeek"": ""화~일""}]"
-541737858,https://place.map.kakao.com/541737858,율전동,"호프,요리주점",3,46,경기 수원시 장안구 화산로233번길 59,,N,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""N""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-19479206,https://place.map.kakao.com/19479206,봉다방,다방,0,0,경기 수원시 장안구 율전로108번길 11,,,,,,{},null
-1408976559,https://place.map.kakao.com/1408976559,포레스트오늘숲 수원천천점,베트남음식,16,63,경기 수원시 장안구 만석로5번길 6,0507-1444-9777,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-261138507,https://place.map.kakao.com/261138507,남도토박이,갈비,0,12,경기 수원시 장안구 덕영대로497번길 22-10,031-269-0123,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:00"", ""dayOfWeek"": ""월~토""}, {""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 21:00"", ""dayOfWeek"": ""일""}]"
-12267147,https://place.map.kakao.com/12267147,전주생막걸리,"호프,요리주점",0,2,경기 수원시 장안구 서부로2105번길 21,031-278-0885,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}",null
-781249361,https://place.map.kakao.com/781249361,착한식당,한식,2,3,경기 수원시 장안구 서부로 2149,,,,,,{},null
-1469793608,https://place.map.kakao.com/1469793608,우진떡집,"떡,한과",1,0,경기 수원시 장안구 덕영대로381번길 72,031-271-9668,,,,,{},null
-1913760014,https://place.map.kakao.com/1913760014,디아,카페,5,8,경기 수원시 장안구 율전로64번길 12-27,,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-1673819877,https://place.map.kakao.com/1673819877,금별맥주 성균관대역점,금별맥주,0,41,경기 수원시 장안구 화산로233번길 59,031-295-7040,,,,,{},null
-1526214744,https://place.map.kakao.com/1526214744,곱창골 수원본점,"곱창,막창",1,9,경기 수원시 장안구 하률로 17-1,031-244-7778,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 23:40"", ""dayOfWeek"": ""월,수,목,금,토,일""}]"
-1901169229,https://place.map.kakao.com/1901169229,본도시락 수원성균관대점,본도시락,5,5,경기 수원시 장안구 서부로2126번길 30,031-296-4282,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}",null
-775103576,https://place.map.kakao.com/775103576,족발더하기,한식,0,8,경기 수원시 장안구 하률로30번길 45-16,,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-21320529,https://place.map.kakao.com/21320529,자피,"호프,요리주점",0,0,경기 수원시 장안구 화산로213번길 9-3,,,,,,{},null
-979059597,https://place.map.kakao.com/979059597,원할머니보쌈 수원천천배달점,원할머니보쌈족발,3,10,경기 수원시 장안구 정자로 28,0503-5298-7214,Y,N,,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}]"
-1473028639,https://place.map.kakao.com/1473028639,르블랑제리 다움,"제과,베이커리",13,92,경기 수원시 장안구 천천로 100,031-271-6368,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-261250031,https://place.map.kakao.com/261250031,밥은화 수원성균관대점,한식,13,0,경기 수원시 장안구 서부로2106번길 26-6,031-307-7948,Y,N,N,N,"{""appointment"": ""N"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 20:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:30 ~ 16:30"", ""dayOfWeek"": ""월~금""}]"
-2020200484,https://place.map.kakao.com/2020200484,카페인24 수원율전점,카페인24,14,2,경기 수원시 장안구 상률로12번길 70-15,010-6577-1042,Y,Y,,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-23009528,https://place.map.kakao.com/23009528,솥뚜껑구이,한식,1,0,경기 수원시 장안구 덕영대로445번길 12-12,,,,,,{},null
-27510146,https://place.map.kakao.com/27510146,카페에비뉴,카페,2,0,경기 수원시 장안구 하률로12번길 5,,,,,,{},null
-952808054,https://place.map.kakao.com/952808054,카페셀,카페,9,6,경기 수원시 장안구 덕영대로381번길 19-22,,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 21:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 20:30"", ""dayOfWeek"": ""매일""}]"
-24711457,https://place.map.kakao.com/24711457,페리카나 성대1점,페리카나,3,1,경기 수원시 장안구 율전로85번길 15,031-291-9285,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-577978017,https://place.map.kakao.com/577978017,텐퍼센트커피 수원율전점,텐퍼센트커피,0,3,경기 수원시 장안구 서부로2181번길 40,031-269-3066,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""08:00 ~ 21:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""09:00 ~ 21:00"", ""dayOfWeek"": ""토,일""}]"
-2085850657,https://place.map.kakao.com/2085850657,응급실국물떡볶이 수원천천점,응급실국물떡볶이,3,3,경기 수원시 장안구 하률로 51-19,031-269-1110,,,,,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}]"
-1230987635,https://place.map.kakao.com/1230987635,샐러디치오도씨 수원성대점,샐러드,6,7,경기 수원시 장안구 서부로2106번길 21,010-4882-1400,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 20:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:00 ~ 16:00"", ""dayOfWeek"": ""월~금""}]"
-13143025,https://place.map.kakao.com/13143025,피자에땅 성대점,피자에땅,1,0,경기 수원시 장안구 하률로12번길 4,031-271-0223,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:40 ~ 22:30"", ""dayOfWeek"": ""월,화,목,금,토""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:40 ~ 22:00"", ""dayOfWeek"": ""일""}]"
-1123960314,https://place.map.kakao.com/1123960314,돈우정숯불구이,갈비,1,0,경기 수원시 장안구 정자로 22-1,031-268-9298,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-762026624,https://place.map.kakao.com/762026624,코아김밥,분식,2,0,경기 수원시 장안구 서부로 2095,031-278-0351,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 19:00"", ""dayOfWeek"": ""화~일""}]"
-11946368,https://place.map.kakao.com/11946368,풍어생선구이정식,"해물,생선",38,91,경기 수원시 장안구 천천로210번길 17-12,031-256-3792,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""N"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 21:30"", ""dayOfWeek"": ""매일""}, {""timeName"": ""휴게시간"", ""timeSE"": ""15:30 ~ 17:00"", ""dayOfWeek"": ""매일""}]"
-2045252460,https://place.map.kakao.com/2045252460,모닝사이드,"제과,베이커리",1,0,경기 수원시 장안구 화산로 211,,,,,,{},null
-834712892,https://place.map.kakao.com/834712892,크로앙쥬 성대점,크로앙쥬,7,6,경기 수원시 장안구 율전로 92,031-8004-0321,Y,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-1866106760,https://place.map.kakao.com/1866106760,요거트아이스크림의정석 수원성대점,요거트아이스크림의정석,0,4,경기 수원시 장안구 덕영대로511번길 29-8,,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 24:00"", ""dayOfWeek"": ""월~목""}, {""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 01:00"", ""dayOfWeek"": ""금,토""}, {""timeName"": ""영업시간"", ""timeSE"": ""14:00 ~ 23:00"", ""dayOfWeek"": ""일""}]"
-1427614215,https://place.map.kakao.com/1427614215,두끼 수원천천점,두끼떡볶이,27,21,경기 수원시 장안구 만석로19번길 25-6,0503-5291-6530,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""매일""}, {""timeName"": ""라스트오더"", ""timeSE"": ""~ 20:00"", ""dayOfWeek"": ""매일""}]"
-661634029,https://place.map.kakao.com/661634029,조춘식동태탕회냉면,한식,0,0,경기 수원시 장안구 서부로 2185,031-269-5454,,,,,{},null
-824736542,https://place.map.kakao.com/824736542,낭만가득한 20세기포장마차,실내포장마차,5,4,경기 수원시 장안구 서부로 2095,,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""18:30 ~ 04:00"", ""dayOfWeek"": ""월~목""}, {""timeName"": ""영업시간"", ""timeSE"": ""18:30 ~ 05:00"", ""dayOfWeek"": ""금,토""}]"
-1035055143,https://place.map.kakao.com/1035055143,카페프롬미,카페,2,18,경기 수원시 장안구 덕영대로497번길 8-9,,Y,Y,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:00"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 18:00"", ""dayOfWeek"": ""토""}]"
-13036289,https://place.map.kakao.com/13036289,참숯풍천장어직판장,장어,11,12,경기 수원시 장안구 일월로 86,031-227-1813,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-650882727,https://place.map.kakao.com/650882727,호끼펍,술집,1,6,경기 수원시 장안구 화산로233번길 53,031-305-4770,,,,,{},null
-880612917,https://place.map.kakao.com/880612917,북수원온천식당 팔각정,한식,0,0,경기 수원시 장안구 서부로 2139,031-293-7005,,,,,{},null
-628884699,https://place.map.kakao.com/628884699,불여우닭발 수원성대점,한식,0,32,경기 수원시 장안구 서부로2123번길 20,070-5015-4777,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 02:00"", ""dayOfWeek"": ""매일""}]"
-100665689,https://place.map.kakao.com/100665689,테라스비어,"호프,요리주점",1,2,경기 수원시 장안구 서부로2136번길 11,031-295-0880,,N,N,N,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""매일""}]"
-1342456271,https://place.map.kakao.com/1342456271,커피먹고놀자,북카페,3,0,경기 수원시 장안구 율전로98번길 7,,Y,,,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""00:00 ~ 24:00"", ""dayOfWeek"": ""매일""}]"
-61771164,https://place.map.kakao.com/61771164,S바,술집,0,0,경기 수원시 장안구 서부로2123번길 10,,,,,,{},null
-932097349,https://place.map.kakao.com/932097349,호세야오리바베큐 율전점,오리,0,0,경기 수원시 장안구 율전로85번길 26-2,070-8255-5293,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 22:30"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 22:30"", ""dayOfWeek"": ""토,일""}]"
-455948783,https://place.map.kakao.com/455948783,노모어피자 정자천천점,피자,5,22,경기 수원시 장안구 만석로19번길 11-7,031-546-0410,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 01:40"", ""dayOfWeek"": ""화~일""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 23:40"", ""dayOfWeek"": ""월""}, {""timeName"": ""휴게시간"", ""timeSE"": ""14:00 ~ 15:00"", ""dayOfWeek"": ""월~금""}]"
-1044931041,https://place.map.kakao.com/1044931041,덮덮밥 수원성대점,덮덮밥,0,0,경기 수원시 장안구 서부로2181번길 16,031-268-3033,,N,N,N,"{""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 21:00"", ""dayOfWeek"": ""매일""}]"
-9363421,https://place.map.kakao.com/9363421,쟌비어스,"호프,요리주점",1,0,경기 수원시 장안구 덕영대로511번길 29-18,031-268-9582,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 01:00"", ""dayOfWeek"": ""월~토""}]"
-1805485832,https://place.map.kakao.com/1805485832,감동낙곱새 수원1호점,한식,0,0,경기 수원시 장안구 서부로2136번길 27,0507-2080-8402,,,,,{},"[{""timeName"": ""영업시간"", ""timeSE"": ""11:00 ~ 00:50"", ""dayOfWeek"": ""월~금""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 00:50"", ""dayOfWeek"": ""토""}, {""timeName"": ""영업시간"", ""timeSE"": ""10:00 ~ 24:00"", ""dayOfWeek"": ""일""}]"
-527193628,https://place.map.kakao.com/527193628,따봉치킨,치킨,0,0,경기 수원시 장안구 화산로233번길 17,031-295-1370,,,,,{},null
-287841606,https://place.map.kakao.com/287841606,편백회관 천천점,"육류,고기",2,19,경기 수원시 장안구 만석로19번길 11-7,031-271-9065,Y,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""10:30 ~ 22:00"", ""dayOfWeek"": ""매일""}]"
-12591564,https://place.map.kakao.com/12591564,굽네치킨 수원정자3동점,굽네치킨,10,2,경기 수원시 장안구 정자로 39,031-268-9211,,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}",null
-140844412,https://place.map.kakao.com/140844412,도다케밥,튀르키예음식,3,6,경기 수원시 장안구 서부로2123번길 28,,,N,N,N,"{""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""12:00 ~ 21:30"", ""dayOfWeek"": ""매일""}]"
-13074503,https://place.map.kakao.com/13074503,프렌즈과자점,"제과,베이커리",4,2,경기 수원시 장안구 덕영대로425번길 27,,,,,,{},null
-8396388,https://place.map.kakao.com/8396388,불티 천천점,장어,0,3,경기 수원시 장안구 덕영대로511번길 29-17,031-269-8607,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""11:30 ~ 23:00"", ""dayOfWeek"": ""매일""}]"
-19736875,https://place.map.kakao.com/19736875,횡성생고기,"육류,고기",2,1,경기 수원시 장안구 덕영대로417번길 52-50,031-268-0969,Y,N,N,N,"{""appointment"": ""Y"", ""delivery"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""16:00 ~ 22:00"", ""dayOfWeek"": ""화~일""}]"
-856924491,https://place.map.kakao.com/856924491,옥상,실내포장마차,0,0,경기 수원시 장안구 화산로233번길 38,,,N,N,N,"{""appointment"": ""Y"", ""pagekage"": ""Y""}","[{""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 03:00"", ""dayOfWeek"": ""월~목""}, {""timeName"": ""영업시간"", ""timeSE"": ""17:00 ~ 05:00"", ""dayOfWeek"": ""금,토""}]"
+서울24시감자탕해장국,경기 수원시 장안구 서부로 2163
+봉수육,경기 수원시 장안구 율전로108번길 11
+고기굽는교실 율전3반,경기 수원시 장안구 율전로98번길 9
+보영만두 성대직영점,경기 수원시 장안구 화산로233번길 30
+보리네 주먹고기,경기 수원시 장안구 율전로98번길 6-9
+청년밥상,경기 수원시 장안구 서부로2126번길 17
+본만두 천천점,경기 수원시 장안구 정자로 16
+스타벅스 수원성균관대점,경기 수원시 장안구 서부로 2131
+택이네조개전골 성대점,경기 수원시 장안구 율전로98번길 9
+경기수산직판장 성균관대점,경기 수원시 장안구 율전로97번길 4
+명륜진사갈비 수원성균관대점,경기 수원시 장안구 서부로 2129-5
+모수밀면,경기 수원시 장안구 율전로107번길 5
+백령도생바지락칼국수,경기 수원시 장안구 화산로233번길 49
+맥도날드 수원성균관대점,경기 수원시 장안구 서부로 2127
+라잌댓,경기 수원시 장안구 덕영대로445번길 12
+카마타케제면소 성균관대역사점,경기 수원시 장안구 서부로 2149
+선참치,경기 수원시 장안구 서부로2105번길 26-4
+아늑,경기 수원시 장안구 서부로2106번길 36-4
+이라면,경기 수원시 장안구 서부로2106번길 18
+은행나무참숯풍천민물장어,경기 수원시 장안구 서부로2135번길 27
+명가양꼬치,경기 수원시 장안구 서부로2105번길 21
+양푼동태탕,경기 수원시 장안구 서부로2168번길 13-10
+포동이네 성대점,경기 수원시 장안구 율전로98번길 6-2
+마포숯불갈비,경기 수원시 장안구 율전로98번길 20
+르디망슈,경기 수원시 장안구 율전로107번길 5
+홍구등갈비 본점,경기 수원시 장안구 서부로2168번길 5-13
+천포 천천점,경기 수원시 장안구 덕영대로511번길 29-15
+먹깨비김밥,경기 수원시 장안구 서부로 2129-1
+드럼통돌구이,경기 수원시 장안구 율전로108번길 9
+오르카커피룸,경기 수원시 장안구 화산로 235
+최고집 원조 수구레,경기 수원시 장안구 서부로 2107
+키와마루아지 성균관대점,경기 수원시 장안구 서부로2105번길 26-3
+생각나는순대국 본점,경기 수원시 장안구 율전로 84
+수참치 성대점,경기 수원시 장안구 서부로2123번길 17
+대동집 수원성균관대점,경기 수원시 장안구 율전로108번길 15
+토기장이오리&삼겹살전문점,경기 수원시 장안구 서부로 2178
+정원,경기 수원시 장안구 서부로2123번길 34-3
+아구아구대구왕뽈찜,경기 수원시 장안구 하률로 31
+성대목장이,경기 수원시 장안구 서부로2105번길 16-1
+벨라튀니지,경기 수원시 장안구 서부로2106번길 21
+우특심한우곱창 장안구율전점,경기 수원시 장안구 율전로 90-10
+사랑해 수원성대점,경기 수원시 장안구 화산로233번길 42
+우리소양평해장국,경기 수원시 장안구 서부로 2179
+자명문,경기 수원시 장안구 율전로108번길 9
+주야,경기 수원시 장안구 서부로2135번길 30
+우리동네스시신조,경기 수원시 장안구 만석로19번길 25-5
+맥주호텔,경기 수원시 장안구 서부로2105번길 12
+영통찌개지존 성대점,경기 수원시 장안구 화산로233번길 47
+카페일구오삼,경기 수원시 장안구 율전로107번길 73
+여유당카페,경기 수원시 장안구 덕영대로407번길 7
+카페롤랑,경기 수원시 장안구 율전로85번길 20
+롯데리아 수원성대점,경기 수원시 장안구 서부로 2119
+경복궁개성손만두메밀소바전문점 율전점,경기 수원시 장안구 서부로 2171
+닥치고삼겹살 수원점,경기 수원시 장안구 덕영대로445번길 12-8
+카페쓰리몽키즈,경기 수원시 권선구 율전로63번길 5-10
+황금족발 수원성대점,경기 수원시 장안구 서부로 2125
+춘천닭갈비칡냉면,경기 수원시 장안구 화산로233번길 64
+일성,경기 수원시 장안구 율전로 92
+본찌돈까스 성대점,경기 수원시 장안구 서부로2106번길 22
+옛날사람,경기 수원시 장안구 화산로233번길 17
+비추는별,경기 수원시 장안구 서부로2105번길 12
+아이엠바리스타,경기 수원시 장안구 서부로 2132
+한창희천하일면 수원성대점,경기 수원시 장안구 화산로233번길 46
+대성장,경기 수원시 장안구 서부로2181번길 46-6
+투썸플레이스 수원성균관대점,경기 수원시 장안구 서부로2105번길 13
+지장수본가전주콩나물국밥 2호점,경기 수원시 장안구 서부로2123번길 29
+목구멍 율전점,경기 수원시 장안구 화산로233번길 46
+김엄마밥집,경기 수원시 장안구 덕영대로425번길 34
+예술상,경기 수원시 장안구 율전로 92
+부라보쪽갈비 성대점,경기 수원시 장안구 화산로233번길 10
+1인자감자탕,경기 수원시 장안구 화산로233번길 43
+화이트스노우 성균관대점,경기 수원시 장안구 서부로 2132
+동대문엽기떡볶이 수원성대점,경기 수원시 장안구 서부로 2132
+맘스터치 수원성균관대점,경기 수원시 장안구 서부로 2128
+합 성대율전동직영2호점,경기 수원시 장안구 서부로2105번길 26-4
+인더비엣 수원성대점,경기 수원시 장안구 율전로108번길 23
+중경마라탕 성대점,경기 수원시 장안구 서부로2106번길 10
+동네아저씨 수원성아치,경기 수원시 장안구 서부로2123번길 29
+설빙 수원성대점,경기 수원시 장안구 서부로 2107
+이라부,경기 수원시 장안구 서부로 2135
+램공방,경기 수원시 장안구 정자로 12
+양철통낙지,경기 수원시 장안구 화산로233번길 41
+엉터리생고기 수원성대역점,경기 수원시 장안구 화산로 231-10
+박경규항아리보쌈 성대,경기 수원시 장안구 화산로233번길 64
+정성담은샤브칼국수,경기 수원시 장안구 화산로233번길 60
+도미노피자 율천점,경기 수원시 장안구 하률로 3
+국수파동,경기 수원시 장안구 서부로 2107
+비사이드,경기 수원시 장안구 정자로 6
+보배반점 성균관대점,경기 수원시 장안구 서부로 2132
+찬이네주먹고기,경기 수원시 장안구 서부로2105번길 23
+동네빈대떡 성대직영점,경기 수원시 장안구 율전로 90-4
+사거리다방,경기 수원시 장안구 율전로85번길 2
+파리바게뜨 성균관대점,경기 수원시 장안구 서부로 2135
+오스테리아우노,경기 수원시 장안구 율전로98번길 7
+청년다방 수원성균관대점,경기 수원시 장안구 화산로233번길 35
+먹거리고을,경기 수원시 장안구 서부로2126번길 10
+예감쪽갈비 수원성대점,경기 수원시 장안구 율전로98번길 6-9
+감스시,경기 수원시 장안구 서부로2123번길 17
+이자카야 슌,경기 수원시 장안구 서부로2105번길 26-5
+플렁드,경기 수원시 장안구 율전로 91
+"일미,닭갈비,파전",경기 수원시 장안구 서부로2106번길 26-3
+BBQ 수원성대역점,경기 수원시 장안구 서부로2126번길 27
+월매랑삼겹이랑,경기 수원시 장안구 화산로213번길 11
+빽다방 수원성균관대역점,경기 수원시 장안구 서부로 2129-1
+카페휴,경기 수원시 장안구 정자로32번길 16
+생마차 수원성대점,경기 수원시 장안구 화산로233번길 49
+장수촌 천천점,경기 수원시 장안구 정자로 14
+나츠비,경기 수원시 장안구 서부로2106번길 22
+생각나는순대국 성대점,경기 수원시 장안구 서부로2126번길 38
+아무술집 성대직영점,경기 수원시 장안구 화산로233번길 56
+정든닭발 성대점,경기 수원시 장안구 화산로233번길 61
+섬세한남자,경기 수원시 장안구 율전로 93
+제주도도야지생삼겹살,경기 수원시 장안구 서부로2105번길 16-23
+정성식탁,경기 수원시 장안구 서부로2136번길 9
+육가든,경기 수원시 장안구 화산로233번길 62
+주량 성대직영점,경기 수원시 장안구 서부로2105번길 26-8
+사우스스트릿,경기 수원시 장안구 율전로 102-4
+명동돈까스,경기 수원시 장안구 서부로2106번길 17
+꾸이꾸이돼지마을,경기 수원시 장안구 화산로213번길 1
+자연김밥,경기 수원시 장안구 서부로 2113
+해를품은짬뽕 수원점,경기 수원시 장안구 정자로 16-1
+지코바 율전점,경기 수원시 장안구 서부로2126번길 17
+역전할머니맥주 성균관대점,경기 수원시 장안구 율전로108번길 23
+본죽&비빔밥cafe 수원율전점,경기 수원시 장안구 서부로 2113
+부산산꼼장어,경기 수원시 장안구 덕영대로425번길 12
+부자국밥,경기 수원시 장안구 화산로233번길 46
+메가MGC커피 수원상률초점,경기 수원시 장안구 덕영대로425번길 44
+배스킨라빈스 수원성대점,경기 수원시 장안구 서부로 2119
+자금성,경기 수원시 장안구 덕영대로511번길 37-18
+성대곱창,경기 수원시 장안구 율전로 96
+동자설렁탕,경기 수원시 장안구 화산로213번길 23
+IMJ,경기 수원시 장안구 화산로285번길 18-1
+공차 성대점,경기 수원시 장안구 서부로2126번길 9
+루미네숯불닭갈비,경기 수원시 장안구 서부로2135번길 13
+옛날통닭 율전점,경기 수원시 장안구 덕영대로425번길 30
+메가MGC커피 수원율전점,경기 수원시 장안구 서부로2105번길 16-4
+교촌치킨 율전1호점,경기 수원시 장안구 서부로2123번길 34-3
+에스쿱,경기 수원시 장안구 덕영대로445번길 37
+성대왕김말이,경기 수원시 장안구 화산로233번길 12
+윤실장초밥 성대점,경기 수원시 장안구 서부로2105번길 13
+마포화곱창 성균관대점,경기 수원시 장안구 서부로2105번길 9
+회조아,경기 수원시 장안구 화산로259번길 40
+삼구포차,경기 수원시 장안구 화산로233번길 52
+일공사,경기 수원시 장안구 화산로233번길 61
+BHC치킨 성대율전점,경기 수원시 장안구 서부로2181번길 40
+스타벅스 수원천천점,경기 수원시 장안구 덕영대로535번길 46
+공릉닭한마리 수원점,경기 수원시 장안구 덕영대로511번길 37-20
+롤링파스타 수원성균관대점,경기 수원시 장안구 서부로 2125
+장원가마솥통닭,경기 수원시 장안구 정자로 26-1
+김밥천국 율전성대점,경기 수원시 장안구 서부로 2157
+4년황기삼계탕,경기 수원시 장안구 상률로46번길 33
+큰맘할매순대국 수원성대점,경기 수원시 장안구 서부로 2131
+완미족발 수원성대점,경기 수원시 장안구 서부로 2107
+설참치,경기 수원시 장안구 서부로2123번길 10
+참바른김밥,경기 수원시 장안구 서부로2126번길 17
+만리향,경기 수원시 장안구 서부로2167번길 51
+아그집쭈꾸미 성대점,경기 수원시 장안구 화산로233번길 12
+정통집 수원성대점,경기 수원시 장안구 서부로2105번길 12
+힌카쿠,경기 수원시 장안구 서부로2126번길 10
+빽다방 수원율전점,경기 수원시 장안구 서부로 2157
+노랑통닭 성균관대점,경기 수원시 장안구 화산로213번길 32
+메가MGC커피 수원성균관대점,경기 수원시 장안구 서부로 2125
+가장맛있는족발 수원율전점,경기 수원시 장안구 율전로98번길 7
+수천냉면,경기 수원시 장안구 덕영대로497번길 8-1
+무쏘 성대점,경기 수원시 장안구 서부로 2187
+피자스쿨 성대점,경기 수원시 장안구 서부로2123번길 32
+기똥찬고기,경기 수원시 장안구 화산로213번길 29-6
+동해바다회,경기 수원시 장안구 덕영대로497번길 18
+태영생막창,경기 수원시 장안구 율전로 95
+송원칼국수,경기 수원시 장안구 덕영대로425번길 8
+비건카페 모앤더비,경기 수원시 장안구 율전로 105
+청진동해장국 율전성대점,경기 수원시 장안구 서부로2123번길 17
+뉴트로포차1972재개발구역 성대점,경기 수원시 장안구 서부로2105번길 11
+솔트타운피자,경기 수원시 장안구 화산로213번길 9-4
+카페로디,경기 수원시 장안구 화산로213번길 11
+율천회관,경기 수원시 장안구 서부로2126번길 24
+북한산조개구이,경기 수원시 장안구 서부로2135번길 13
+동촌샤브칼국수 천천점,경기 수원시 장안구 정자로20번길 27
+하우짓 블랙,경기 수원시 장안구 화산로213번길 25
+심,경기 수원시 장안구 서부로2136번길 21
+노랑냄비와석쇠구이집,경기 수원시 장안구 서부로2123번길 16
+아람삼계탕,경기 수원시 장안구 서부로2123번길 27
+미가라멘 성대본점,경기 수원시 장안구 서부로2106번길 38-2
+태화루,경기 수원시 장안구 서부로2181번길 46
+신화쭈꾸미 성대점,경기 수원시 장안구 서부로2126번길 4
+독산성족발&순대국 성대점,경기 수원시 장안구 서부로2123번길 17
+더맛구이구이쪽갈비 성균관대점,경기 수원시 장안구 화산로233번길 41
+교촌치킨 정자2호점,경기 수원시 장안구 정자로 12-1
+월드오징어바다 성균관대점,경기 수원시 장안구 서부로2105번길 11
+원숭이초밥,경기 수원시 장안구 하률로 7
+BBQ 수원율전점,경기 수원시 장안구 서부로 2095
+양지촌,경기 수원시 장안구 화산로213번길 25
+깡우동 수원성균관대점,경기 수원시 장안구 화산로233번길 30
+컴포즈커피 수원성균관대점,경기 수원시 장안구 서부로 2123
+동문시장맨끝집 성균관대점,경기 수원시 장안구 화산로233번길 18
+화원루 천천점,경기 수원시 장안구 하률로 13-1
+만다,경기 수원시 장안구 서부로2105번길 16-6
+육회독존,경기 수원시 장안구 화산로233번길 46
+성대지붕,경기 수원시 장안구 서부로2123번길 20
+디저트39 성대점,경기 수원시 장안구 화산로213번길 23
+독도참치,경기 수원시 장안구 서부로2135번길 13
+화원루,경기 수원시 장안구 서부로2126번길 17
+휘미관,경기 수원시 장안구 서부로2105번길 29
+마리,경기 수원시 장안구 덕영대로439번길 40-9
+마이요거트립 성균관대역점,경기 수원시 장안구 화산로 235
+행복한손칼국수,경기 수원시 장안구 서부로2105번길 16-16
+1984그수육집칼국수 수원천천점,경기 수원시 장안구 덕영대로497번길 8-3
+닭강정스토리,경기 수원시 장안구 서부로2123번길 20
+핵밥 수원성균관대점,경기 수원시 장안구 서부로 2128
+홍성마라미방 성균관대2호점,경기 수원시 장안구 율전로108번길 10-8
+양뜰양꼬치 성내점,경기 수원시 장안구 화산로233번길 54
+국수나무 수원율전점,경기 수원시 장안구 서부로2123번길 10
+화락바베큐치킨 수원성대점,경기 수원시 장안구 화산로233번길 42
+버터랏츠,경기 수원시 장안구 서부로2181번길 29
+성대밥상,경기 수원시 장안구 서부로2126번길 50-10
+청원순두부,경기 수원시 장안구 하률로12번길 10
+뎅과 꼬치로 수원본점,경기 수원시 장안구 서부로2105번길 26-8
+감례밥상,경기 수원시 장안구 화산로233번길 62
+하노이맥주밤거리 수원성대점,경기 수원시 장안구 율전로108번길 20
+청기와감자탕,경기 수원시 장안구 정자로 24
+파리바게뜨 수원율전점,경기 수원시 장안구 서부로2181번길 36
+최고당돈가스,경기 수원시 장안구 서부로2105번길 21
+대한닭갈비 본점,경기 수원시 장안구 서부로2123번길 34-7
+최가네,경기 수원시 장안구 서부로2126번길 27
+굽네치킨 피자 수원율전점,경기 수원시 장안구 덕영대로425번길 41
+뚜레쥬르 성대율전점,경기 수원시 장안구 율전로 105
+소문난김밥,경기 수원시 장안구 율전로 110
+떡보킹 본점,경기 수원시 장안구 율전로 84
+파파스,경기 수원시 장안구 서부로2105번길 13
+육전면사무소 수원성균관대점,경기 수원시 장안구 서부로 2115
+율전방앗간,경기 수원시 장안구 율전로98번길 18-12
+화성옥콩콩,경기 수원시 장안구 하률로 11
+빨간석쇠구이 성대점,경기 수원시 장안구 서부로2105번길 26-3
+성대찌개고을,경기 수원시 장안구 서부로2105번길 16-9
+정직유부 수원성대점,경기 수원시 장안구 서부로2126번길 10
+파치 성대점,경기 수원시 장안구 서부로 2136
+웅이네,경기 수원시 장안구 율전로 90-7
+배스킨라빈스 수원율전점,경기 수원시 장안구 서부로2181번길 4
+히닭발,경기 수원시 장안구 율전로98번길 18-4
+육식,경기 수원시 장안구 율전로 92
+바바플 성균관대점,경기 수원시 장안구 서부로2126번길 30
+더벤티 수원율전점,경기 수원시 장안구 서부로2123번길 33
+곤드레마을,경기 수원시 장안구 덕영대로497번길 22-12
+달쏭쿠키제작소,경기 수원시 장안구 서부로2167번길 51
+작은바,경기 수원시 장안구 하률로 13
+유케집 성대점,경기 수원시 장안구 화산로213번길 15
+소주방 율전점,경기 수원시 장안구 서부로2123번길 20-1
+가장맛있는뒷고기,경기 수원시 장안구 덕영대로511번길 29-16
+한솥도시락 수원성대점,경기 수원시 장안구 서부로 2112
+낫얼론(Not alone),경기 수원시 장안구 화산로213번길 9-3
+DCT바,경기 수원시 장안구 화산로233번길 17
+수해복마라탕,경기 수원시 장안구 서부로2105번길 7
+몽키키친,경기 수원시 장안구 화산로203번길 34
+담은샤브칼국수 직영1호점,경기 수원시 장안구 화산로233번길 60
+일미리금계찜닭 성균관대점,경기 수원시 장안구 서부로2126번길 24
+왕빈자삼파전 성대점,경기 수원시 장안구 서부로2126번길 18
+무지개맥주 수원성균관대점,경기 수원시 장안구 서부로2123번길 20
+인생맥주,경기 수원시 장안구 서부로2123번길 17
+나나테이블,경기 수원시 장안구 덕영대로497번길 8-15
+언더그라운드,경기 수원시 장안구 서부로2126번길 30
+땅땅치킨 수원성대점,경기 수원시 장안구 서부로2123번길 17
+보드람치킨 성대역점,경기 수원시 장안구 서부로2123번길 10
+전설의치킨 성대점,경기 수원시 장안구 하률로12번길 4
+썬더치킨 수원성균관대점,경기 수원시 장안구 율전로 102-5
+와플대학 성균관대역캠퍼스,경기 수원시 장안구 서부로 2133
+알촌 성균관대점,경기 수원시 장안구 서부로2106번길 32
+매머드익스프레스 수원성대역점,경기 수원시 장안구 서부로 2139
+굴다리전집,경기 수원시 장안구 덕영대로425번길 8
+논페이셜커피,경기 수원시 장안구 서부로2106번길 26-92
+싸인이스케이프 성대역점,경기 수원시 장안구 서부로2123번길 17
+수셰프치킨 수원성균관대 직영1호점,경기 수원시 장안구 화산로187번길 4
+도레미파스타,경기 수원시 장안구 서부로2106번길 26-15
+맥주거품 성균관대점,경기 수원시 장안구 율전로108번길 20
+디인카페 수제샌드위치전문점,경기 수원시 장안구 덕영대로439번길 45
+달콩,경기 수원시 장안구 서부로2181번길 9
+황소마을,경기 수원시 장안구 율전로64번길 69
+투다리 성대점,경기 수원시 장안구 화산로233번길 47
+BBQ 율전행복점,경기 수원시 장안구 서부로2197번길 40
+왕돈까스 성대본점,경기 수원시 장안구 서부로2106번길 21
+밀주집,경기 수원시 장안구 화산로233번길 38
+바네통,경기 수원시 장안구 덕영대로425번길 53
+주꼬로,경기 수원시 장안구 서부로2105번길 26-5
+해물궁,경기 수원시 장안구 덕영대로511번길 29-22
+소문난순대국,경기 수원시 장안구 덕영대로511번길 29-6
+다또케이크,경기 수원시 장안구 화산로 235
+마약보쌈족발 천천점,경기 수원시 장안구 덕영대로511번길 37-11
+에그2000 율전점,경기 수원시 장안구 율전로 107
+바오밥나무 수원점,경기 수원시 장안구 덕영대로535번길 38
+고기불패,경기 수원시 장안구 화산로233번길 52
+싸가정곱창 담윤순대국,경기 수원시 장안구 서부로2126번길 27
+다람쥐굴,경기 수원시 장안구 서부로2105번길 23
+길모퉁이,경기 수원시 장안구 서부로2168번길 13-10
+탕화쿵푸마라탕 성대점,경기 수원시 장안구 서부로2105번길 12
+가마로강정 성균관대점,경기 수원시 장안구 서부로 2129-1
+푸라닭치킨 수원정자3동점,경기 수원시 장안구 정자로 28
+신전떡볶이 수원성대점,경기 수원시 장안구 서부로 2107
+땅스부대찌개 수원성대점,경기 수원시 장안구 율전로 107
+버거운버거 수원성균관대점,경기 수원시 장안구 서부로2126번길 29
+포크포크 매콤돈가스&칡불냉면,경기 수원시 장안구 서부로2106번길 14
+용수산횟집,경기 수원시 장안구 서부로2197번길 47-1
+육연사 성균관대점,경기 수원시 장안구 서부로2123번길 20-1
+왕코미네탕후루 성대점,경기 수원시 장안구 서부로 2107
+성대족발보쌈,경기 수원시 장안구 서부로2105번길 16-1
+커피(COFFEE)93.0,경기 수원시 장안구 서부로2126번길 50-4
+스마일왕돈까스,경기 수원시 장안구 화산로259번길 37
+사랑해베이글 수원천천점,경기 수원시 장안구 덕영대로511번길 15
+훠훠우육면,경기 수원시 장안구 서부로2126번길 18
+오구쌀피자 성대점,경기 수원시 장안구 서부로 2115
+하루엔소쿠 수원성대점,경기 수원시 장안구 율전로98번길 6-6
+크림오리,경기 수원시 장안구 덕영대로425번길 41
+역북집 수원성대점,경기 수원시 장안구 서부로2123번길 16
+쉐프의돈카츠,경기 수원시 장안구 하률로 21
+놀부부대찌개,경기 수원시 장안구 서부로2135번길 13
+꿈시루,경기 수원시 장안구 하률로12번길 82
+반갑다친구야,경기 수원시 장안구 서부로2105번길 24
+호호맥주,경기 수원시 장안구 서부로2105번길 26-3
+치킨마루 수원성대점,경기 수원시 장안구 덕영대로 429
+감성 성대점,경기 수원시 장안구 화산로233번길 55
+밀플랜 본점,경기 수원시 장안구 율전로 90-6
+우야꼬수제요리전문점,경기 수원시 장안구 하률로12번길 86
+비어첸 수원성대점,경기 수원시 장안구 율전로108번길 5
+피자헐,경기 수원시 장안구 율전로 105
+진국밥 수원직영점,경기 수원시 장안구 정자로 28-1
+오늘우동 수원성대점,경기 수원시 장안구 서부로2126번길 15
+60계치킨 수원율전점,경기 수원시 장안구 상률로46번길 3
+크라운호프 수원성대점,경기 수원시 장안구 화산로213번길 32
+처갓집양념치킨 율전점,경기 수원시 장안구 율전로101번길 43
+백채김치찌개 성균관대점,경기 수원시 장안구 서부로2105번길 21
+평양손만두,경기 수원시 장안구 덕영대로497번길 22-4
+김재권철판볶음순대국,경기 수원시 장안구 정자로 18
+사계참치,경기 수원시 장안구 화산로233번길 30
+애플김밥 천천점,경기 수원시 장안구 정자로 33
+텐푸라바사바사,경기 수원시 장안구 서부로 2112
+상무네닭발집,경기 수원시 장안구 율전로 93
+투썸플레이스 수원천천점,경기 수원시 장안구 만석로19번길 29
+명가복떡집,경기 수원시 장안구 덕영대로425번길 27
+모브커피,경기 수원시 장안구 덕영대로439번길 39-3
+영희네 고기,경기 수원시 장안구 화산로233번길 55
+도래홍막창 성대점,경기 수원시 장안구 서부로2105번길 16-4
+더맛있는족발보쌈 수원천천점,경기 수원시 장안구 덕영대로511번길 37-21
+로봇초밥마켓 수원성대점,경기 수원시 장안구 화산로259번길 37
+메가MGC커피 천천중앙점,경기 수원시 장안구 정자로 20
+비네즈,경기 수원시 장안구 덕영대로417번길 52-33
+장작클라스 수원성대점,경기 수원시 장안구 율전로108번길 10-8
+조아마라탕,경기 수원시 장안구 서부로2123번길 20-1
+옹백이 족발보쌈,경기 수원시 장안구 서부로2123번길 20-1
+커피9,경기 수원시 장안구 화산로203번길 34
+오븐마루치킨 수원율전점,경기 수원시 장안구 화산로259번길 51
+텐사장,경기 수원시 장안구 서부로2123번길 27
+더리터 수원성대점,경기 수원시 장안구 서부로2106번길 18
+종로떡집,경기 수원시 장안구 율전로 104
+봉구스밥버거 성대2호점,경기 수원시 장안구 서부로2126번길 30
+더하다피자수원 성대점,경기 수원시 장안구 서부로2126번길 38-18
+금달맥주,경기 수원시 장안구 화산로213번길 31
+한남동그집 성대역점,경기 수원시 장안구 서부로2123번길 20
+빨라쪼델프레도 성균관대역사점,경기 수원시 장안구 
+구이육,경기 수원시 장안구 덕영대로445번길 34
+더카페 라운지앤페르케노 수원성대역점,경기 수원시 장안구 서부로2126번길 10
+무대뽀핫도그,경기 수원시 장안구 서부로2106번길 17
+율전족발보쌈,경기 수원시 장안구 서부로2181번길 4
+이서등갈비,경기 수원시 장안구 서부로2168번길 5-13
+가마솥에빠진통닭,경기 수원시 장안구 덕영대로407번길 34-22
+만복국수집 수원성균관대점,경기 수원시 장안구 화산로233번길 10
+아마스빈 수원성균관대점,경기 수원시 장안구 서부로 2130
+리꼬리또,경기 수원시 장안구 서부로2106번길 22
+오군포차 성대점,경기 수원시 장안구 서부로 2136
+엘가커피,경기 수원시 장안구 서부로 2135
+밥밥디라라 수원성균관대점,경기 수원시 장안구 서부로2106번길 26-3
+국대국,경기 수원시 장안구 서부로2105번길 26-3
+버거스올마이티 수원성균관대점,경기 수원시 장안구 율전로 92
+배불뚝고기파티 율전동본점,경기 수원시 장안구 서부로2181번길 46
+본투비,경기 수원시 장안구 정자로 10
+카페봄봄 수원 성균관대점,경기 수원시 장안구 서부로2106번길 14
+오아저씨철판,경기 수원시 장안구 서부로2126번길 18
+새마을떡방앗간,경기 수원시 장안구 덕영대로417번길 52-44
+피자나라치킨공주 수원천천점,경기 수원시 장안구 하률로12번길 5
+인쌩맥주 성균관대점,경기 수원시 장안구 서부로2123번길 17
+리코베이커리,경기 수원시 장안구 정자로42번길 52
+BBQ 수원천천점,경기 수원시 장안구 정자로20번길 15
+오서산콩국수 수원점,경기 수원시 장안구 정자로32번길 12
+카페다움,경기 수원시 장안구 서부로2126번길 9
+일품마라탕 성대점,경기 수원시 장안구 율전로 92
+우리집밥,경기 수원시 장안구 서부로2106번길 26-2
+타코야끼전문점쪼코야끼,경기 수원시 장안구 서부로2126번길 38
+킹고하우스,경기 수원시 장안구 서부로2106번길 21
+연해물찜칼국수,경기 수원시 장안구 정자로 8
+백억커피 서수원점,경기 수원시 장안구 서부로2106번길 26-3
+모앤더비,경기 수원시 장안구 율전로 105
+만취,경기 수원시 장안구 화산로233번길 38
+이가네삼대째손두부 본점,경기 수원시 장안구 정자천로13번길 13-24
+스타디움 펍,경기 수원시 장안구 화산로213번길 11
+이까야,경기 수원시 장안구 서부로2105번길 12
+족도사족발,경기 수원시 장안구 덕영대로425번길 44
+앙포네,경기 수원시 장안구 화산로233번길 47
+홍대장소고기집 천천직영점,경기 수원시 장안구 정자로 39
+또래오래 성대율전점,경기 수원시 장안구 율전로101번길 49
+따숲닭 본점,경기 수원시 장안구 화산로233번길 38
+르뱅베이커리,경기 수원시 장안구 서부로2135번길 13
+고씨네카레 수원성대점,경기 수원시 장안구 서부로2105번길 21
+메가후르츠 수원성균관대점,경기 수원시 장안구 서부로2105번길 13
+쉬즈베이글 성대점,경기 수원시 장안구 서부로2106번길 22
+삼봉집,경기 수원시 장안구 덕영대로511번길 29-12
+희망김밥,경기 수원시 장안구 율전로97번길 15
+찌개와조림,경기 수원시 장안구 서부로 2139
+플러스82 성균관대점,경기 수원시 장안구 서부로2106번길 26-36
+더에이치바 율전동,경기 수원시 장안구 서부로2136번길 10
+플레이바,경기 수원시 장안구 화산로233번길 18
+남해식당,경기 수원시 장안구 덕영대로425번길 40
+육수당 수원성균관대점,경기 수원시 장안구 서부로 2113
+인피펍 성대점,경기 수원시 장안구 화산로233번길 35
+오디디,경기 수원시 장안구 율전로108번길 10-1
+배떡 성균관대점,경기 수원시 장안구 하률로 17
+산들애 버섯이야기,경기 수원시 장안구 서부로2207번길 26
+MLMC,경기 수원시 장안구 덕영대로535번길 28
+한아스콘,경기 수원시 장안구 율전로101번길 13
+하삼동커피 수원성균관점,경기 수원시 장안구 서부로2126번길 17
+두마리찜닭두찜 수원율천점,경기 수원시 장안구 서부로2197번길 40
+다소니,경기 수원시 장안구 정자로20번길 21
+미는샐러드,경기 수원시 장안구 율전로 76
+예국향,경기 수원시 장안구 서부로2106번길 32
+국졔식당,경기 수원시 장안구 서부로2126번길 29
+이모스떡볶이,경기 수원시 장안구 율전로101번길 20
+나그네족발 보쌈 직영점,경기 수원시 장안구 하률로30번길 49
+십인치,경기 수원시 장안구 화산로233번길 56
+아이스크림스토리 수원성대점,경기 수원시 장안구 서부로2126번길 31
+해피톡,경기 수원시 장안구 율전로 107
+곱창홀릭,경기 수원시 장안구 율전로101번길 53-3
+아덴블랑제리 수원천천점,경기 수원시 장안구 정자로19번길 18
+퓨전포차 인생술집,경기 수원시 장안구 서부로2126번길 9
+호시타코야끼 성대점,경기 수원시 장안구 서부로2106번길 26-3
+카페오픈24 율전점,경기 수원시 장안구 화산로 263
+60판왕뚜껑삼겹살 율전뜨란채점,경기 수원시 장안구 상률로46번길 25
+무진장김치찌개 천천점,경기 수원시 장안구 정자로20번길 7
+행컵 성균관대점,경기 수원시 장안구 서부로2126번길 30
+유유진진,경기 수원시 장안구 덕영대로497번길 14-17
+HYOM,경기 수원시 장안구 서부로 2207
+부뚜막백반&김치찜 성대점,경기 수원시 장안구 정자천로13번길 136
+포명천천더차이니즈,경기 수원시 장안구 덕영대로535번길 46
+옥집,경기 수원시 장안구 율전로108번길 20
+업텐브로피자 성대점,경기 수원시 장안구 서부로2126번길 24
+크레이저 커피 수원성대점,경기 수원시 장안구 율전로108번길 20
+본죽&비빔밥cafe 율전상률초점,경기 수원시 장안구 서부로2181번길 39
+달콤한사람들,경기 수원시 장안구 덕영대로497번길 12
+낙원떡집,경기 수원시 장안구 율전로 105
+성대포명천 율전점,경기 수원시 장안구 율전로101번길 54
+율전동,경기 수원시 장안구 화산로233번길 59
+봉다방,경기 수원시 장안구 율전로108번길 11
+포레스트오늘숲 수원천천점,경기 수원시 장안구 만석로5번길 6
+남도토박이,경기 수원시 장안구 덕영대로497번길 22-10
+전주생막걸리,경기 수원시 장안구 서부로2105번길 21
+착한식당,경기 수원시 장안구 서부로 2149
+우진떡집,경기 수원시 장안구 덕영대로381번길 72
+디아,경기 수원시 장안구 율전로64번길 12-27
+금별맥주 성균관대역점,경기 수원시 장안구 화산로233번길 59
+곱창골 수원본점,경기 수원시 장안구 하률로 17-1
+본도시락 수원성균관대점,경기 수원시 장안구 서부로2126번길 30
+족발더하기,경기 수원시 장안구 하률로30번길 45-16
+자피,경기 수원시 장안구 화산로213번길 9-3
+원할머니보쌈 수원천천배달점,경기 수원시 장안구 정자로 28
+르블랑제리 다움,경기 수원시 장안구 천천로 100
+밥은화 수원성균관대점,경기 수원시 장안구 서부로2106번길 26-6
+카페인24 수원율전점,경기 수원시 장안구 상률로12번길 70-15
+솥뚜껑구이,경기 수원시 장안구 덕영대로445번길 12-12
+카페에비뉴,경기 수원시 장안구 하률로12번길 5
+카페셀,경기 수원시 장안구 덕영대로381번길 19-22
+페리카나 성대1점,경기 수원시 장안구 율전로85번길 15
+텐퍼센트커피 수원율전점,경기 수원시 장안구 서부로2181번길 40
+응급실국물떡볶이 수원천천점,경기 수원시 장안구 하률로 51-19
+샐러디치오도씨 수원성대점,경기 수원시 장안구 서부로2106번길 21
+피자에땅 성대점,경기 수원시 장안구 하률로12번길 4
+돈우정숯불구이,경기 수원시 장안구 정자로 22-1
+코아김밥,경기 수원시 장안구 서부로 2095
+풍어생선구이정식,경기 수원시 장안구 천천로210번길 17-12
+모닝사이드,경기 수원시 장안구 화산로 211
+크로앙쥬 성대점,경기 수원시 장안구 율전로 92
+요거트아이스크림의정석 수원성대점,경기 수원시 장안구 덕영대로511번길 29-8
+두끼 수원천천점,경기 수원시 장안구 만석로19번길 25-6
+조춘식동태탕회냉면,경기 수원시 장안구 서부로 2185
+낭만가득한 20세기포장마차,경기 수원시 장안구 서부로 2095
+카페프롬미,경기 수원시 장안구 덕영대로497번길 8-9
+참숯풍천장어직판장,경기 수원시 장안구 일월로 86
+호끼펍,경기 수원시 장안구 화산로233번길 53
+북수원온천식당 팔각정,경기 수원시 장안구 서부로 2139
+불여우닭발 수원성대점,경기 수원시 장안구 서부로2123번길 20
+테라스비어,경기 수원시 장안구 서부로2136번길 11
+커피먹고놀자,경기 수원시 장안구 율전로98번길 7
+S바,경기 수원시 장안구 서부로2123번길 10
+호세야오리바베큐 율전점,경기 수원시 장안구 율전로85번길 26-2
+노모어피자 정자천천점,경기 수원시 장안구 만석로19번길 11-7
+덮덮밥 수원성대점,경기 수원시 장안구 서부로2181번길 16
+쟌비어스,경기 수원시 장안구 덕영대로511번길 29-18
+감동낙곱새 수원1호점,경기 수원시 장안구 서부로2136번길 27
+따봉치킨,경기 수원시 장안구 화산로233번길 17
+편백회관 천천점,경기 수원시 장안구 만석로19번길 11-7
+굽네치킨 수원정자3동점,경기 수원시 장안구 정자로 39
+도다케밥,경기 수원시 장안구 서부로2123번길 28
+프렌즈과자점,경기 수원시 장안구 덕영대로425번길 27
+불티 천천점,경기 수원시 장안구 덕영대로511번길 29-17
+횡성생고기,경기 수원시 장안구 덕영대로417번길 52-50
+옥상,경기 수원시 장안구 화산로233번길 38
