@@ -7,9 +7,13 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-csv_file = open('kakao_restaurant_urls.csv', mode='w', newline='', encoding='utf-8')
+csv_file = open('naver_to_kakao_restaurants.csv', mode='w', newline='', encoding='utf-8')
 csv_writer = csv.writer(csv_file)
-csv_writer.writerow(['id', 'url', 'name', 'review_rating'])
+csv_writer.writerow(['id', 'name', 'category','review_count','address','rating','rating_count', 'phone_number', 'operate_time'])
+
+kakao_url_csv_file = open('kakao_restaurant_urls.csv', mode='w', newline='', encoding='utf-8')
+kakao_url_csv_writer = csv.writer(kakao_url_csv_file)
+kakao_url_csv_writer.writerow(['id','name', 'url'])
 
 options = Options()
 options.add_argument("--disable-blink-features=AutomationControlled")
@@ -48,16 +52,23 @@ for i in range(7):
     for p in range(5):  # 5페이지까지
 
         restaurant_names = set()
-        review_rating = set()
         restaurant_categories = set()
+
+        review_rating = set()
         reviews = set()
+        rating_count=set()
         # 요소를 스크롤할 때의 높이 설정
 
         restaurant_names = driver.find_elements(By.XPATH, "//a[contains(@class, 'link_name')]")
-        review_rating = driver.find_elements(By.XPATH, "//em[contains(@data-id, 'scoreNum')]")
         restaurant_categories = driver.find_elements(By.XPATH,
                                                      "//div[@class='head_item clickArea']//span[@class='subcategory clickable']")
-        reviews = driver.find_elements(By.XPATH, "//div[contains(@class, 'rating clickArea')]//em[@class='num']")
+        review_count = driver.find_elements(By.XPATH, "//em[contains(@data-id, 'numberofreview')]")
+        address = driver.find_elements(By.XPATH, "//p[contains(@data-id, 'address')]")
+        review_rating = driver.find_elements(By.XPATH, "//em[contains(@data-id, 'scoreNum')]")
+        rating_count = driver.find_elements(By.XPATH, "//a[contains(@data-id, 'numberofscore')]")
+
+        phone_number = driver.find_elements(By.XPATH, "//span[contains(@data-id, 'phone')]")
+        periodTxt = driver.find_elements(By.XPATH, "//a[contains(@data-id, 'periodTxt')]")
 
         more_review_buttons = driver.find_elements(By.CSS_SELECTOR, "a.moreview")
 
@@ -65,7 +76,11 @@ for i in range(7):
         time.sleep(2)
 
         for h in hrefs:
-            csv_writer.writerow([id, h, restaurant_names[(id - 1)%15].text, review_rating[(id - 1)%15].text, restaurant_categories[(id - 1)%15].text])
+            rating_count_text = rating_count[(id-1)%15].text.replace('건', '').strip()
+            csv_writer.writerow([id, restaurant_names[(id - 1)%15].text, restaurant_categories[(id - 1)%15].text,
+                                 review_count[(id-1)%15].text, address[(id-1)%15].text, review_rating[(id - 1)%15].text, rating_count_text
+                                 , phone_number[(id-1)%15].text, periodTxt[(id-1)%15].text])
+            kakao_url_csv_writer.writerow([id,restaurant_names[(id-1)%15].text, h])
             id += 1
 
         if p == 4:
@@ -78,6 +93,9 @@ for i in range(7):
         driver.execute_script("arguments[0].click();", next_page_button)
 
         time.sleep(2)
+
+csv_file.close()
+kakao_url_csv_file.close()
 
 
 
