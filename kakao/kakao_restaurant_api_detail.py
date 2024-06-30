@@ -47,7 +47,8 @@ def extract_time_keys(data):
 def collect_keys(reader, headers):
     facility_keys, operation_keys, time_keys = set(), set(), set()
     for row in reader:
-        url = row[1]
+        url = row[2]
+
         place_id = url.split('/')[-1]
         api_url = f'https://place.map.kakao.com/main/v/{place_id}'
 
@@ -115,7 +116,10 @@ def main():
 
         id_counter = 0
         for row in reader:
-            url = row[1]
+            url = row[2]
+            if url == '':
+                id_counter+=1
+                continue
             place_id = url.split('/')[-1]
             api_url = f'https://place.map.kakao.com/main/v/{place_id}'
 
