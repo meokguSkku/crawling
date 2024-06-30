@@ -1,5 +1,5 @@
-id,url,name,category,review_count,blog_review_count,address,phone_number,pet,smokingroom,nursery,fordisabled,parking,wifi,appointment,pagekage,delivery,timeSE,timeName,dayOfWeek
-1,https://place.map.kakao.com/1874178690,카마타케제면소 성균관대역사점,"돈까스,우동",61,83,경기 수원시 장안구 서부로 2149,031-278-5678,N,N,N,,Y,Y,N,Y,N,영업시간,11:00 ~ 20:00,매일,휴게시간,15:00 ~ 17:00,매일
-2,https://place.map.kakao.com/14567452,선참치,참치회,6,38,경기 수원시 장안구 서부로2105번길 26-4,031-278-3785,N,N,N,,Y,Y,Y,Y,,영업시간,16:00 ~ 01:00,월~토
-3,https://place.map.kakao.com/881887666,아늑,이탈리안,53,382,경기 수원시 장안구 서부로2106번길 36-4,070-7766-7725,N,N,N,Y,Y,Y,N,Y,Y,영업시간,11:00 ~ 21:30,매일,라스트오더,~ 21:00,매일
-4,https://place.map.kakao.com/15818685,이라면,분식,28,23,경기 수원시 장안구 서부로2106번길 18,031-291-7611,N,N,N,,N,Y,N,N,N,영업시간,11:30 ~ 19:00,월~금,영업시간,11:30 ~ 14:00,토,휴게시간,14:00 ~ 17:00,월~금
+id,url,name,category,review_count,blog_review_count,address,phone_number,fordisabled,nursery,parking,pet,smokingroom,wifi,dayOfWeek_1,dayOfWeek_2,dayOfWeek_3,timeName_1,timeName_2,timeName_3,timeSE_1,timeSE_2,timeSE_3,appointment,delivery,pagekage
+1,https://place.map.kakao.com/1874178690,카마타케제면소 성균관대역사점,"돈까스,우동",61,83,경기 수원시 장안구 서부로 2149,031-278-5678,,N,Y,N,N,Y,매일,매일,,영업시간,휴게시간,,11:00 ~ 20:00,15:00 ~ 17:00,,N,N,Y
+2,https://place.map.kakao.com/14567452,선참치,참치회,6,38,경기 수원시 장안구 서부로2105번길 26-4,031-278-3785,,N,Y,N,N,Y,월~토,,,영업시간,,,16:00 ~ 01:00,,,Y,,Y
+3,https://place.map.kakao.com/881887666,아늑,이탈리안,53,382,경기 수원시 장안구 서부로2106번길 36-4,070-7766-7725,Y,N,Y,N,N,Y,매일,매일,,영업시간,라스트오더,,11:00 ~ 21:30,~ 21:00,,N,Y,Y
+4,https://place.map.kakao.com/15818685,이라면,분식,28,23,경기 수원시 장안구 서부로2106번길 18,031-291-7611,,N,N,N,N,Y,월~금,토,월~금,영업시간,영업시간,휴게시간,11:30 ~ 19:00,11:30 ~ 14:00,14:00 ~ 17:00,N,N,N
