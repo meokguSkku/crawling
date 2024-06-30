@@ -214,8 +214,6 @@ for p in range(4):  # 4페이지까지
                     "리뷰 갯수": review_count,
                 })
 
-        csv_writer.writerow([restaurant_id, review_name, review_count])
-
         for visitor_review in visitor_reviews:
             review_csv_writer.writerow(
                 [restaurant_id, visitor_review["리뷰 내용"], visitor_review["리뷰 갯수"]])
