@@ -1,4 +1,4 @@
-id,name,category,review_count,address,rating,number,image_url,custom_category
+id,name,category,review_count,address,rating,phone_number,image_url,custom_category
 1,목구멍 율전점,"육류,고기요리",999+,경기 수원시 장안구 화산로233번길 46 1층,,031-293-9294,https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https://ldb-phinf.pstatic.net/20230615_253/1686790793946ISiOc_JPEG/3%B9%F8.jpg,한식
 2,고기굽는교실 율전3반,"육류,고기요리",999+,경기 수원시 장안구 율전로98번길 9,4.7,0507-1479-8592,https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https://ldb-phinf.pstatic.net/20230915_138/1694761539253MqBUj_JPEG/temp_file.jpg,한식
 3,봉수육,"족발,보쌈",999+,경기 수원시 장안구 율전로108번길 11 1층,4.59,0507-1460-0903,https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https://ldb-phinf.pstatic.net//20170607_114/1496834895537QbEYi_JPEG/IMG_0230.,한식
