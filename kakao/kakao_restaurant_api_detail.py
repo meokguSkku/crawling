@@ -2,6 +2,7 @@ import json
 import time
 import requests
 import csv
+import pandas as pd
 
 def fetch_data(url, headers):
     response = requests.get(url, headers=headers)
@@ -47,8 +48,9 @@ def extract_time_keys(data):
 def collect_keys(reader, headers):
     facility_keys, operation_keys, time_keys = set(), set(), set()
     for row in reader:
-        url = row[2]
-
+        url = row[9]  # URL 열 위치
+        if url == '':
+            continue
         place_id = url.split('/')[-1]
         api_url = f'https://place.map.kakao.com/main/v/{place_id}'
 
@@ -64,18 +66,6 @@ def collect_keys(reader, headers):
 
 def extract_data(data, facility_keys, operation_keys, time_keys):
     basic_info = data.get('basicInfo', {})
-
-    name = basic_info.get('placenamefull', '')
-    category = basic_info.get('category', {}).get('catename', '')
-    review_count = basic_info.get('feedback', {}).get('comntcnt', '')
-    blog_review_count = basic_info.get('feedback', {}).get('blogrvwcnt', '')
-
-    address_raw = basic_info.get('address', {})
-    new_addr = address_raw.get('region').get('newaddrfullname', '')
-    region = address_raw.get('newaddr', {}).get('newaddrfull', '')
-    address = f"{new_addr} {region}"
-
-    phone_number = basic_info.get('phonenum', '')
 
     facility_info = basic_info.get('facilityInfo', {})
     facility_data = {key: facility_info.get(key, '') for key in facility_keys}
@@ -93,49 +83,52 @@ def extract_data(data, facility_keys, operation_keys, time_keys):
     except:
         pass
 
-    return name, category, review_count, blog_review_count, address, phone_number, facility_data, operation_data, period_dict
+    return facility_data, operation_data, period_dict
 
 def main():
-    with open('kakao_api_detail_response.csv', mode='w', newline='', encoding='utf-8') as csv_file, open('kakao_restaurant_urls.csv', newline='', encoding='utf-8') as csvfile:
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    }
+
+    df = pd.read_csv('kakao_restaurants.csv')
+    new_columns = []
+
+    # 파일을 한 번 읽어서 필요한 키들을 수집합니다.
+    with open('kakao_restaurants.csv', mode='r', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
         next(reader)  # 헤더 건너뛰기
-
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-        }
-
         facility_keys, operation_keys, time_keys = collect_keys(reader, headers)
+        new_columns = facility_keys + time_keys + operation_keys
 
-        header = ['id', 'url', 'name', 'category', 'review_count', 'blog_review_count', 'address', 'phone_number'] + facility_keys + time_keys + operation_keys
-        csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(header)
+    # 필요한 열이 없는 경우 추가합니다.
+    for column in new_columns:
+        if column not in df.columns:
+            df[column] = ''
 
-        csvfile.seek(0)
-        reader = csv.reader(csvfile)
-        next(reader)  # 헤더 건너뛰기
+    # 각 행을 업데이트합니다.
+    for idx, row in df.iterrows():
+        url = row['url']
+        if url == '':
+            continue
+        place_id = url.split('/')[-1]
+        api_url = f'https://place.map.kakao.com/main/v/{place_id}'
 
-        id_counter = 0
-        for row in reader:
-            url = row[2]
-            if url == '':
-                id_counter+=1
-                continue
-            place_id = url.split('/')[-1]
-            api_url = f'https://place.map.kakao.com/main/v/{place_id}'
+        data = fetch_data(api_url, headers)
+        if data:
+            facility_data, operation_data, period_dict = extract_data(data, facility_keys, operation_keys, time_keys)
 
-            data = fetch_data(api_url, headers)
-            if data:
-                id_counter += 1
-                name, category, review_count, blog_review_count, address, phone_number, facility_data, operation_data, period_dict = extract_data(data, facility_keys, operation_keys, time_keys)
+            for key, value in facility_data.items():
+                df.at[idx, key] = value
+            for key, value in period_dict.items():
+                df.at[idx, key] = value
+            for key, value in operation_data.items():
+                df.at[idx, key] = value
 
-                print(id_counter, name, category, review_count, blog_review_count, address, phone_number, facility_data.values(), operation_data.values(), period_dict.values())
+            print(f"Updated row {idx+1}")
 
-                csv_writer.writerow([id_counter, url, name, category, review_count, blog_review_count, address, phone_number]
-                                    + list(facility_data.values())
-                                    + list(period_dict.values())
-                                    + list(operation_data.values()))
+            time.sleep(0.1)
 
-                time.sleep(0.1)
+    df.to_csv('kakao_restaurants.csv', index=False)
 
 print("Data extraction and CSV file creation complete.")
 

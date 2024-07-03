@@ -7,13 +7,9 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-csv_file = open('naver_to_kakao_restaurants.csv', mode='w', newline='', encoding='utf-8')
+csv_file = open('kakao_restaurants.csv', mode='w', newline='', encoding='utf-8')
 csv_writer = csv.writer(csv_file)
-csv_writer.writerow(['id', 'name', 'category','review_count','address','rating','rating_count', 'phone_number', 'operate_time'])
-
-kakao_url_csv_file = open('kakao_restaurant_urls.csv', mode='w', newline='', encoding='utf-8')
-kakao_url_csv_writer = csv.writer(kakao_url_csv_file)
-kakao_url_csv_writer.writerow(['id','name', 'url'])
+csv_writer.writerow(['id', 'name', 'category','review_count','address','rating','rating_count', 'phone_number', 'operate_time','url'])
 
 options = Options()
 options.add_argument("--disable-blink-features=AutomationControlled")
@@ -79,8 +75,7 @@ for i in range(7):
             rating_count_text = rating_count[(id-1)%15].text.replace('건', '').strip()
             csv_writer.writerow([id, restaurant_names[(id - 1)%15].text, restaurant_categories[(id - 1)%15].text,
                                  review_count[(id-1)%15].text, address[(id-1)%15].text, review_rating[(id - 1)%15].text, rating_count_text
-                                 , phone_number[(id-1)%15].text, periodTxt[(id-1)%15].text])
-            kakao_url_csv_writer.writerow([id,restaurant_names[(id-1)%15].text, h])
+                                 , phone_number[(id-1)%15].text, periodTxt[(id-1)%15].text, h])
             id += 1
 
         if p == 4:
