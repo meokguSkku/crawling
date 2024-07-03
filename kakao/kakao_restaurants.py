@@ -39,7 +39,7 @@ time.sleep(1)
 location_fix = driver.find_element(By.CSS_SELECTOR, "span[id='search.keyword.currentmap']")
 driver.execute_script("arguments[0].click();", location_fix)
 
-naver_map_crawling_path = '../restaurants.csv'
+naver_map_crawling_path = '../naver/restaurants.csv'
 restaurants_df = pd.read_csv(naver_map_crawling_path)
 
 restaurant_names = restaurants_df['name'].tolist()
