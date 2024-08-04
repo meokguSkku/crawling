@@ -26,7 +26,7 @@ review_csv_writer.writerow(['restaurant_id', 'review_name', 'review_count'])
 
 unique_review_file = open('unique_reviews.csv', mode='w', newline='', encoding='utf-8')
 unique_review_writer = csv.writer(unique_review_file)
-unique_review_writer.writerow(['unique_review', 'max_review_count'])
+unique_review_writer.writerow(['unique_review', 'total_review_count'])
 
 # WebDriver 초기화
 options = Options()
@@ -180,14 +180,13 @@ for p in range(4):  # 4 페이지
             except:
                 review_count = "-1"
 
-            if int(review_count) >=50:
-                # 정보를 리스트에 저장
+            if int(review_count) >= 50:
                 visitor_reviews.append({
                     "리뷰 내용": review_name,
                     "리뷰 갯수": review_count,
                 })
                 if review_name in unique_review_dict:
-                    unique_review_dict[review_name] = max(unique_review_dict[review_name], int(review_count))
+                    unique_review_dict[review_name] += int(review_count)
                 else:
                     unique_review_dict[review_name] = int(review_count)
 
