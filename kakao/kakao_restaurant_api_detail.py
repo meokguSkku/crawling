@@ -1,4 +1,3 @@
-import json
 import time
 import requests
 import csv
@@ -27,26 +26,24 @@ def extract_keys(data, key_path):
             keys.update(target.keys())
     return keys
 
-def extract_facility_keys(data):
-    return extract_keys(data, ['basicInfo', 'facilityInfo'])
-
-def extract_operation_keys(data):
-    return extract_keys(data, ['basicInfo', 'operationInfo'])
-
-def extract_time_keys(data):
-    time_keys = set()
+def extract_operation_times(data):
     open_hour = data.get('basicInfo', {}).get('openHour', {})
+    time_dict = {}
     try:
-        period_list = open_hour.get('periodList', [])[0].get('timeList', [])
-        for i, period in enumerate(period_list):
-            for key in period.keys():
-                time_keys.add(f"{key}_{i+1}")
+        for period in open_hour.get('periodList', []):
+            for time in period.get('timeList', []):
+                days = time.get('dayOfWeek', '').split(',')
+                start_time = time.get('timeSE', '').split(' ~ ')[0]
+                end_time = time.get('timeSE', '').split(' ~ ')[1]
+                for day in days:
+                    time_dict[f"{day}_start"] = start_time
+                    time_dict[f"{day}_end"] = end_time
     except:
         pass
-    return time_keys
+    return time_dict
 
 def collect_keys(reader, headers):
-    facility_keys, operation_keys, time_keys = set(), set(), set()
+    time_keys = set()
     for row in reader:
         url = row[9]  # URL 열 위치
         if url == '':
@@ -56,34 +53,15 @@ def collect_keys(reader, headers):
 
         data = fetch_data(api_url, headers)
         if data:
-            facility_keys.update(extract_facility_keys(data))
-            operation_keys.update(extract_operation_keys(data))
-            time_keys.update(extract_time_keys(data))
+            time_keys.update(extract_operation_times(data).keys())
 
         print("진행중")
         time.sleep(0.1)
-    return sorted(facility_keys), sorted(operation_keys), sorted(time_keys)
+    return sorted(time_keys)
 
-def extract_data(data, facility_keys, operation_keys, time_keys):
-    basic_info = data.get('basicInfo', {})
-
-    facility_info = basic_info.get('facilityInfo', {})
-    facility_data = {key: facility_info.get(key, '') for key in facility_keys}
-
-    operation_info = basic_info.get('operationInfo', {})
-    operation_data = {key: operation_info.get(key, '') for key in operation_keys}
-
-    open_hour = basic_info.get('openHour', {})
-    period_dict = {key: '' for key in time_keys}
-    try:
-        period_list = open_hour.get('periodList', [])[0].get('timeList', [])
-        for i, period in enumerate(period_list):
-            for key, value in period.items():
-                period_dict[f"{key}_{i+1}"] = value
-    except:
-        pass
-
-    return facility_data, operation_data, period_dict
+def extract_data(data, time_keys):
+    time_data = extract_operation_times(data)
+    return {key: time_data.get(key, '') for key in time_keys}
 
 def main():
     headers = {
@@ -97,8 +75,8 @@ def main():
     with open('kakao_restaurants.csv', mode='r', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
         next(reader)  # 헤더 건너뛰기
-        facility_keys, operation_keys, time_keys = collect_keys(reader, headers)
-        new_columns = facility_keys + time_keys + operation_keys
+        time_keys = collect_keys(reader, headers)
+        new_columns = time_keys
 
     # 필요한 열이 없는 경우 추가합니다.
     for column in new_columns:
@@ -115,13 +93,8 @@ def main():
 
         data = fetch_data(api_url, headers)
         if data:
-            facility_data, operation_data, period_dict = extract_data(data, facility_keys, operation_keys, time_keys)
-
-            for key, value in facility_data.items():
-                df.at[idx, key] = value
-            for key, value in period_dict.items():
-                df.at[idx, key] = value
-            for key, value in operation_data.items():
+            time_data = extract_data(data, time_keys)
+            for key, value in time_data.items():
                 df.at[idx, key] = value
 
             print(f"Updated row {idx+1}")
